@@ -38,7 +38,7 @@ VEHICLE = re.compile(r"\b(trucks?|pick-?ups?|chassis|dump\s*(?:truck|body)|plow|
                      r"western\s*star|mack|peterbilt|kenworth|ambulance|brush\s+truck|fire\s+(?:engine|apparatus|truck)|"
                      r"pumper|tanker|rescue\s+(?:truck|vehicle)|bucket\s+truck|aerial|utility\s+(?:truck|body|vehicle)|"
                      r"vehicles?|cab\s*&?\s*chassis|tandem|single\s+axle|backhoe|loader|excavator|grader|"
-                     r"mower|tractor|street\s+sweeper|sweeper|vactor|jet\s*vac|police\s+(?:cruiser|vehicle|interceptor)|"
+                     r"tractor|street\s+sweeper|sweeper|vactor|jet\s*vac|police\s+(?:cruiser|vehicle|interceptor)|"
                      r"suv|van(?!\s+wert)|bus|tahoe|expedition|explorer|interceptor|durango|equinox|colorado|ford\s+ranger|f-?150|gator|utv|"
                      r"side[\s-]by[\s-]side|utility\s+vehicle|motorcycle|transit\s+(?:van|vehicle|connect)|box\s+truck|"
                      r"refuse\s+truck|garbage\s+truck|packer|roll[\s-]?off|hook\s*lift|water\s+truck|flusher|"
@@ -530,7 +530,9 @@ def run_rss(src, max_age_days, seen=None, follow_budget=None):
     head = xml.lstrip()[:200].lower()
     if not (head.startswith("<?xml") or "<rss" in head or "<feed" in head):
         raise RuntimeError("did not return a feed (likely blocked or a consent page)")
-    for it in parse_rss(xml):
+    items = parse_rss(xml)
+    src["_items"] = len(items)
+    for it in items:
         posted = rss_date(it["date"])
         if posted and posted < dt.date.today() - dt.timedelta(days=max_age_days):
             continue
@@ -924,7 +926,8 @@ def run_once(sweep=False):
                 # never announce a bid whose closing date has already passed
                 recs = [r for r in recs if not (r.get("dueDate") and r["dueDate"] < today_str())]
                 found.extend(recs)
-                log(f"{len(recs):3d} matches  {src.get('name') or src['url'][:70]}")
+                log(f"{len(recs):3d} matches  {src.get('name') or src['url'][:70]}"
+                + (f"  ({src['_items']} items read)" if "_items" in src else ""))
             except Exception as e:
                 errors += 1
                 log(f"  ERR  {src.get('name') or src['url'][:70]}: {e}")

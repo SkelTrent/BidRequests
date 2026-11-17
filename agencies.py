@@ -194,6 +194,71 @@ def resolve_websites(ctx, agencies, budget, allow_search, workers=8, search_budg
         log(f"  websites: looked up {len(todo)}, found {found}")
 
 
+def _guesses(a):
+    base = re.sub(r"\b(township|city|village|of)\b", "", a["name"], flags=re.I)
+    slug = re.sub(r"[^a-z0-9]", "", base.lower())
+    dash = re.sub(r"[^a-z0-9]+", "-", base.lower()).strip("-")
+    cty = re.sub(r"[^a-z]", "", (a.get("county") or "").lower())
+    if not slug:
+        return []
+    if a["level"] == "township":
+        stems = [f"{slug}township", f"{slug}twp", f"{dash}-township", f"{slug}township{cty}", f"{slug}twp{cty}",
+                 f"{slug}{cty}township", f"{slug}townshipohio", f"{slug}twpohio", f"{slug}-twp"]
+        tlds = [".org", ".com", ".us", ".gov", ".net"]
+    else:
+        stems = [f"cityof{slug}", f"villageof{slug}", f"{slug}ohio", f"{slug}oh", f"{slug}", f"{slug}village",
+                 f"{slug}-oh", f"cityof{slug}oh", f"villageof{slug}oh"]
+        tlds = [".gov", ".org", ".com", ".us", ".net"]
+    out = [f"https://www.{s}{t}" for s in stems for t in tlds]
+    if a["level"] == "township" and cty:
+        out += [f"https://www.{slug}.{cty}.oh.us", f"https://{slug}twp.{cty}.oh.us"]
+    else:
+        out += [f"https://www.ci.{slug}.oh.us", f"https://www.{slug}.oh.us"]
+    return out
+
+
+def guess_websites(ctx, agencies, workers):
+    """Web search is often blocked from cloud servers, so try the address patterns Ohio governments use.
+    A guess is only accepted if the page names the place (and its county or 'Ohio')."""
+    import socket
+    todo = [k for k, a in agencies.items() if not a.get("website") and not a.get("guessed")]
+    if not todo:
+        return
+
+    def resolves(url):
+        try:
+            socket.setdefaulttimeout(4)
+            socket.gethostbyname(urllib.parse.urlparse(url).netloc)
+            return True
+        except Exception:
+            return False
+
+    def one(k):
+        a = agencies[k]
+        a["guessed"] = _today()
+        name = re.sub(r"\b(city|village)\s+of\s+", "", a["name"], flags=re.I).lower()
+        core = re.sub(r"\b(township|city|village)\b", "", name).strip()
+        for url in _guesses(a):
+            if not resolves(url):
+                continue
+            try:
+                html, final = ctx["fetch"](url, timeout=12)
+            except Exception:
+                continue
+            low = re.sub(r"\s+", " ", html.lower())
+            title = (re.search(r"<title[^>]*>(.*?)</title>", low) or [None, ""])[1]
+            place_ok = core and core in low and (("township" in low) if a["level"] == "township" else True)
+            where_ok = (a.get("county", "").lower() in low) if a.get("county") else ("ohio" in low or ", oh" in low)
+            if place_ok and where_ok and (core in title or core in low[:5000]):
+                a["website"], a["websiteFrom"] = final.rstrip("/"), "guess"
+                return 1
+        return 0
+
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        found = sum(ex.map(one, todo))
+    ctx["log"](f"  websites: tried address patterns for {len(todo)} places, found {found}")
+
+
 # ------------------------------------------------------------------ 3. bid pages
 def find_bid_pages(ctx, agencies, budget, workers):
     todo = [k for k, a in agencies.items() if a.get("website") and "watch" not in a][:budget]
@@ -303,6 +368,7 @@ def run(ctx, cfg, state, seen, follow_budget, web_turn, full=False):
     t0 = time.time()
     resolve_websites(ctx, agencies, big if full else 40, allow_search=web_turn,
                      search_budget=cfg.get("web_searches_per_day", 150))
+    guess_websites(ctx, agencies, workers)
     find_bid_pages(ctx, agencies, big if full else 120, workers)
     recs = watch(ctx, agencies, state, big if full else 250, workers, seen, follow_budget)
     ctx["log"](f"  statewide sweep finished in {int(time.time() - t0)} s")

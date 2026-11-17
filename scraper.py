@@ -395,6 +395,11 @@ def keep(rec, from_feed=False):
     t = rec.get("title", "")
     if JUNK_TITLE.search(t) or GENERIC_TITLE.match(t) or len(t) < 8:
         return False
+    if re.search(r"^(bid\s+postings|current\s+bids|bids?\s*(?:&|and)\s*(?:requests|quotes|rfps)|request\s+for\s+proposals?|"
+                 r"advertisement\s+for\s+bids?|legal\s+notices?|bid\s+opportunities|public\s+notices?)$", t.strip(" .:"), re.I):
+        return False
+    if not (VEHICLE.search(t) or VEHICLE.search(rec.get("summary", "")[:220])):
+        return False
     if PRIVATE_SALE.search(t + " " + rec.get("summary", "")):
         return False
     if rec.get("kind") == "sale" and rec.get("level") not in ("township", "city", "county", "state"):
@@ -436,6 +441,8 @@ class LinkAndHeadingParser(HTMLParser):
     def handle_starttag(self, tag, attrs):
         if tag in ("script", "style", "noscript"):
             self._skip += 1
+        if tag == "base" and not getattr(self, "base", None):
+            self.base = dict(attrs).get("href")
         if tag == "a":
             self._href = dict(attrs).get("href")
             self._buf = []
@@ -465,12 +472,15 @@ def parse_page(html_text, base_url):
     except Exception:
         pass
     full = "".join(p.blocks)
+    base = urllib.parse.urljoin(base_url, getattr(p, "base", None) or "") if getattr(p, "base", None) else base_url
     links = []
     for text, href, pos in p.items:
+        href = (href or "").strip()
         if not href or href.startswith(("#", "mailto:", "tel:", "javascript:")):
             continue
         ctx = clean(full[max(0, pos - len(text) - 60): pos + 320])
-        links.append((text, urllib.parse.urljoin(base_url, href), ctx))
+        url = urllib.parse.quote(urllib.parse.urljoin(base, href), safe=":/?#[]@!$&'()*+,;=%~")
+        links.append((text, url, ctx))
     # text blocks: split page into notice-sized chunks around bid cues
     lines = [clean(x) for x in full.split("\n")]
     lines = [x for x in lines if x]

@@ -1,223 +1,78 @@
-2026-11-17T15:04+00:00 UTC
-[15:02:53]   0 matches  Google News
-[15:02:57]   0 matches  Google News
-[15:02:57]   0 matches  Google News
-[15:02:57]   0 matches  Google News
-[15:03:00]   0 matches  Google News
-[15:03:00]   0 matches  Google News
-[15:03:00]   0 matches  Google News
-[15:03:00]   0 matches  Google News
-[15:03:01]   0 matches  Google News
-[15:03:01]   0 matches  Google News
-[15:03:01]   0 matches  Google News
-[15:03:01]   0 matches  Google News
-[15:03:01]   0 matches  Google News
-[15:03:05]   0 matches  Google News
-[15:03:06]   0 matches  Google News
-[15:03:06]   0 matches  Google News
-[15:03:06]   0 matches  Google News
-[15:03:06]   0 matches  Google News
-[15:03:06]   0 matches  Web search
-[15:03:07]   0 matches  Web search
-[15:03:07]   0 matches  Web search
-[15:03:07]   0 matches  Web search
-[15:03:07]   0 matches  Web search
-[15:03:07]   0 matches  Web search
-[15:03:07]   0 matches  Web search
-[15:03:07]   0 matches  Web search
-[15:03:07]   0 matches  Web search
-[15:03:07]   0 matches  Web search
-[15:03:08]   0 matches  Web search
-[15:03:08]   0 matches  Web search
-[15:03:08]   0 matches  Web search
-[15:03:08]   0 matches  Web search
-[15:03:08]   0 matches  Web search
-[15:03:08]   0 matches  Web search
-[15:03:09]   0 matches  Web search
-[15:03:09]   0 matches  Web search
-[15:03:09]   0 matches  Web search
-[15:03:09]   0 matches  Web search
-[15:03:11]   0 matches  Web search
-[15:03:11]   0 matches  Web search
-[15:03:11]   0 matches  Web search
-[15:03:11]   0 matches  Web search
-[15:03:12]   0 matches  Web search
-[15:03:12]   0 matches  Web search
-[15:03:12]   0 matches  County sweep – Adams
-[15:03:12]   0 matches  County sweep – Adams
-[15:03:12]   0 matches  County sweep – Allen
-[15:03:12]   0 matches  County sweep – Allen
-[15:03:13]   0 matches  County sweep – Ashland
-[15:03:13]   0 matches  County sweep – Ashland
-[15:03:13]   0 matches  County sweep – Ashtabula
-[15:03:13]   0 matches  County sweep – Ashtabula
-[15:03:13]   0 matches  County sweep – Athens
-[15:03:13]   0 matches  County sweep – Athens
-[15:03:14]   0 matches  County sweep – Auglaize
-[15:03:14]   0 matches  County sweep – Auglaize
-[15:03:14]   0 matches  County sweep – Belmont
-[15:03:14]   0 matches  County sweep – Belmont
-[15:03:14]   0 matches  County sweep – Brown
-[15:03:14]   0 matches  County sweep – Brown
-[15:03:15]   1 matches  City of Dayton – Bid Postings
-[15:03:16]   0 matches  City of Beavercreek – Bid RSS
-[15:03:20]   0 matches  Beavercreek Township – Bid RSS
-[15:03:20]   ERR  Reddit search: HTTP Error 403: Forbidden
-[15:03:20]   0 matches  Clark County – Bid RSS
-[15:03:21]   ERR  Dayton Daily News – Legal Notice to Bid: HTTP Error 503: Service Temporarily Unavailable
-[15:03:22]   ERR  Springfield News-Sun – Legal Notice to Bid: HTTP Error 503: Service Temporarily Unavailable
-[15:03:23]   0 matches  Public Notices Ohio (statewide)
-[15:03:25]  17 matches  BidBanana – Ohio fleet vehicles
-[15:03:26]   0 matches  City of Cleveland – Invitations to Bid
-[15:03:27]   1 matches  City of Dayton – Bids page
-[15:03:27]   0 matches  Milan Township
-[15:03:28]   3 matches  York Township (Fulton Co.)
-[15:03:31]   3 matches  Island Creek Township
-[15:03:31]   ERR  West Chester Township: HTTP Error 403: Forbidden
-[15:03:33]   0 matches  Springfield Township (Lucas Co.)
-[15:03:33]   0 matches  Providence Township
-[15:03:35]   1 matches  Painesville Township
-[15:03:36]   0 matches  Claridon Township
-[15:03:37]   0 matches  Stokes Township
-[15:03:38]   0 matches  Prairie Township
-[15:03:39]   0 matches  Jackson Township (Montgomery Co.)
-[15:03:39]   0 matches  Liberty Township (Licking Co.)
-[15:03:41]    follow failed: https://www.toledolegalnews.com/legal_notices/notices_to_bid HTTP Error 429: Too Many Requests
-[15:03:44]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/notice-to-bid-for-city-of-toledo-ohio-luc-mr4019-4-80-douglas-road-reconstruction/article_dd63d20f-5983-459f-be12-02a9cdde46e1.html HTTP Error 429: Too Many Requests
-[15:03:45]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/electronic-proposals-will-be-received-by-the-board-of-springfield-township-trustees-until-10-00/article_efd2007e-af15-4da6-b7af-7e1a31f9da7b.html HTTP Error 429: Too Many Requests
-[15:03:47]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/notice-to-bid-for-the-ability-center-of-greater-toledo/article_0ad5e0eb-c430-4d8a-b547-8b693de22a9a.html HTTP Error 429: Too Many Requests
-[15:03:47]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/notice-to-bid-for-1214-trust-drive-holland-ohio-43528/article_b06be1dd-67bf-4ace-9583-3e600681cd6e.html HTTP Error 429: Too Many Requests
-[15:03:48]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/notice-to-bid-for-university-parks-trail-silica-road-to-centennial-road/article_ff4ec23a-8ae3-4214-8312-fb6b0d8960b1.html HTTP Error 429: Too Many Requests
-[15:03:48]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/public-bid-advertisement-for-the-2026-crack-sealing-program/article_848990d5-c831-4ba7-a3de-84dc8841c28c.html HTTP Error 429: Too Many Requests
-[15:03:48]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/electronic-bids-for-the-city-of-toledo-ohio-luc-var-toledo-sidewalk-replace-will-be/article_6abba1f7-6cb0-4f76-ad48-6d5063d834ac.html HTTP Error 429: Too Many Requests
-[15:03:49]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/toledo-municipal-court-seeking-bids-for-female-residential-treatment/article_4f15cf24-662d-4328-86af-9829d2c772c7.html HTTP Error 429: Too Many Requests
-[15:03:50]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/notice-to-bid-for-the-2026-springfield-township-crack-sealing-program/article_72adda30-a91c-4d18-b4f0-fbfc473d82eb.html HTTP Error 429: Too Many Requests
-[15:03:51]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/notice-to-bid-for-the-2026-crack-sealing-program/article_55f32ec3-f0d7-4d44-a1f1-5edf02f9104c.html HTTP Error 429: Too Many Requests
-[15:03:51]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/the-toledo-zoo-is-soliciting-sealed-proposals-for-the-perimeter-lighting-installation-project/article_90d0053c-0c74-4d18-b301-9817151f68f6.html HTTP Error 429: Too Many Requests
-[15:03:51]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/electronic-bids-will-be-received-by-the-toledo-lucas-county-port-authority-for-all-labor/article_34317d7f-e278-400e-82e5-50af0411f595.html HTTP Error 429: Too Many Requests
-[15:03:52]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/electronic-bids-will-be-received-by-the-toledo-lucas-county-port-authority-for-all-labor/article_5912a682-26a0-43fd-a8fb-fdcf8b2187a2.html HTTP Error 429: Too Many Requests
-[15:03:53]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/notice-to-bid-for-the-city-of-toledo-ohio-luc-toledo-sidewalk-gaps/article_92153036-f55d-4ae9-975c-21332f08566f.html HTTP Error 429: Too Many Requests
-[15:03:54]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/notice-to-bid-for-the-2026-harding-township-o-p-w-c-resurfacing-project/article_c0a48b79-a42d-49f4-8219-a4c817956135.html HTTP Error 429: Too Many Requests
-[15:03:54]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/electronic-bids-for-the-city-of-toledo-ohio-luc-sr-184-9-9-alexis-road/article_19300bf4-1edd-4fb8-ba1f-3faf980546c7.html HTTP Error 429: Too Many Requests
-[15:03:54]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/notice-to-bid-for-the-2026-thin-overlay-project/article_f3fc8f38-801c-4d64-81e9-fec8067769cd.html HTTP Error 429: Too Many Requests
-[15:03:56]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/notice-to-bid-for-the-2026-o-p-w-c-resurfacing-project/article_3d99ecea-7dd5-4a62-8c6e-8169dbff22a8.html HTTP Error 429: Too Many Requests
-[15:03:56]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/notice-to-bid-for-the-2026-monclova-township-o-p-w-c-resurfacing-project/article_c2f1baab-eeb6-4eca-8b43-d03d7939eb05.html HTTP Error 429: Too Many Requests
-[15:03:56]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/notice-to-bid-for-the-2026-bridge-repair-program-bancroft-street-bridge-95/article_5086c7a1-e3ae-4f14-8c15-eea2986f0c62.html HTTP Error 429: Too Many Requests
-[15:03:56]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/notice-to-bid-for-the-monclova-road-and-wilkins-road-intersection-roundabout-project-pid-116687/article_4c58cca0-1111-4327-84ec-2cf1099fb46a.html HTTP Error 429: Too Many Requests
-[15:03:57]   1 matches  Toledo Legal News – Notices to Bid
-[15:03:57]   0 matches  The Daily Standard (Celina) – Bid notices
-[15:03:58]   0 matches  Mount Vernon News – Public notices
-[15:03:58]   0 matches  City of Mentor
-[15:04:00]  24 matches  City of Lima – Purchasing
-[15:04:00]   0 matches  City of Beavercreek – Bids
-[15:04:02]   0 matches  Beavercreek Township – Bids
-[15:04:05]   0 matches  Randolph Township (Portage Co.)
-[15:04:06]   2 matches  Jackson Township (Franklin Co.)
-[15:04:08]   0 matches  Huron County Engineer – Bids
-[15:04:08]   0 matches  Jackson County – Bids
-[15:04:09]  13 matches  Allen County Commissioners – Legal notices
-[15:04:09]   0 matches  Franklin County – Bids
-[15:04:10]  46 matches  NoticeRegistry – Ohio truck notices
-[15:04:10]   0 matches  NoticeRegistry – Ohio bid notices
-[15:04:13]   0 matches  Ohio Township Association – For Sale
-[15:04:14]   0 matches  Clark County – Bids
-[15:04:15]   0 matches  Fairfield County – Bids
-[15:04:17]   0 matches  Harrison County Engineer – Bids
-[15:04:20]   0 matches  City of Troy – Bid Express
-[15:04:22]   7 matches  Ohio Turnpike – Bid invitations
-[15:04:22]   ERR  Montgomery County – Bids: HTTP Error 403: Forbidden
-[15:04:24] 155 matches  Cincinnati – Business opportunities
-[15:04:25]   5 matches  BidBanana – Ohio (all)
-[15:04:26]   portals: read 0 of 1 OpenGov/Bonfire agencies
-[15:04:26]   0 matches  OpenGov / Bonfire portals
-[15:04:26] Done: 90 new, 120 total, 5 source errors
-[15:04:26]   NEW: Leaf Collection Service | City of Dayton | 
-[15:04:26]   NEW: IFB 26064Z One Ton 4x4 Pickup with Liftgate (Optional Snowplow and Spreader | City of Dayton | 2026-11-27
-[15:04:26]   NEW: 714 - Trucks for K9 Unit | City of Cleveland | 2026-11-30
-[15:04:26]   NEW: 573 - Miscellaneous Parts & Repairs for Stellantis Vehicles | City of Cleveland | 
-[15:04:26]   NEW: 574 - Chevrolet Car & Truck Replacement Parts and Labor | City of Cleveland | 
-[15:04:26]   NEW: 112-26 - Purchase of Ford Light & Medium Duty Truck Parts & Labor | City of Cleveland | 
-[15:04:26]   NEW: Purchase One (1) Bucket Truck. | City of Toledo | 
-[15:04:26]   NEW: AUTO, TRUCK PARTS & SUPPLIES | BidBanana – Ohio fleet vehicles | 
-[15:04:26]   NEW: 25--TOWBAR,MOTOR VEHICLE | BidBanana – Ohio fleet vehicles | 
-[15:04:26]   NEW: 25--STAKE,VEHICLE BODY | BidBanana – Ohio fleet vehicles | 
-[15:04:26]   NEW: INFORMAL RFP Stake Body Truck | Cuyahoga County | 
-[15:04:26]   NEW: New 2021 Chevy Tahoe K9 SUV or Equivalent | Cuyahoga County | 
-[15:04:26]   NEW: Closed Ohio fleet vehicles and parts bids | City of Dayton | 
-[15:04:26]   NEW: City of Cleveland is seeking competitive sealed bids for the purchase of Ford‑brand light  | City of Cleveland | 
-[15:04:26]   NEW: A market‑basket of automotive and truck parts and supplies to be… | BidBanana – Ohio fleet vehicles | 
-[15:04:26]   NEW: 2026 Bid Postings | York Township | 
-[15:04:26]   NEW: (Delta Community Fire Department) IS REQUESTING BIDS FOR THE FOLLOWING: | York Township | 
-[15:04:26]   NEW: SEALED BIDS MUST BE IN THE TOWNSHIP OFFICE NO LATER THAN 12:00PM ON October 14, 2026. | York Township | 
-[15:04:26]   NEW: Bids & Quotes | Island Creek Township | 
-[15:04:26]   NEW: A CASE 580SN CONSTRUCTION KING BACKHOE LOADER OR EQUIVALENT (equipment spec available) | Island Creek Township | 
-[15:04:26]   NEW: Sealed bids will be received by the Board of Trustees, of Island Creek Township, Jefferson | Island Creek Township | 
-[15:04:26]   NEW: Legal Notice to bidders | Painesville Township | 
-[15:04:26]   NEW: PROVIDENCE TOWNSHIP Fire and Rescue Department Invitation to Bid | Providence Township | 2026-11-18
-[15:04:26]   NEW: Vehicle Maintenance 2027-2029 Bid Tab | City of Lima | 
-[15:04:26]   NEW: Med Hvy Duty Truck Maintenance Bid Tab 2027-2029 | City of Lima | 
-[15:04:26]   NEW: Three Quarter Ton Truck with Service Body 1-2026 | City of Lima | 
-[15:04:26]   NEW: LFD Bid Tab Direct Capture Vehicle Exhaust Removal System 2026 | City of Lima | 
-[15:04:26]   NEW: SWAT Van 3-2024 Bid Tab | City of Lima | 
-[15:04:26]   NEW: Mid Sized SUV 11-2022 Opening Bid Tab | City of Lima | 
-[15:04:26]   NEW: Mid Sized SUV 4WD 2-7-2023 Bid Opening BID TAB | City of Lima | 
-[15:04:26]   NEW: Mid Sized SUV 4WD 3-7-23 Opening Bid Tab | City of Lima | 
-[15:04:26]   NEW: Utilities 3/4 TON 4WD Truck Bid Tab | City of Lima | 
-[15:04:26]   NEW: Utility Vehicles-4WD (1) 2WD (1) Bid Tab | City of Lima | 
-[15:04:26]   NEW: Heavy Duty 4WD Truck for Utilities Bid Tab | City of Lima | 
-[15:04:26]   NEW: Mid Sized SUV 4x4-Utilities Bid Tab | City of Lima | 
-[15:04:26]   NEW: 2020 FS Cab and Chassis w. Utility Bed Bid Tab | City of Lima | 
-[15:04:26]   NEW: 2020 FS-2 Crew Trucks w. Utility Bed and 2WD Bid Tab | City of Lima | 
-[15:04:26]   NEW: Utility Body Pick-Up Trucks for PW 2021 Bid Tab | City of Lima | 
-[15:04:26]   NEW: 2 EXTENDED CAB TRUCKS 4WD-STREETS 2021 Bid Tab | City of Lima | 
-[15:04:26]   NEW: CAB AND CHASSIS TRUCK WITH DUMP BODY BID TAB | City of Lima | 
-[15:04:26]   NEW: 4WD Heavy Duty Truck for FS | City of Lima | 
-[15:04:26]   NEW: Vehicle Maintenance for 2021-2023 Bid Tab | City of Lima | 
-[15:04:26]   NEW: 2021-2023 MED and HVY Duty Truck Maintenance Bid Tab | City of Lima | 
-[15:04:26]   NEW: 2020 Ford Interceptor Utility Vehicle or Equivalent Bid Tab | City of Lima | 
-[15:04:26]   NEW: 2019 Two Full Size Crew Truck Bid Tabulation | City of Lima | 
-[15:04:26]   NEW: 2019 Full Size Utility Vehicle Bid Tabulation | City of Lima | 
-[15:04:26]   NEW: 2019 4 Wheel Drive Pickup with Utility Bed Bid Tabulation | City of Lima | 
-[15:04:26]   NEW: A Direct Capture Vehicle Exhaust Removal System | Jackson Township | 
-[15:04:26]   NEW: Bid Opening-EOD Response Vehicle-July 7, 2026 at 1:00 p.m. (View Legal Notice) | Allen County Commissioners | 
-[15:04:26]   NEW: Bid Opening – One (1) New 2024 5500 Chassis Regular Cab 4×4 Heavy Duty/with Dump Body Pack | Allen County Commissioners | 
-[15:04:26]   NEW: Bid Opening-Purchase of 2014 Micro Bus MBII -March 8, 2023 at 11:00 a.m. (View Legal Notic | Allen County Commissioners | 
-[15:04:26]   NEW: Bid Opening – 2020 Van Wert County Radio Project Re-bid via QuestCDN Project eBidDoc #8026 | Allen County Commissioners | 2027-08-17
-[15:04:26]   NEW: Bid Opening – 2020 Van Wert County Radio Project via QuestCDN Project eBidDoc #7967589 – A | Allen County Commissioners | 2027-08-17
-[15:04:26]   NEW: (View Disclaimer/Aerial) | Allen County Commissioners | 
-[15:04:26]   NEW: Bid Opening – Radio Project Rebid – Van Wert, Paulding and Ft. Recovery via QuestCDN.com – | Allen County Commissioners | 
-[15:04:26]   NEW: Bid Opening – Allen County S.W.A.T. Regional Emergency Rescue Vehicle – Re-bid – May 14, 2 | Allen County Commissioners | 
-[15:04:26]   NEW: Bid Opening – S.W.A.T. Regional Emergency Rescue Vehicle – April 18, 2019 at 11:00 a.m. (V | Allen County Commissioners | 
-[15:04:26]   NEW: 016 Van Wert County Radio Project Re-bid – March 19, 2019 at 11:00 a.m. (View Legal Notice | Allen County Commissioners | 
-[15:04:26]   NEW: Bid Opening 2016 Van Wert County Radio Project Re-bid – January 29, 2019 at 11:00 a.m. (Vi | Allen County Commissioners | 
-[15:04:26]   NEW: Bid Opening – 2016 Van Wert County Radio Project – December 19, 2018 at 11:15 a.m. (View L | Allen County Commissioners | 
-[15:04:26]   NEW: Sale of property – 519 N. Jackson Street, Lima, Ohio, September 29, 2020 at 11:00 a.m. (Vi | Allen County Commissioners | 
-[15:04:26]   NEW: A 2011 International H truck with a dump body, auger, and snowplow | NoticeRegistry – Ohio truck notices | 2026-12-07
-[15:04:26]   NEW: Wilson National LLC is soliciting consignments of tractors, farm equipment, trucks, traile | NoticeRegistry – Ohio truck notices | 2026-11-20
-[15:04:26]   NEW: Two procurements: a one-ton extended-cab 4x4 service truck with aluminum utility body (IFB | NoticeRegistry – Ohio truck notices | 2026-11-20
-[15:04:26]   NEW: A 2012 Chevrolet 4x4 truck with tool boxes being sold as-is | Village of West Liberty | 
-[15:04:26]   NEW: One 2020-or-newer rollback truck | NoticeCincinnati Monroe County | 
-[15:04:26]   NEW: A 2006 Ford F550 truck (27,276 miles) to be received | NoticeRegistry – Ohio truck notices | 
-[15:04:26]   NEW: Public sale of a truck on May 14, 2026. | NoticeRegistry – Ohio truck notices | 
-[15:04:26]   NEW: Online auction for surplus fire truck ends on May 5, 2026. | NoticeRegistry – Ohio truck notices | 
-[15:04:26]   NEW: Public sale of a 2020 Peterbilt truck on April 28, 2026. | NoticeRegistry – Ohio truck notices | 
-[15:04:26]   NEW: Liberty Twp seeks bids for a new dump truck by April 25, 2026. | NoticeRegistry – Ohio truck notices | 
-[15:04:26]   NEW: Marshall Township Fire Department is accepting bids for a 1977 Ford F250 truck. | Marshall Township | 
-[15:04:26]   NEW: Public sale of a 2017 KW T680 truck on April 20, 2026. | NoticeRegistry – Ohio truck notices | 
-[15:04:26]   NEW: Bids for dump truck body due by April 17, 2026. | NoticeRegistry – Ohio truck notices | 
-[15:04:26]   NEW: Bids accepted for a 2014 F550 dump truck until March 11, 2026. | NoticeRegistry – Ohio truck notices | 
-[15:04:26]   NEW: Olive Township Trustees seek bids for a midsize diesel truck. | Olive Township | 
-[15:04:26]   NEW: Private sale of a 2019 Volvo truck by written bid. | Village of Mantua | 
-[15:04:26]   NEW: Bids for a new fire truck are being accepted until March 13, 2026. | Village of Mantua | 
-[15:04:26]   NEW: Bids for a bucket truck will be accepted until March 6, 2026. | Village of Mantua | 
-[15:04:26]   NEW: The Village of Mantua seeks quotes for a truck purchase by March 2, 2026. | Village of Mantua | 
-[15:04:26]   NEW: Tour Bus Pre-Notification | Ohio Turnpike Commission | 
-[15:04:26]   NEW: Electric Vehicle Charging | Ohio Turnpike Commission | 
-[15:04:26]   NEW: Aerial Utility Crossing Permit Form | Ohio Turnpike Commission | 
-[15:04:26]   NEW: Request for Proposals | City of Cincinnati | 
-[15:04:26]   NEW: Invitation to Bid | City of Cincinnati | 
-[15:04:26]   NEW: RFQ034071 - WATERSHED--RANGER BOOTS | City of Columbus | 
-[15:04:26]   NEW: RFQ034092 - Golf-Greens Mower | City of Columbus | 2026-12-10
-[15:04:26]   NEW: RFQ034094 - Golf-Contour Rotary Mower | City of Columbus | 2026-12-10
-[15:04:26]   NEW: Synovia Solutions (Here Comes the Bus App) | BidBanana – Ohio (all) | 
-[15:04:26]   NEW: The City of Cleveland is soliciting sealed bids for the supply of custom‑built hydraulic c | City of Cleveland | 
+2026-11-17T15:11+00:00 UTC
+[15:10:49]   0 matches  Google News
+[15:10:49]   0 matches  Google News
+[15:10:49]   0 matches  Google News
+[15:10:49]   0 matches  Google News
+[15:10:50]   0 matches  Google News
+[15:10:50]   0 matches  Google News
+[15:10:50]   0 matches  Google News
+[15:10:50]   0 matches  Google News
+[15:10:51]   0 matches  Google News
+[15:10:51]   ERR  Google News: HTTP Error 429: Too Many Requests
+[15:10:51]   0 matches  Google News
+[15:10:52]   0 matches  Google News
+[15:10:52]   0 matches  Google News
+[15:10:52]   0 matches  Google News
+[15:10:52]   0 matches  Google News
+[15:10:53]   0 matches  Google News
+[15:10:53]   0 matches  Google News
+[15:10:53]   0 matches  Google News
+[15:10:53]   0 matches  County sweep – Butler
+[15:10:54]   0 matches  County sweep – Carroll
+[15:10:54]   0 matches  County sweep – Champaign
+[15:10:54]   0 matches  County sweep – Clark
+[15:10:55]   0 matches  County sweep – Clermont
+[15:10:55]   0 matches  County sweep – Clinton
+[15:10:55]   0 matches  County sweep – Columbiana
+[15:10:55]   0 matches  County sweep – Coshocton
+[15:10:56]   1 matches  City of Dayton – Bid Postings
+[15:10:57]   0 matches  City of Beavercreek – Bid RSS
+[15:10:58]   0 matches  Beavercreek Township – Bid RSS
+[15:10:58]   ERR  Reddit search: HTTP Error 403: Forbidden
+[15:10:59]   0 matches  Clark County – Bid RSS
+[15:10:59]   ERR  Dayton Daily News – Legal Notice to Bid: HTTP Error 503: Service Temporarily Unavailable
+[15:11:00]   ERR  Springfield News-Sun – Legal Notice to Bid: HTTP Error 503: Service Temporarily Unavailable
+[15:11:00]   0 matches  Public Notices Ohio (statewide)
+[15:11:02]  17 matches  BidBanana – Ohio fleet vehicles
+[15:11:02]   0 matches  City of Cleveland – Invitations to Bid
+[15:11:06]   1 matches  City of Dayton – Bids page
+[15:11:06]   0 matches  Milan Township
+[15:11:07]   3 matches  York Township (Fulton Co.)
+[15:11:07]   2 matches  Island Creek Township
+[15:11:08]   ERR  West Chester Township: HTTP Error 403: Forbidden
+[15:11:09]   0 matches  Springfield Township (Lucas Co.)
+[15:11:10]   0 matches  Providence Township
+[15:11:11]   0 matches  Painesville Township
+[15:11:11]   0 matches  Claridon Township
+[15:11:13]   0 matches  Stokes Township
+[15:11:16]   0 matches  Prairie Township
+[15:11:17]   0 matches  Jackson Township (Montgomery Co.)
+[15:11:18]   0 matches  Liberty Township (Licking Co.)
+[15:11:19]    follow failed: https://www.toledolegalnews.com/legal_notices/bid/electronic-bids-for-the-city-of-toledo-ohio-luc-var-toledo-srts-fy24-safe-routes/article_cadd9ebb-ffc1-47a2-8883-e382b3b4aa85.html HTTP Error 429: Too Many Requests
+[15:11:19]   0 matches  Toledo Legal News – Notices to Bid
+[15:11:19]   0 matches  The Daily Standard (Celina) – Bid notices
+[15:11:19]   0 matches  Mount Vernon News – Public notices
+[15:11:20]   0 matches  City of Mentor
+[15:11:21]  24 matches  City of Lima – Purchasing
+[15:11:22]   0 matches  City of Beavercreek – Bids
+[15:11:23]   0 matches  Beavercreek Township – Bids
+[15:11:24]   0 matches  Randolph Township (Portage Co.)
+[15:11:25]   2 matches  Jackson Township (Franklin Co.)
+[15:11:25]   0 matches  Huron County Engineer – Bids
+[15:11:26]   0 matches  Jackson County – Bids
+[15:11:26]   7 matches  Allen County Commissioners – Legal notices
+[15:11:27]   0 matches  Franklin County – Bids
+[15:11:36]  29 matches  NoticeRegistry – Ohio truck notices
+[15:11:37]   0 matches  NoticeRegistry – Ohio bid notices
+[15:11:38]   0 matches  Ohio Township Association – For Sale
+[15:11:39]   0 matches  Clark County – Bids
+[15:11:40]   0 matches  Fairfield County – Bids
+[15:11:41]   0 matches  Harrison County Engineer – Bids
+[15:11:42]   0 matches  City of Troy – Bid Express
+[15:11:43]   7 matches  Ohio Turnpike – Bid invitations
+[15:11:43]   ERR  Montgomery County – Bids: HTTP Error 403: Forbidden
+[15:11:44] 155 matches  Cincinnati – Business opportunities
+[15:11:45]   4 matches  BidBanana – Ohio (all)
+[15:11:46]   portals: read 0 of 1 OpenGov/Bonfire agencies
+[15:11:46]   0 matches  OpenGov / Bonfire portals
+[15:11:46] Done: 0 new, 34 total, 6 source errors

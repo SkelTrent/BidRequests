@@ -39,7 +39,7 @@ VEHICLE = re.compile(r"\b(trucks?|pick-?ups?|chassis|dump\s*(?:truck|body)|plow|
                      r"pumper|tanker|rescue\s+(?:truck|vehicle)|bucket\s+truck|aerial|utility\s+(?:truck|body|vehicle)|"
                      r"vehicles?|cab\s*&?\s*chassis|tandem|single\s+axle|backhoe|loader|excavator|grader|"
                      r"mower|tractor|street\s+sweeper|sweeper|vactor|jet\s*vac|police\s+(?:cruiser|vehicle|interceptor)|"
-                     r"suv|van|bus|tahoe|expedition|explorer|interceptor|durango|equinox|colorado|ranger|f-?150|gator|utv|"
+                     r"suv|van(?!\s+wert)|bus|tahoe|expedition|explorer|interceptor|durango|equinox|colorado|ford\s+ranger|f-?150|gator|utv|"
                      r"side[\s-]by[\s-]side|utility\s+vehicle|motorcycle|transit\s+(?:van|vehicle|connect)|box\s+truck|"
                      r"refuse\s+truck|garbage\s+truck|packer|roll[\s-]?off|hook\s*lift|water\s+truck|flusher|"
                      r"skid\s*steer|dozer|truck\s+tractor|semi[\s-]?tractor)\b", re.I)
@@ -49,6 +49,12 @@ SALE = re.compile(r"\b(surplus|for\s+sale|sale\s+of|sell(?:ing)?|auction|govdeal
                   r"no\s+longer\s+needed|as[\s-]is)\b", re.I)
 NOISE = re.compile(r"\b(toy|diecast|die-cast|collectible|lyrics|nfl|nba|recipe|obituar|crash|accident|police\s+said|"
                    r"food\s+truck\s+festival|bidding\s+war|bidens?)\b", re.I)
+JUNK_TITLE = re.compile(r"\b(bid\s*tabs?|tabulations?|bid\s+results?|award(?:ed|s)?|minutes|maintenance|repairs?|"
+                        r"parts|labor|services?(?!\s+(?:body|truck))|charging|software|app\b|collection|exhaust|washing|"
+                        r"cleaning|rentals?|leas(?:e|ing)\s+of\s+(?:space|property)|towing|fuel|boots|uniforms?|tires?|"
+                        r"insurance|consignments?|real\s+estate|property|pre-?notification|training)\b", re.I)
+PRIVATE_SALE = re.compile(r"\b(public\s+sale|private\s+sale|sheriff'?s?\s+sale|repossess|lien|storage\s+lien|"
+                          r"consignment|auction(?:eers?)?\s+(?:llc|inc|company))\b", re.I)
 NOT_VEHICLE_CONTEXT = re.compile(r"\b(trash|refuse\s+collection|mowing|lawn|paving|resurfacing|culvert|curb|"
                                  r"roof|hvac|concrete|demolition|waterline|sewer|asphalt)\b", re.I)
 
@@ -170,6 +176,44 @@ def norm_title(s):
     return re.sub(r"[^a-z0-9]+", " ", (s or "").lower()).strip()
 
 
+BIDNUM = re.compile(r"\b(?=[A-Z0-9-]*\d)[A-Z]{0,4}-?\d{2,}[A-Z0-9-]*\b")
+STOP = set("the a an of for and to with new one two three bid bids purchase notice invitation ohio 2026 2027 truck trucks".split())
+
+
+MODELNUM = re.compile(r"^(F-?\d{3}|[1-5]500|[1-9]\d{3,4}|\d{1,2},\d{3}|\d{3})$", re.I)
+
+
+def bid_numbers(t):
+    """Bid/solicitation numbers like 26064Z, RFB-131-26, SRC0000039481 (not model numbers like F-550 or 2500)."""
+    out = set()
+    for x in BIDNUM.findall(t or ""):
+        if re.fullmatch(r"20\d\d", x) or len(x) < 3:
+            continue
+        if MODELNUM.match(x) and not re.search(r"[A-Z]", x.replace("F-", "").replace("F", ""), re.I):
+            continue
+        out.add(x.upper())
+    return out
+
+
+def words(t):
+    return {w for w in re.findall(r"[a-z0-9]+", (t or "").lower()) if w not in STOP and len(w) > 1}
+
+
+def is_duplicate(rec, existing):
+    nums, ws = bid_numbers(rec.get("title")), words(rec.get("title"))
+    for b in existing:
+        if nums and nums & bid_numbers(b.get("title")):
+            return True
+        bw = words(b.get("title"))
+        if ws and bw and (ws <= bw or bw <= ws) and min(len(ws), len(bw)) >= 3 and \
+                rec.get("dueDate") and rec.get("dueDate") == b.get("dueDate"):
+            return True
+        if ws and bw and len(ws & bw) / len(ws | bw) >= 0.6 and \
+                (rec.get("dueDate") == b.get("dueDate") or rec.get("county") == b.get("county")):
+            return True
+    return False
+
+
 def make_id(url, title):
     return hashlib.sha1((norm_title(title) + "|" + (url or "")).encode()).hexdigest()[:14]
 
@@ -180,16 +224,22 @@ def parse_date(m, ref=None):
         if m.group(1):
             mon = MONTHS[m.group(1)[:3].lower()]
             day = int(m.group(2))
-            yr = int(m.group(3)) if m.group(3) else ref.year
-            d = dt.date(yr, mon, day)
-            if not m.group(3) and d < ref - dt.timedelta(days=60):
-                d = dt.date(yr + 1, mon, day)
-            return d
+            if m.group(3):
+                return dt.date(int(m.group(3)), mon, day)
+            # no year given: only trust it if it lands within a few months of today
+            for yr in (ref.year, ref.year + 1):
+                d = dt.date(yr, mon, day)
+                if ref - dt.timedelta(days=60) <= d <= ref + dt.timedelta(days=120):
+                    return d
+            return None
         mo, day, yr = int(m.group(4)), int(m.group(5)), int(m.group(6))
         yr = yr + 2000 if yr < 100 else yr
         return dt.date(yr, mo, day)
     except (ValueError, KeyError):
         return None
+
+
+BY_DATE = re.compile(r"\b(?:by|until|before|through)\s+(?:\w+day,?\s+)?(" + DATE_WORDS + r"\.?\s+\d{1,2}(?:st|nd|rd|th)?,?\s*(?:\d{4})?|\d{1,2}/\d{1,2}/\d{2,4})", re.I)
 
 
 def find_due(text, posted=None):
@@ -204,6 +254,13 @@ def find_due(text, posted=None):
                 t = TIME_RE.search(text[max(0, cue.start() - 40): cue.end() + 160])
                 best = (d.isoformat(), t.group(1).upper().replace(".", "") if t else "")
                 break
+    if not best:
+        m0 = BY_DATE.search(text)
+        if m0:
+            m = DATE_RE.search(m0.group(1))
+            d = parse_date(m) if m else None
+            if d:
+                best = (d.isoformat(), "")
     return best or ("", "")
 
 
@@ -304,7 +361,7 @@ def build_record(title, url, text, src, posted=None):
     full = f"{title}. {text}"
     posted = posted or find_posted(full)
     posted_d = posted or dt.date.today()
-    agency = src.get("agency") or find_agency(full) or src.get("name", "")
+    agency = src.get("agency") or find_agency(full) or ""
     m = COUNTY_RE.search(full)
     county = (m.group(1).title() if m else "") or src.get("county") or ""
     level = src.get("level") or classify_level(agency, full)
@@ -331,6 +388,23 @@ def build_record(title, url, text, src, posted=None):
     if src.get("check_ohio") and not OHIO_RE.search(full):
         rec["unconfirmedLocation"] = True
     return {k: v for k, v in rec.items() if v not in ("", [], None)}
+
+
+def keep(rec, from_feed=False):
+    """Final quality gate for every record before it is saved."""
+    t = rec.get("title", "")
+    if JUNK_TITLE.search(t) or GENERIC_TITLE.match(t) or len(t) < 8:
+        return False
+    if PRIVATE_SALE.search(t + " " + rec.get("summary", "")):
+        return False
+    if rec.get("kind") == "sale" and rec.get("level") not in ("township", "city", "county", "state"):
+        return False
+    today = today_str()
+    if rec.get("dueDate"):
+        return rec["dueDate"] >= today
+    # no closing date: only keep it if it is recent
+    cutoff = (dt.date.today() - dt.timedelta(days=21 if from_feed else 30)).isoformat()
+    return bool(rec.get("postedDate")) and rec["postedDate"] >= cutoff
 
 
 def relevant(title, text, src):
@@ -443,6 +517,9 @@ def run_rss(src, max_age_days, seen=None, follow_budget=None):
     follow_budget = follow_budget or [0]
     is_web = "bing.com" in src["url"]
     xml, _ = fetch(src["url"])
+    head = xml.lstrip()[:200].lower()
+    if not (head.startswith("<?xml") or "<rss" in head or "<feed" in head):
+        raise RuntimeError("did not return a feed (likely blocked or a consent page)")
     for it in parse_rss(xml):
         posted = rss_date(it["date"])
         if posted and posted < dt.date.today() - dt.timedelta(days=max_age_days):
@@ -886,11 +963,14 @@ def run_once(sweep=False):
             errors += 1
             log(f"  ERR  Agency websites: {e}")
 
+    found = [r for r in found if keep(r, from_feed="Google News" in r.get("source", "") or "Web search" in r.get("source", ""))]
     new = []
     for r in found:
         r["id"] = make_id(r.get("url"), r["title"])
         key = (norm_title(r.get("agency")), norm_title(r["title"]))
         if r["id"] in ids or key in titles or (r.get("url") in urls and "#" not in r.get("url", "")):
+            continue
+        if is_duplicate(r, bids):
             continue
         ids.add(r["id"]); titles.add(key); urls.add(r.get("url"))
         r["firstSeen"] = now().isoformat(timespec="minutes")

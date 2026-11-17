@@ -1,0 +1,475 @@
+{
+ "_help": "Add any bid page or RSS feed here. 'pages' = web pages to watch (township/city 'Bids' or 'Legal notices' pages). Set follow:true to open each bid link and read the full notice. 'rss' = RSS feeds (Google Alerts RSS, CivicPlus 'Bid Postings' RSS, etc). Optional fields: agency, level (township|city|county|state), county, city, bid_page (true = everything on this page is a bid). county_sweep checks per_run counties each run, cycling through all 88.",
+ "max_age_days": 21,
+ "max_follows_per_run": 60,
+ "google_news_queries": [
+  "Ohio township \"notice to bidders\" truck",
+  "Ohio \"sealed bids\" \"dump truck\"",
+  "Ohio \"invitation to bid\" truck chassis",
+  "Ohio township bids \"plow truck\"",
+  "Ohio bids \"F-550\" OR \"F-350\" OR \"F-450\" OR \"F-250\"",
+  "Ohio village \"sealed bids\" truck OR vehicle",
+  "Ohio city \"invitation to bid\" pickup truck",
+  "Ohio \"county engineer\" bids truck OR chassis",
+  "Ohio \"county commissioners\" bids vehicle OR truck",
+  "Ohio fire department bids ambulance OR \"brush truck\" OR pumper",
+  "Ohio \"legal notice\" bids vehicle trustees",
+  "Ohio trustees \"advertise for bids\" truck",
+  "Ohio bids \"cab and chassis\" OR \"tandem axle\" OR \"single axle\"",
+  "Ohio bids \"bucket truck\" OR \"utility truck\" OR \"service body\"",
+  "Ohio bids backhoe OR loader OR mower OR tractor township",
+  "Ohio police cruiser OR \"police vehicle\" bids city",
+  "OhioBuys vehicle bid truck",
+  "Ohio \"invitation to bid\" SUV OR Tahoe OR Explorer police"
+ ],
+ "rss": [
+  {
+   "name": "City of Dayton \u2013 Bid Postings",
+   "url": "https://www.daytonohio.gov/RSSFeed.aspx?ModID=76&CID=All-bids.xml",
+   "agency": "City of Dayton",
+   "level": "city",
+   "county": "Montgomery",
+   "city": "Dayton",
+   "bid_page": true
+  },
+  {
+   "name": "City of Beavercreek \u2013 Bid RSS",
+   "url": "https://beavercreekohio.gov/RSSFeed.aspx?ModID=76&CID=All-bids.xml",
+   "agency": "City of Beavercreek",
+   "level": "city",
+   "county": "Greene",
+   "bid_page": true
+  },
+  {
+   "name": "Beavercreek Township \u2013 Bid RSS",
+   "url": "http://beavercreektownship.org/RSSFeed.aspx?ModID=76&CID=All-bids.xml",
+   "agency": "Beavercreek Township",
+   "level": "township",
+   "county": "Greene",
+   "bid_page": true
+  },
+  {
+   "name": "Reddit search",
+   "url": "https://www.reddit.com/search.rss?q=Ohio%20township%20bid%20truck&sort=new",
+   "check_ohio": true
+  },
+  {
+   "name": "Clark County \u2013 Bid RSS",
+   "url": "https://clarkcountyohio.gov/RSSFeed.aspx?ModID=76&CID=All-bids.xml",
+   "agency": "Clark County",
+   "level": "county",
+   "county": "Clark",
+   "bid_page": true
+  }
+ ],
+ "pages": [
+  {
+   "name": "Dayton Daily News \u2013 Legal Notice to Bid",
+   "url": "https://classifieds.daytondailynews.com/marketplace/category/public-notices/legal-notice-to-bid",
+   "follow": true,
+   "bid_page": true
+  },
+  {
+   "name": "Springfield News-Sun \u2013 Legal Notice to Bid",
+   "url": "https://classifieds.springfieldnewssun.com/ads/public-notices/legal-notice-to-bid",
+   "follow": true,
+   "bid_page": true
+  },
+  {
+   "name": "Public Notices Ohio (statewide)",
+   "url": "https://www.publicnoticesohio.com/",
+   "follow": true
+  },
+  {
+   "name": "BidBanana \u2013 Ohio fleet vehicles",
+   "url": "https://bidbanana.com/ohio-vehicle-parts-purchasing-bids-rfp",
+   "bid_page": true
+  },
+  {
+   "name": "City of Cleveland \u2013 Invitations to Bid",
+   "url": "https://www.clevelandohio.gov/city-hall/departments/finance/invitations-bid",
+   "agency": "City of Cleveland",
+   "level": "city",
+   "county": "Cuyahoga",
+   "city": "Cleveland",
+   "bid_page": true
+  },
+  {
+   "name": "City of Dayton \u2013 Bids page",
+   "url": "https://www.daytonohio.gov/Bids.aspx",
+   "agency": "City of Dayton",
+   "level": "city",
+   "county": "Montgomery",
+   "city": "Dayton",
+   "bid_page": true
+  },
+  {
+   "name": "Milan Township",
+   "url": "https://milantwp.org/bid-notice/",
+   "agency": "Milan Township",
+   "level": "township",
+   "county": "Erie",
+   "city": "Milan",
+   "bid_page": true
+  },
+  {
+   "name": "York Township (Fulton Co.)",
+   "url": "https://www.yorktwpfcoh.gov/bid-postings/",
+   "agency": "York Township",
+   "level": "township",
+   "county": "Fulton",
+   "city": "Delta",
+   "bid_page": true
+  },
+  {
+   "name": "Island Creek Township",
+   "url": "https://islandcreektwp.com/bids-quotes/",
+   "agency": "Island Creek Township",
+   "level": "township",
+   "county": "Jefferson",
+   "bid_page": true,
+   "follow": true
+  },
+  {
+   "name": "West Chester Township",
+   "url": "https://www.westchesteroh.org/government/legal-notices-advertisements",
+   "agency": "West Chester Township",
+   "level": "township",
+   "county": "Butler",
+   "bid_page": true
+  },
+  {
+   "name": "Springfield Township (Lucas Co.)",
+   "url": "https://springfieldtownship.net/",
+   "agency": "Springfield Township",
+   "level": "township",
+   "county": "Lucas",
+   "city": "Holland"
+  },
+  {
+   "name": "Providence Township",
+   "url": "https://providencetwp.org/",
+   "agency": "Providence Township",
+   "level": "township",
+   "county": "Lucas",
+   "city": "Grand Rapids"
+  },
+  {
+   "name": "Painesville Township",
+   "url": "https://painesvilletwp.com/bid-opportunity-2/",
+   "agency": "Painesville Township",
+   "level": "township",
+   "county": "Lake",
+   "bid_page": true
+  },
+  {
+   "name": "Claridon Township",
+   "url": "https://www.claridontwp.com/public-notices.html",
+   "agency": "Claridon Township",
+   "level": "township",
+   "county": "Marion"
+  },
+  {
+   "name": "Stokes Township",
+   "url": "https://www.stokestownship.com/news/",
+   "agency": "Stokes Township",
+   "level": "township",
+   "county": "Logan"
+  },
+  {
+   "name": "Prairie Township",
+   "url": "https://www.prairietownship.org/",
+   "agency": "Prairie Township",
+   "level": "township",
+   "county": "Franklin"
+  },
+  {
+   "name": "Jackson Township (Montgomery Co.)",
+   "url": "https://www.jtwpmc.com/public-notice-2/",
+   "agency": "Jackson Township",
+   "level": "township",
+   "county": "Montgomery"
+  },
+  {
+   "name": "Liberty Township (Licking Co.)",
+   "url": "https://libertytwplickingco.com/",
+   "agency": "Liberty Township",
+   "level": "township",
+   "county": "Licking"
+  },
+  {
+   "name": "Toledo Legal News \u2013 Notices to Bid",
+   "url": "https://www.toledolegalnews.com/legal_notices/notices_to_bid/",
+   "follow": true,
+   "bid_page": true
+  },
+  {
+   "name": "The Daily Standard (Celina) \u2013 Bid notices",
+   "url": "http://www.dailystandard.com/legal_ads/index.php",
+   "follow": true
+  },
+  {
+   "name": "Mount Vernon News \u2013 Public notices",
+   "url": "https://mountvernonnews.com/",
+   "follow": true
+  },
+  {
+   "name": "City of Mentor",
+   "url": "https://cityofmentor.com/",
+   "agency": "City of Mentor",
+   "level": "city",
+   "county": "Lake",
+   "city": "Mentor",
+   "follow": true
+  },
+  {
+   "name": "City of Lima \u2013 Purchasing",
+   "url": "https://www.limaohio.gov/430/Purchasing",
+   "agency": "City of Lima",
+   "level": "city",
+   "county": "Allen",
+   "city": "Lima",
+   "bid_page": true
+  },
+  {
+   "name": "City of Beavercreek \u2013 Bids",
+   "url": "https://beavercreekohio.gov/Bids.aspx",
+   "agency": "City of Beavercreek",
+   "level": "city",
+   "county": "Greene",
+   "city": "Beavercreek",
+   "bid_page": true
+  },
+  {
+   "name": "Beavercreek Township \u2013 Bids",
+   "url": "http://beavercreektownship.org/Bids.aspx",
+   "agency": "Beavercreek Township",
+   "level": "township",
+   "county": "Greene",
+   "bid_page": true
+  },
+  {
+   "name": "Randolph Township (Portage Co.)",
+   "url": "https://randolphtownshipohio.com/notice-for-bids/",
+   "agency": "Randolph Township",
+   "level": "township",
+   "county": "Portage",
+   "bid_page": true
+  },
+  {
+   "name": "Jackson Township (Franklin Co.)",
+   "url": "https://www.jacksontwp.org/?s=bid",
+   "agency": "Jackson Township",
+   "level": "township",
+   "county": "Franklin",
+   "follow": true
+  },
+  {
+   "name": "Huron County Engineer \u2013 Bids",
+   "url": "http://www.huroncountyengineer.org/bid-information",
+   "agency": "Huron County Engineer",
+   "level": "county",
+   "county": "Huron",
+   "bid_page": true
+  },
+  {
+   "name": "Jackson County \u2013 Bids",
+   "url": "http://www.jacksoncountyohio.us/information/bids/",
+   "agency": "Jackson County",
+   "level": "county",
+   "county": "Jackson",
+   "bid_page": true
+  },
+  {
+   "name": "Allen County Commissioners \u2013 Legal notices",
+   "url": "https://commissioners.allencountyohio.com/legal-notices/",
+   "agency": "Allen County Commissioners",
+   "level": "county",
+   "county": "Allen",
+   "bid_page": true
+  },
+  {
+   "name": "Franklin County \u2013 Bids",
+   "url": "https://bids.franklincountyohio.gov/",
+   "agency": "Franklin County",
+   "level": "county",
+   "county": "Franklin",
+   "bid_page": true,
+   "follow": true
+  },
+  {
+   "name": "NoticeRegistry \u2013 Ohio truck notices",
+   "url": "https://www.noticeregistry.com/ohio?q=truck",
+   "follow": true,
+   "check_ohio": false
+  },
+  {
+   "name": "NoticeRegistry \u2013 Ohio bid notices",
+   "url": "https://www.noticeregistry.com/ohio?q=bids%20vehicle",
+   "follow": true,
+   "check_ohio": false
+  },
+  {
+   "name": "Ohio Township Association \u2013 For Sale",
+   "url": "https://www.ohiotownships.org/news/for-sale",
+   "follow": true,
+   "level": "township"
+  },
+  {
+   "name": "Clark County \u2013 Bids",
+   "url": "https://clarkcountyohio.gov/bids.aspx",
+   "agency": "Clark County",
+   "level": "county",
+   "county": "Clark",
+   "bid_page": true
+  },
+  {
+   "name": "Fairfield County \u2013 Bids",
+   "url": "https://www.fairfieldcountyohio.gov/bids/",
+   "agency": "Fairfield County",
+   "level": "county",
+   "county": "Fairfield",
+   "bid_page": true
+  },
+  {
+   "name": "Harrison County Engineer \u2013 Bids",
+   "url": "https://www.harrisoncountyohio.gov/BidsPublicNotices",
+   "agency": "Harrison County Engineer",
+   "level": "county",
+   "county": "Harrison",
+   "bid_page": true
+  },
+  {
+   "name": "City of Troy \u2013 Bid Express",
+   "url": "https://www.bidexpress.com/businesses/43303/home",
+   "agency": "City of Troy",
+   "level": "city",
+   "county": "Miami",
+   "city": "Troy",
+   "bid_page": true
+  },
+  {
+   "name": "Ohio Turnpike \u2013 Bid invitations",
+   "url": "https://www.ohioturnpike.org/business/doing-business-with-us/Bid-invitations",
+   "agency": "Ohio Turnpike Commission",
+   "level": "state",
+   "bid_page": true
+  },
+  {
+   "name": "Montgomery County \u2013 Bids",
+   "url": "https://www.mcohio.org/Bids",
+   "agency": "Montgomery County",
+   "level": "county",
+   "county": "Montgomery",
+   "bid_page": true
+  },
+  {
+   "name": "Cincinnati \u2013 Business opportunities",
+   "url": "https://www.cincinnati-oh.gov/noncms/cmgr/business-opportunities/",
+   "agency": "City of Cincinnati",
+   "level": "city",
+   "county": "Hamilton",
+   "city": "Cincinnati",
+   "bid_page": true
+  },
+  {
+   "name": "BidBanana \u2013 Ohio (all)",
+   "url": "https://bidbanana.thebidlab.com/ohio-gov-bids-rfp",
+   "bid_page": true
+  }
+ ],
+ "bing_queries": [
+  "Ohio township \"notice to bidders\" truck 2027",
+  "Ohio \"sealed bids\" \"dump truck\" township OR village",
+  "Ohio \"invitation to bid\" \"cab and chassis\"",
+  "Ohio \"bids\" \"plow truck\" trustees",
+  "Ohio village \"bids\" \"pickup truck\"",
+  "Ohio \"county engineer\" \"bids\" truck",
+  "Ohio fire \"bids\" ambulance OR \"brush truck\" township",
+  "Ohio city \"invitation to bid\" vehicle",
+  "OhioBuys \"SRC0000\" truck OR vehicle OR chassis",
+  "Ohio \"bids\" truck site:reddit.com OR site:facebook.com township",
+  "site:noticeregistry.com Ohio bid truck",
+  "site:civiciq.com Ohio truck bid",
+  "site:samsearch.co Ohio truck OR chassis OR vehicle",
+  "site:oversight.govsignals.ai Ohio truck OR vehicle",
+  "site:app.govly.com Ohio truck",
+  "site:highergov.com Ohio pickup OR truck OR chassis",
+  "site:starbridge.ai Ohio truck OR chassis OR vehicle",
+  "site:bidexpress.com Ohio truck",
+  "site:procurement.opengov.com Ohio truck OR vehicle",
+  "site:governmentcontracts.us Ohio truck",
+  "site:ohiotownships.org truck bid",
+  "site:app.govly.com \"Ohio Procurement Portal\" vehicle OR truck OR SUV",
+  "site:app.govly.com \"Ohio Procurement Portal\" chassis OR tractor OR pickup",
+  "site:governmentcontracts.us Ohio \"Open for Bidding\" vehicle OR truck",
+  "site:samsearch.co \"OHIO\" \"Open for Bidding\" truck OR vehicle OR chassis",
+  "OhioBuys \"Open for Bidding\" truck OR SUV OR pickup OR chassis 2026"
+ ],
+ "county_sweep": {
+  "enabled": true,
+  "per_run": 8,
+  "use_bing": true,
+  "query": "\"{county} County\" Ohio bids truck OR chassis OR plow OR vehicle OR ambulance"
+ },
+ "email": {
+  "folder": "INBOX",
+  "days": 3,
+  "_help": "Set IMAP_HOST (imap.gmail.com), IMAP_USER, IMAP_PASS (Gmail app password) secrets. Sign that inbox up for bid alerts from DemandStar, BidNet Direct, OhioBuys, Bid Express, Google Alerts and newspaper legal-notice emails."
+ },
+ "sam_gov": {
+  "days": 14,
+  "keywords": [
+   "truck",
+   "vehicle",
+   "chassis",
+   "pickup",
+   "ambulance"
+  ],
+  "_help": "Free key from sam.gov (Account \u2192 API key). Set SAM_API_KEY secret."
+ },
+ "column_api": {
+  "pages": 3,
+  "endpoints": [
+   "https://utility.column.us/v1/ohio/public_notices"
+  ],
+  "_help": "Column runs PublicNoticesOhio.com, where every Ohio newspaper must upload legal notices. Request an API token from Column (docs.column.us) and set the COLUMN_API_TOKEN secret."
+ },
+ "discovery": {
+  "enabled": true,
+  "queries": [
+   "inurl:Bids.aspx Ohio township",
+   "inurl:Bids.aspx Ohio village",
+   "inurl:Bids.aspx Ohio city",
+   "inurl:Bids.aspx Ohio county",
+   "inurl:Bids.aspx \"OH\" bid postings truck"
+  ],
+  "_help": "Once a day, searches for Ohio agency websites with a CivicPlus 'Bid Postings' page and adds their bid RSS feed automatically."
+ },
+ "web_search_every_n_runs": 4,
+ "agency_sites": {
+  "enabled": true,
+  "workers": 32,
+  "max_follows": 400,
+  "web_searches_per_day": 150,
+  "_help": "Daily full sweep (separate morning run) of the bids/notices pages of every Ohio township, city and village. Directory in data/agencies.json: to add or fix a website, set \"website\" and delete \"watch\" so it is rescanned next morning."
+ },
+ "portals": {
+  "enabled": true,
+  "opengov": {
+   "clevelandoh": {
+    "agency": "City of Cleveland",
+    "level": "city",
+    "county": "Cuyahoga"
+   }
+  },
+  "bonfire": {},
+  "discovery_queries": [
+   "site:procurement.opengov.com/portal Ohio",
+   "site:procurement.opengov.com Ohio city OR county OR township",
+   "site:bonfirehub.com Ohio",
+   "site:bonfirehub.com Ohio city opportunities"
+  ],
+  "_help": "Add agencies by portal code: opengov = the part after /portal/ in procurement.opengov.com/portal/<code>; bonfire = the <slug> in <slug>.bonfirehub.com. More are discovered automatically."
+ }
+}

@@ -1,0 +1,50 @@
+name: Check for new bids
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes (GitHub may run a few minutes late)
+  workflow_dispatch: {}       # lets you press "Run workflow" any time
+  push:                       # also run right after the code changes
+    branches: [main]
+    paths: ["scraper.py", "portals.py", "sources.json", ".github/workflows/scrape.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run scraper
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC || 'bidreq-ohio' }}
+          SITE_URL: ${{ vars.SITE_URL || 'https://skeltrent.github.io/BidRequests/' }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          ALERT_EMAIL: ${{ secrets.ALERT_EMAIL }}
+          IMAP_HOST: ${{ secrets.IMAP_HOST }}
+          IMAP_USER: ${{ secrets.IMAP_USER }}
+          IMAP_PASS: ${{ secrets.IMAP_PASS }}
+          IMAP_FOLDER: ${{ secrets.IMAP_FOLDER }}
+          SAM_API_KEY: ${{ secrets.SAM_API_KEY }}
+          COLUMN_API_TOKEN: ${{ secrets.COLUMN_API_TOKEN }}
+        run: python scraper.py
+      - name: Save results and update website
+        run: |
+          git config user.name "bid-tracker-bot"
+          git config user.email "bid-tracker-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "Bid check $(date -u +'%Y-%m-%d %H:%M')"
+          git pull --rebase -X theirs || true
+          git push

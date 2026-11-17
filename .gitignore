@@ -1,0 +1,4 @@
+data/seen_urls.json.tmp
+__pycache__/
+*.pyc
+.DS_Store

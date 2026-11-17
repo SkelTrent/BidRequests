@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BidRequests – Ohio vehicle bids</title>
+<meta name="description" content="Open Ohio township, city, village and county bids for new trucks and vehicles.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#1c2329;--soft:#66717a;--faint:#9aa3aa;--rule:#eceff1;--track:#e6eaec;--sign:#00704a;--late:#c2410c}
+*{box-sizing:border-box}
+body{margin:0;background:#fff;color:var(--ink);font:400 15px/1.45 "Public Sans",system-ui,sans-serif}
+:focus-visible{outline:2px solid var(--sign);outline-offset:2px}
+.wrap{max-width:760px;margin:0 auto;padding:0 20px 60px}
+
+header{display:flex;justify-content:space-between;align-items:baseline;padding:22px 0 26px}
+h1{font-size:20px;font-weight:700;margin:0;letter-spacing:-.01em}
+.checked{font-size:13px;color:var(--faint);font-variant-numeric:tabular-nums}
+
+.bar{display:flex;gap:8px;align-items:center}
+.bar select{flex:0 0 auto}
+.bar input{flex:1;min-width:0;height:40px;border:1px solid #dfe3e6;border-radius:8px;padding:0 12px;font:inherit;color:var(--ink)}
+.bar input:focus{outline:none;border-color:var(--ink)}
+.plain{height:40px;border:1px solid #dfe3e6;border-radius:8px;background:#fff;color:var(--ink);font:500 14px "Public Sans",sans-serif;padding:0 12px;cursor:pointer}
+.plain[aria-expanded=true]{border-color:var(--ink)}
+.more{display:none;gap:8px;margin-top:8px;flex-wrap:wrap}
+.more.on{display:flex}
+.more select{flex:1 1 150px}
+
+.views{display:flex;gap:20px;margin:22px 0 4px;border-bottom:1px solid var(--rule)}
+.view{background:none;border:0;padding:0 0 10px;margin-bottom:-1px;font:600 14px "Public Sans",sans-serif;color:var(--faint);cursor:pointer;border-bottom:2px solid transparent}
+.view[aria-selected=true]{color:var(--ink);border-bottom-color:var(--ink)}
+
+.bid{padding:18px 0;border-bottom:1px solid var(--rule);cursor:pointer}
+.bid:focus-visible{outline-offset:4px}
+.line{display:flex;justify-content:space-between;gap:16px;align-items:baseline}
+.t{font-weight:600;font-size:16px;line-height:1.35}
+.who{color:var(--soft);font-size:14px;margin-top:2px}
+.age{white-space:nowrap;font-size:14px;color:var(--soft);font-variant-numeric:tabular-nums}
+.due{white-space:nowrap;font-size:14px;color:var(--soft);font-variant-numeric:tabular-nums;text-align:right}
+.due.soon{color:var(--late);font-weight:600}
+.closed .t,.closed .age{color:var(--faint)}
+
+
+.more-info{margin-top:14px;font-size:14px;cursor:default}
+.more-info p{margin:0 0 10px;color:var(--soft)}
+.more-info ul{margin:0 0 10px;padding-left:18px}
+.more-info dl{display:grid;grid-template-columns:110px 1fr;gap:3px 12px;margin:0 0 12px}
+.more-info dt{color:var(--faint)}
+.more-info dd{margin:0}
+.go{display:inline-flex;align-items:center;height:36px;padding:0 14px;border-radius:8px;background:var(--sign);color:#fff;text-decoration:none;font-weight:600;font-size:14px;margin-right:8px}
+.save{height:36px}
+
+.empty{padding:40px 0;color:var(--soft)}
+.empty button{font:inherit;color:var(--sign);background:none;border:0;padding:0;text-decoration:underline;cursor:pointer}
+footer{margin-top:36px;font-size:13px;color:var(--faint)}
+footer a{color:var(--soft)}
+@media (max-width:560px){
+  .bid{display:flex;flex-direction:column}
+  .line{display:contents}
+  .t{order:1}.who{order:2}.age{order:3}.due{order:4}.more-info{order:5}
+  .age,.due{text-align:left;font-size:13.5px;margin-top:2px}
+  .bar{flex-wrap:wrap}
+  .bar input{flex:1 1 100%}
+  .bar select{flex:1}
+  .wrap{padding:0 16px 48px}
+  .t{font-size:15.5px}
+  .more-info dl{grid-template-columns:95px 1fr}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>BidRequests</h1>
+    <span class="checked" id="checked"></span>
+  </header>
+
+  <div class="bar">
+    <input id="q" type="search" placeholder="Search trucks, towns, counties" aria-label="Search">
+    <select class="plain" id="sort" aria-label="Sort">
+      <option value="posted">Newest first</option><option value="due">Closing soonest</option><option value="county">County A–Z</option></select>
+    <button class="plain" id="toggle" aria-expanded="false" aria-controls="more">Filter</button>
+  </div>
+  <div class="more" id="more">
+    <select class="plain" id="category" aria-label="Vehicle">
+      <option value="all">Any vehicle</option><option value="dump">Dump and plow trucks</option><option value="pickup">Pickups and 1-tons</option><option value="fire">Fire and EMS</option><option value="utility">Utility and bucket trucks</option><option value="equipment">Equipment</option></select>
+    <select class="plain" id="level" aria-label="Agency">
+      <option value="all">Any agency</option><option value="township">Townships</option><option value="city">Cities and villages</option><option value="county">Counties</option><option value="state">State of Ohio</option><option value="federal">Federal (in Ohio)</option></select>
+    <select class="plain" id="county" aria-label="County"><option value="all">Any county</option></select>
+  </div>
+
+  <nav class="views" role="tablist" id="views">
+    <button class="view" role="tab" data-v="open" aria-selected="true">Open</button>
+    <button class="view" role="tab" data-v="closed" aria-selected="false">Closed</button>
+    <button class="view" role="tab" data-v="saved" aria-selected="false">Saved</button>
+  </nav>
+
+  <div id="list"><p class="empty">Loading bids…</p></div>
+
+  <footer id="foot">Always confirm dates and requirements in the official notice.</footer>
+</div>
+
+<script>
+const LEVEL={township:"Township",city:"City / village",county:"County",state:"State of Ohio",federal:"Federal (in Ohio)"};
+const st={view:"open",q:"",sort:"posted",category:"all",level:"all",county:"all",open:null};
+let bids=[],saved={};
+try{saved=JSON.parse(localStorage.getItem("ovb_saved")||"{}")}catch(e){}
+const DAY=864e5;
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const d0=()=>{const d=new Date();d.setHours(0,0,0,0);return d};
+const day=s=>{if(!s)return null;const d=new Date(s.slice(0,10)+"T00:00:00");return isNaN(d)?null:d};
+const short=s=>{const d=day(s);return d?d.toLocaleDateString("en-US",{month:"short",day:"numeric"}):""};
+const full=s=>{const d=day(s);return d?d.toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"}):""};
+const diff=s=>{const d=day(s);return d?Math.round((d-d0())/DAY):null};
+const postedOf=b=>b.postedDate||(b.firstSeen||b.foundDate||"").slice(0,10);
+
+function rel(n){return n===0?"today":n===1?"yesterday":n===-1?"tomorrow":n>0?`${n} days ago`:`in ${-n} days`}
+function ago(b){const s=postedOf(b),x=diff(s);if(x===null)return"";const w=b.postedDate?"Posted":"Found";
+  return x===0?`${w} today`:`${w} ${short(s)} (${rel(-x)})`}
+function closes(b){const n=diff(b.dueDate);if(n===null)return b.kind!=="purchase"?"":isClosed(b)?"Likely closed":"Closing date: see notice";
+  if(n<0)return`Closed ${short(b.dueDate)}`;const t=b.dueTime?" "+b.dueTime:"";
+  if(n===0)return`Closes today${t}`;if(n===1)return`Closes tomorrow${t}`;return`Closes ${short(b.dueDate)} (in ${n} days)`}
+const isClosed=b=>{const n=diff(b.dueDate);if(n!==null)return n<0;const p=diff(postedOf(b));return p!==null&&p<-45};
+const isNew=b=>b.auto&&b.firstSeen&&Date.now()-new Date(b.firstSeen)<DAY;
+
+function inView(b){
+  if(st.view==="saved")return!!saved[b.id];
+  if(b.kind!=="purchase")return false;
+  return st.view==="closed"?isClosed(b):!isClosed(b);
+}
+function match(b){
+  if(!inView(b))return false;
+  if(st.category!=="all"&&b.category!==st.category)return false;
+  if(st.level!=="all"&&b.level!==st.level)return false;
+  if(st.county!=="all"&&b.county!==st.county)return false;
+  if(st.q){const h=[b.title,b.agency,b.county,b.city,(b.specs||[]).join(" "),b.summary].join(" ").toLowerCase();
+    if(!st.q.toLowerCase().split(/\s+/).every(w=>h.includes(w)))return false}
+  return true;
+}
+function card(b){
+  const n=diff(b.dueDate),soon=n!==null&&n>=0&&n<=7;
+  const where=[b.agency,b.county?b.county+" County":""].filter(Boolean).join(", ");
+  let h=`<article class="bid ${isClosed(b)?"closed":""}" data-id="${esc(b.id)}" tabindex="0" aria-expanded="${st.open===b.id}">
+    <div class="line"><div class="t">${esc(b.title)}</div><div class="age">${ago(b)}</div></div>
+    <div class="line"><div class="who">${esc(where)}</div><div class="due ${soon?"soon":""}">${closes(b)}</div></div>`;
+  if(st.open===b.id){
+    const f=(k,v)=>v?`<dt>${k}</dt><dd>${esc(v)}</dd>`:"";
+    h+=`<div class="more-info">${b.summary?`<p>${esc(b.summary)}</p>`:""}${(b.specs||[]).length?"<ul>"+b.specs.map(s=>`<li>${esc(s)}</li>`).join("")+"</ul>":""}
+      <dl>${f("Posted",full(postedOf(b))+(b.postedDate?"":" (first seen)"))}${f("Bids due",b.dueDate?full(b.dueDate)+(b.dueTime?", "+b.dueTime:""):"")}${f("Bid opening",b.opening)}${f("Submit to",b.address)}${f("Contact",b.contact)}${f("Agency type",LEVEL[b.level])}${f("Source",b.source)}</dl>
+      ${b.url?`<a class="go" href="${esc(b.url)}" target="_blank" rel="noopener">Open official notice</a>`:""}<button class="plain save" data-save="${esc(b.id)}">${saved[b.id]?"Remove from saved":"Save"}</button></div>`;
+  }
+  return h+"</article>";
+}
+function render(){
+  document.querySelectorAll(".view").forEach(v=>v.setAttribute("aria-selected",v.dataset.v===st.view));
+  const rows=bids.filter(match).sort((a,b)=>{
+    if(st.sort==="due"){const x=a.dueDate||"9",y=b.dueDate||"9";return st.view==="closed"?y.localeCompare(x):x.localeCompare(y)}
+    if(st.sort==="county")return(a.county||"~").localeCompare(b.county||"~");
+    return postedOf(b).localeCompare(postedOf(a));
+  });
+  const el=document.getElementById("list");
+  if(rows.length){el.innerHTML=rows.map(card).join("");return}
+  const filtered=st.q||st.category!=="all"||st.level!=="all"||st.county!=="all";
+  el.innerHTML=`<p class="empty">${st.view==="saved"?"Nothing saved yet. Open a bid and tap Save to keep it here.":
+    filtered?'No bids match. <button data-clear>Clear search and filters</button>':
+    st.view==="open"?"No vehicle bids are open right now. New ones appear here as soon as they're found.":"No closed bids yet."}</p>`;
+}
+function counties(){
+  const s=document.getElementById("county"),cur=s.value,list=[...new Set(bids.map(b=>b.county).filter(Boolean))].sort();
+  s.innerHTML='<option value="all">Any county</option>'+list.map(c=>`<option>${esc(c)}</option>`).join("");s.value=list.includes(cur)?cur:"all";
+}
+function clearAll(){st.q="";st.category=st.level=st.county="all";["q","category","level","county"].forEach(i=>document.getElementById(i).value=i==="q"?"":"all");render()}
+
+document.getElementById("views").onclick=e=>{const v=e.target.closest(".view");if(v){st.view=v.dataset.v;st.open=null;render()}};
+document.getElementById("toggle").onclick=e=>{const m=document.getElementById("more"),on=!m.classList.contains("on");m.classList.toggle("on",on);e.currentTarget.setAttribute("aria-expanded",on)};
+document.getElementById("q").oninput=e=>{st.q=e.target.value.trim();render()};
+["sort","category","level","county"].forEach(i=>document.getElementById(i).onchange=e=>{st[i]=e.target.value;render()});
+const list=document.getElementById("list");
+list.onclick=e=>{
+  if(e.target.closest("a"))return;
+  if(e.target.closest("[data-clear]")){clearAll();return}
+  const s=e.target.closest("[data-save]");
+  if(s){const id=s.dataset.save;saved[id]?delete saved[id]:saved[id]=1;try{localStorage.setItem("ovb_saved",JSON.stringify(saved))}catch(_){}render();return}
+  if(e.target.closest(".more-info"))return;
+  const c=e.target.closest(".bid");if(c){st.open=st.open===c.dataset.id?null:c.dataset.id;render()}
+};
+list.onkeydown=e=>{if((e.key==="Enter"||e.key===" ")&&e.target.matches(".bid")){e.preventDefault();e.target.click()}};
+
+function checked(iso){if(!iso)return;const d=new Date(iso.length===10?iso+"T12:00:00":iso);
+  document.getElementById("checked").textContent="Checked "+(d.toDateString()===new Date().toDateString()?d.toLocaleTimeString("en-US",{hour:"numeric",minute:"2-digit"}):d.toLocaleDateString("en-US",{month:"short",day:"numeric"}))}
+function loaded(){counties();render()}
+
+/* Data comes from bids.json, refreshed by the tracker. */
+async function fromFile(){const r=await fetch("bids.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw 0;
+  const j=await r.json();bids=j.bids||[];checked(j.meta&&j.meta.lastChecked);
+  document.getElementById("foot").innerHTML='Always confirm dates and requirements in the official notice. <a href="feed.xml">RSS feed</a>';loaded()}
+(async()=>{try{await fromFile();setInterval(()=>fromFile().catch(()=>{}),300000)}
+  catch(e){list.innerHTML='<p class="empty">The bid list didn\'t load. Refresh the page to try again.</p>'}})();
+</script>
+</body>
+</html>

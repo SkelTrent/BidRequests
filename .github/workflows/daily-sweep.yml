@@ -1,0 +1,44 @@
+name: Nightly sweep of every Ohio township, city and village
+
+on:
+  schedule:
+    - cron: "0 4 * * *"    # 04:00 UTC = 11 PM Eastern (midnight during daylight saving time)
+  workflow_dispatch: {}
+  push:                       # also run right after the sweep code changes
+    branches: [main]
+    paths: ["agencies.py", ".github/workflows/daily-sweep.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check every agency website
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC || 'bidreq-ohio' }}
+          SITE_URL: ${{ vars.SITE_URL || 'https://skeltrent.github.io/BidRequests/' }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          ALERT_EMAIL: ${{ secrets.ALERT_EMAIL }}
+        run: python scraper.py --sweep
+      - name: Save results and update website
+        run: |
+          git config user.name "bid-tracker-bot"
+          git config user.email "bid-tracker-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "Nightly statewide sweep $(date -u +'%Y-%m-%d')"
+          git pull --rebase -X theirs || true
+          git push

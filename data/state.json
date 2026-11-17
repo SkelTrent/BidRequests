@@ -1,0 +1,19 @@
+{
+ "run_n": 1,
+ "sweep_pos": 8,
+ "last_sweep": [
+  "Adams",
+  "Allen",
+  "Ashland",
+  "Ashtabula",
+  "Athens",
+  "Auglaize",
+  "Belmont",
+  "Brown"
+ ],
+ "discovered_feeds": {},
+ "last_discovery": "2026-11-17",
+ "portal_discovery": "2026-11-17",
+ "opengov": {},
+ "bonfire": {}
+}

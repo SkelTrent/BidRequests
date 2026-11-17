@@ -1,9 +1,9 @@
 {
  "meta": {
-  "lastChecked": "2026-11-17T15:11+00:00",
+  "lastChecked": "2026-11-17T15:13+00:00",
   "sources": 73,
-  "errors": 6,
-  "newThisRun": 0
+  "errors": 5,
+  "newThisRun": 4
  },
  "bids": [
   {
@@ -518,6 +518,71 @@
    "foundDate": "2026-11-17",
    "id": "mentor-dump-body-2026",
    "firstSeen": "2026-11-17T14:40+00:00"
+  },
+  {
+   "level": "township",
+   "kind": "purchase",
+   "category": "dump",
+   "title": "A 2011 International H truck with a dump body, auger, and snowplow",
+   "summary": "ened at the township house on December 7, 2026. Nov 11, 2026Bid NoticePalestine Coal Township is accepting sealed bids for a 2011 International H truck with a dump body, auger, and snowplow. Bids must be received by 6:00 p.m. on December 7, 2026, when they will be opened at the t…",
+   "dueDate": "2026-12-07",
+   "dueTime": "6:00 PM",
+   "source": "NoticeRegistry – Ohio truck notices",
+   "url": "https://www.noticeregistry.com/ohio/category/bid-notice",
+   "foundDate": "2026-11-17",
+   "auto": true,
+   "id": "326d6bb34e6df9",
+   "firstSeen": "2026-11-17T15:13+00:00"
+  },
+  {
+   "level": "county",
+   "county": "Huron",
+   "kind": "purchase",
+   "category": "fire",
+   "title": "Two procurements: a one-ton extended-cab 4x4 service truck with aluminum utility body (IFB No",
+   "summary": "ting, photos, and video services. Oct 31, 2026Bid Notice Huron County will accept sealed bids for outfitting a tandem axle truck until 9:04 a.m. on Friday, November 20, 2026; bids open publicly at 9:05 a.m. A $500 certified check is required per bid and full bidding requirements …",
+   "specs": [
+    "4x4",
+    "tandem axle"
+   ],
+   "dueDate": "2026-11-20",
+   "dueTime": "9:04 AM",
+   "source": "NoticeRegistry – Ohio truck notices",
+   "url": "https://www.noticeregistry.com/ohio/notice/bid-notice-norwalk-339074",
+   "foundDate": "2026-11-17",
+   "auto": true,
+   "id": "89bb9280aa9313",
+   "firstSeen": "2026-11-17T15:13+00:00"
+  },
+  {
+   "agency": "City of Columbus",
+   "level": "city",
+   "kind": "purchase",
+   "category": "equipment",
+   "title": "RFQ034092 - Golf-Greens Mower",
+   "summary": "Bid Banana.See all in Search → The City of Columbus·OhioRFQ034092 - Golf-Greens Mower Closes 12/10/2026Invitation for BidManufacturingView details The City of Columbus Recreation and Parks Department is seeking a single greens mower (Baroness LM315GC or approved equal) for its go…",
+   "dueDate": "2026-12-10",
+   "source": "BidBanana – Ohio (all)",
+   "url": "https://bidbanana.com/bid/jpOWAGWv2u8qsi1w5wBC",
+   "foundDate": "2026-11-17",
+   "auto": true,
+   "id": "d1ce6c23a50a78",
+   "firstSeen": "2026-11-17T15:13+00:00"
+  },
+  {
+   "agency": "City of Columbus",
+   "level": "city",
+   "kind": "purchase",
+   "category": "equipment",
+   "title": "RFQ034094 - Golf-Contour Rotary Mower",
+   "summary": "r approved equal) for its golf… The City of Columbus·OhioRFQ034094 - Golf-Contour Rotary Mower Closes 12/10/2026Invitation for BidSports and RecreationView details The City of Columbus Recreation and Parks Department is seeking a single TORO Groundsmaster 3500 D (or approved equa…",
+   "dueDate": "2026-12-10",
+   "source": "BidBanana – Ohio (all)",
+   "url": "https://bidbanana.com/bid/C2ML5LgnxbSv0N5oHCOm",
+   "foundDate": "2026-11-17",
+   "auto": true,
+   "id": "77e09fa83a6f97",
+   "firstSeen": "2026-11-17T15:13+00:00"
   }
  ]
 }

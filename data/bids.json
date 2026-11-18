@@ -564,6 +564,35 @@
    "auto": true,
    "id": "89bb9280aa9313",
    "firstSeen": "2026-11-17T16:02+00:00"
+  },
+  {
+   "agency": "Ohio Washington Township",
+   "level": "township",
+   "kind": "purchase",
+   "category": "fire",
+   "title": "A used 1999 Ford F-800 dump truck, with a minimum bid of $9,000",
+   "summary": "Connections.Copy URL Showing 1–25 of 25 notices in Ohio Washington Township is accepting sealed bids for a used 1999 Ford F-800 dump truck, with a minimum bid of $9,000. Bids must reach the Fiscal Officer by the November 30, 2026, 7:00 p.m. meeting, when they will be opened. Nov …",
+   "dueDate": "2026-12-01",
+   "source": "NoticeRegistry – Ohio truck notices",
+   "url": "https://www.noticeregistry.com/ohio/notice/bid-notice-logan-343713",
+   "foundDate": "2026-11-18",
+   "auto": true,
+   "id": "6047c505c373ab",
+   "firstSeen": "2026-11-18T00:32+00:00"
+  },
+  {
+   "level": "township",
+   "kind": "purchase",
+   "category": "fire",
+   "title": "A tanker truck with a 2018 or newer Freightliner M2-112 chassis, a new tank, pump, and lights",
+   "summary": "ing, when they will be opened. Nov 14, 2026Bid NoticeLogan Liberty Township is seeking bids for a tanker truck with a 2018 or newer Freightliner M2-112 chassis, a new tank, pump, and lights. Bids are due December 1, 2026, and will be opened at the township house on December 7, 20…",
+   "dueDate": "2026-12-01",
+   "source": "NoticeRegistry – Ohio truck notices",
+   "url": "https://www.noticeregistry.com/ohio/notice/bid-notice-palestine-342890",
+   "foundDate": "2026-11-18",
+   "auto": true,
+   "id": "78442bd2313b82",
+   "firstSeen": "2026-11-18T00:32+00:00"
   }
  ]
 }

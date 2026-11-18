@@ -593,6 +593,38 @@
    "auto": true,
    "id": "78442bd2313b82",
    "firstSeen": "2026-11-18T00:32+00:00"
+  },
+  {
+   "agency": "Village of St. Henry",
+   "level": "city",
+   "county": "Mercer",
+   "kind": "purchase",
+   "category": "pickup",
+   "title": "Final branch pickup",
+   "summary": "the Thanksgiving Holiday Dec 1 All day Final branch pickup Dec 14 6:00 pm - 8:00 pm Council Meeting Dec 24 December 24 - December 25 Village Office closed for the Christmas Holiday Dec 31 December 31, 2026 - January 1, 2027 Village Office closed for the New Years Holiday View Cal…",
+   "dueDate": "2026-12-31",
+   "source": "Village of St. Henry website",
+   "url": "https://sthenryoh.gov/event/final-branch-pickup-2/",
+   "foundDate": "2026-11-18",
+   "auto": true,
+   "id": "1a4bb475c808ec",
+   "firstSeen": "2026-11-18T04:57+00:00"
+  },
+  {
+   "agency": "City of Wellston",
+   "level": "city",
+   "county": "Jackson",
+   "kind": "purchase",
+   "category": "utility",
+   "title": "LEAF PICKUP BEGINS MONDAY, NOVEMBER 16",
+   "summary": "LEAF PICKUP BEGINS MONDAY, NOVEMBER 16 | cityofwellston.org cityofwellston.org Water Consumer Confidence Report Utility Payments Employee Timeclock City Ordinances OhioCheckbook.com Welcome to the Official Web Page for the City of Wellston, Ohio LEAF PICKUP BEGINS MONDAY, NOVEMBE…",
+   "dueDate": "2026-11-19",
+   "source": "City of Wellston website",
+   "url": "https://cityofwellston.org/2026/11/10/leaf-pickup-begins-monday-november-16/",
+   "foundDate": "2026-11-18",
+   "auto": true,
+   "id": "b1793628e499f4",
+   "firstSeen": "2026-11-18T04:57+00:00"
   }
  ]
 }

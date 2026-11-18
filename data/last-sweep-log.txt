@@ -1,16 +1,10 @@
-2026-11-17T15:29+00:00 UTC
-[15:13:38]   websites: looked up 1541, found 218
-[15:19:40]   websites: tried address patterns for 1363 places, found 430
-[15:20:54]   bid pages: scanned 847 sites
-[15:23:03]    follow failed: https://blendontwp.org/legal-notice-e-bikes/ The read operation timed out
-[15:24:07]    follow failed: https://villageofgrafton.org/?page_id=277 HTTP Error 404: Not Found
-[15:24:22]    follow failed: https://www.independenceohio.org/2025%20ITB%20Audio-Visual%20System%20(final%205-27-25)pdf.pdf?t=202505270847170 HTTP Error 403: Forbidden
-[15:24:52]    follow failed: https://www.independenceohio.org/2026%20ITB%20Pump%20&%20Filter%20Repalcement%20Outdoor%20Pool%202-23-26.pdf?t=202603270832080 <urlopen error timed out>
-[15:25:18]    follow failed: https://www.independenceohio.org/2026%20ITB%20Snow%20Plowing%20Services.pdf?t=202607211014360 <urlopen error timed out>
-[15:25:46]    follow failed: https://www.independenceohio.org/Notice%20to%20Bidders%20-%20Post.pdf?t=202406041421380 <urlopen error timed out>
-[15:27:06]    follow failed: https://www.independenceohio.org/Bid%20Tab%20Spotlight.pdf?t=202406041421140 <urlopen error timed out>
-[15:29:53]   watched 1822 pages (1617 changed, 22 unreachable) of 1822 pages on 1123 agency sites
-[15:29:53]   statewide sweep finished in 997 s
-[15:29:53]   8 matches  Agency websites (statewide)
-[15:29:53] Done: 1 new, 31 total, 0 source errors
-[15:29:53]   NEW: Tractor and Mower For Sale | Cardington Township | 2027-01-11
+2026-11-18T04:57+00:00 UTC
+[04:54:26]   websites: looked up 889, found 228
+[04:55:17]   bid pages: scanned 526 sites
+[04:57:20]    follow failed: https://www.orangeville.ca/en/town-hall/bids-and-tenders.aspx HTTP Error 404: Not Found
+[04:57:40]   watched 2046 pages (932 changed, 41 unreachable) of 2046 pages on 1271 agency sites
+[04:57:40]   statewide sweep finished in 213 s
+[04:57:40]   4 matches  Agency websites (statewide)
+[04:57:40] Done: 2 new, 37 total, 0 source errors
+[04:57:40]   NEW: Final branch pickup | Village of St. Henry | 2026-12-31
+[04:57:40]   NEW: LEAF PICKUP BEGINS MONDAY, NOVEMBER 16 | City of Wellston | 2026-11-19

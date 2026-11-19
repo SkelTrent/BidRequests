@@ -1,15 +1,15 @@
 {
- "run_n": 49,
- "sweep_pos": 40,
+ "run_n": 50,
+ "sweep_pos": 48,
  "last_sweep": [
-  "Hardin",
-  "Harrison",
-  "Henry",
-  "Highland",
-  "Hocking",
-  "Holmes",
-  "Huron",
-  "Jackson"
+  "Jefferson",
+  "Knox",
+  "Lake",
+  "Lawrence",
+  "Licking",
+  "Logan",
+  "Lorain",
+  "Lucas"
  ],
  "discovered_feeds": {},
  "last_discovery": "2026-11-19",

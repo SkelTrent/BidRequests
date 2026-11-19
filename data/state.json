@@ -1,15 +1,15 @@
 {
- "run_n": 59,
- "sweep_pos": 32,
+ "run_n": 60,
+ "sweep_pos": 40,
  "last_sweep": [
-  "Franklin",
-  "Fulton",
-  "Gallia",
-  "Geauga",
-  "Greene",
-  "Guernsey",
-  "Hamilton",
-  "Hancock"
+  "Hardin",
+  "Harrison",
+  "Henry",
+  "Highland",
+  "Hocking",
+  "Holmes",
+  "Huron",
+  "Jackson"
  ],
  "discovered_feeds": {},
  "last_discovery": "2026-11-19",

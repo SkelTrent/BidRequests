@@ -1,10 +1,7 @@
-2026-11-18T04:57+00:00 UTC
-[04:54:26]   websites: looked up 889, found 228
-[04:55:17]   bid pages: scanned 526 sites
-[04:57:20]    follow failed: https://www.orangeville.ca/en/town-hall/bids-and-tenders.aspx HTTP Error 404: Not Found
-[04:57:40]   watched 2046 pages (932 changed, 41 unreachable) of 2046 pages on 1271 agency sites
-[04:57:40]   statewide sweep finished in 213 s
-[04:57:40]   4 matches  Agency websites (statewide)
-[04:57:40] Done: 2 new, 37 total, 0 source errors
-[04:57:40]   NEW: Final branch pickup | Village of St. Henry | 2026-12-31
-[04:57:40]   NEW: LEAF PICKUP BEGINS MONDAY, NOVEMBER 16 | City of Wellston | 2026-11-19
+2026-11-19T05:01+00:00 UTC
+[04:57:10]   websites: looked up 629, found 225
+[04:57:53]   bid pages: scanned 428 sites
+[05:01:38]   watched 2277 pages (1116 changed, 59 unreachable) of 2277 pages on 1420 agency sites
+[05:01:38]   statewide sweep finished in 281 s
+[05:01:38]   2 matches  Agency websites (statewide)
+[05:01:38] Done: 0 new, 38 total, 0 source errors

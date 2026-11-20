@@ -8761,8 +8761,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "salem-township-meigs": {
    "name": "Salem Township",
@@ -8802,8 +8803,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "syracuse-meigs": {
    "name": "Syracuse",
@@ -8829,8 +8831,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.racineohio.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "rutland-meigs": {
    "name": "Rutland",
@@ -9069,8 +9072,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.ahohio.org/departments",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "fairfax-hamilton": {
    "name": "Fairfax",
@@ -9248,8 +9252,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.angelfire.com/ia2/mounds/norwood.html",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "<urlopen error [Errno -2] Name or service not known>"
+   "siteErrors": 3,
+   "lastError": "<urlopen error [Errno -2] Name or service not known>",
+   "watch": []
   },
   "blue-ash-hamilton": {
    "name": "Blue Ash",
@@ -9389,7 +9394,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "benton-township-hocking": {
    "name": "Benton Township",
@@ -9401,8 +9409,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "falls-township-hocking": {
    "name": "Falls Township",
@@ -9427,8 +9436,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "good-hope-township-hocking": {
    "name": "Good Hope Township",
@@ -9440,8 +9450,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://ldsgenealogy.com/OH/Good-Hope.htm",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "laurel-township-hocking": {
    "name": "Laurel Township",
@@ -9454,7 +9465,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "marion-township-hocking": {
    "name": "Marion Township",
@@ -9467,7 +9481,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "perry-township-hocking": {
    "name": "Perry Township",
@@ -9479,8 +9496,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "starr-township-hocking": {
    "name": "Starr Township",
@@ -9492,8 +9510,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "ward-township-hocking": {
    "name": "Ward Township",
@@ -9506,7 +9525,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "washington-township-hocking": {
    "name": "Washington Township",
@@ -9518,8 +9540,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "murray-city-hocking": {
    "name": "Murray City",
@@ -9588,8 +9611,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://dixonvalve.com/en/home",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "israel-township-preble": {
    "name": "Israel Township",
@@ -9631,8 +9655,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "harrison-township-preble": {
    "name": "Harrison Township",
@@ -9644,8 +9669,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "jackson-township-preble": {
    "name": "Jackson Township",
@@ -9658,7 +9684,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "jefferson-township-preble": {
    "name": "Jefferson Township",
@@ -9671,7 +9700,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "lanier-township-preble": {
    "name": "Lanier Township",
@@ -9683,8 +9715,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "somers-township-preble": {
    "name": "Somers Township",
@@ -9696,8 +9729,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "twin-township-preble": {
    "name": "Twin Township",
@@ -9709,8 +9743,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "washington-township-preble": {
    "name": "Washington Township",
@@ -9722,8 +9757,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "monroe-township-preble": {
    "name": "Monroe Township",
@@ -9735,8 +9771,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "west-manchester-preble": {
    "name": "West Manchester",
@@ -9836,8 +9873,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://www.preble-shawnee.k12.oh.us/welktonintermediateschool_home.aspx",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "<urlopen error [Errno -2] Name or service not known>"
+   "siteErrors": 3,
+   "lastError": "<urlopen error [Errno -2] Name or service not known>",
+   "watch": []
   },
   "newark-licking": {
    "name": "Newark",
@@ -9888,8 +9926,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://in.pinterest.com/pin/new-intro--954552083496735557",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "blocked by robots.txt"
+   "siteErrors": 3,
+   "lastError": "blocked by robots.txt",
+   "watch": []
   },
   "reynoldsburg-city-township-licking": {
    "name": "Reynoldsburg City Township",
@@ -10036,7 +10075,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "jersey-township-licking": {
    "name": "Jersey Township",
@@ -10139,7 +10181,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "perry-township-licking": {
    "name": "Perry Township",
@@ -10180,7 +10225,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "washington-township-licking": {
    "name": "Washington Township",
@@ -10365,8 +10413,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://www.villageofhartfordohio.org",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "bellefontaine-logan": {
    "name": "Bellefontaine",
@@ -10393,7 +10442,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "belle-center-logan": {
    "name": "Belle Center",
@@ -10487,8 +10539,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.cincinnati.com",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "storrs-township-hamilton": {
    "name": "Storrs Township",
@@ -10507,8 +10560,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.spencersonline.com",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "The read operation timed out"
+   "siteErrors": 3,
+   "lastError": "The read operation timed out",
+   "watch": []
   },
   "loveland-township-hamilton": {
    "name": "Loveland Township",
@@ -10666,7 +10720,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "millwood-township-guernsey": {
    "name": "Millwood Township",
@@ -10678,8 +10735,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "old-washington-guernsey": {
    "name": "Old Washington",
@@ -10707,8 +10765,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.cumberland.edu",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "norwalk-huron": {
    "name": "Norwalk",
@@ -10780,8 +10839,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "fitchville-township-huron": {
    "name": "Fitchville Township",
@@ -10793,8 +10853,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "greenfield-township-huron": {
    "name": "Greenfield Township",
@@ -10806,8 +10867,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "greenwich-township-huron": {
    "name": "Greenwich Township",
@@ -10819,8 +10881,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "congress-wayne": {
    "name": "Congress",
@@ -10833,8 +10896,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.congress.gov",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "plymouth-huron": {
    "name": "Plymouth",
@@ -10937,8 +11001,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://florencetwp.com/about/history.html",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "bellbrook-greene": {
    "name": "Bellbrook",
@@ -11019,8 +11084,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "gustavus-township-trumbull": {
    "name": "Gustavus Township",
@@ -11163,8 +11229,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "hubbard-township-trumbull": {
    "name": "Hubbard Township",
@@ -11246,8 +11313,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "washington-township-jackson": {
    "name": "Washington Township",
@@ -11259,8 +11327,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "coal-township-jackson": {
    "name": "Coal Township",
@@ -11272,8 +11341,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "franklin-township-jackson": {
    "name": "Franklin Township",
@@ -11311,8 +11381,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "lick-township-jackson": {
    "name": "Lick Township",
@@ -11338,8 +11409,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "milton-township-jackson": {
    "name": "Milton Township",
@@ -11636,8 +11708,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.worldhistory.org/Mesopotamia",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "medina-medina": {
    "name": "Medina",
@@ -11700,8 +11773,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://wildlife.ohiodnr.gov/Portals/wildlife/Maps/Wildlife%20Area%20Maps/PDFs/spencerlake.pdf",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "gallipolis-gallia": {
    "name": "Gallipolis",
@@ -11790,8 +11864,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "wadsworth-township-medina": {
    "name": "Wadsworth Township",
@@ -11937,8 +12012,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://www.villageofwestfieldcenter.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "chippewa-lake-medina": {
    "name": "Chippewa Lake",
@@ -12010,8 +12086,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "college-township-knox": {
    "name": "College Township",
@@ -12036,8 +12113,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "jackson-township-knox": {
    "name": "Jackson Township",
@@ -12078,8 +12156,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "milford-township-knox": {
    "name": "Milford Township",
@@ -12104,8 +12183,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "monroe-township-knox": {
    "name": "Monroe Township",
@@ -12130,8 +12210,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "pike-township-knox": {
    "name": "Pike Township",
@@ -12157,8 +12238,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "wayne-township-knox": {
    "name": "Wayne Township",
@@ -12197,8 +12279,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "hilliar-township-knox": {
    "name": "Hilliar Township",
@@ -12251,8 +12334,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "brown-township-knox": {
    "name": "Brown Township",
@@ -12292,8 +12376,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "gambier-knox": {
    "name": "Gambier",
@@ -12391,8 +12476,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "andover-township-ashtabula": {
    "name": "Andover Township",
@@ -12420,8 +12506,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "ashtabula-township-ashtabula": {
    "name": "Ashtabula Township",
@@ -12455,8 +12542,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "lenox-township-ashtabula": {
    "name": "Lenox Township",
@@ -12725,8 +12813,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.lakecountyohio.gov/boe/wp-content/uploads/sites/12/2024/06/Elected-Officials-6-10-24.pdf",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "madison-lake": {
    "name": "Madison",
@@ -12911,8 +13000,9 @@
    "websiteTried": "2026-11-18",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "mark-township-defiance": {
    "name": "Mark Township",
@@ -12924,8 +13014,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.merriam-webster.com/dictionary/mark",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "noble-township-defiance": {
    "name": "Noble Township",
@@ -13027,8 +13118,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.washingtonpost.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "The read operation timed out"
+   "siteErrors": 3,
+   "lastError": "The read operation timed out",
+   "watch": []
   },
   "duchouquet-township-auglaize": {
    "name": "Duchouquet Township",
@@ -13094,8 +13186,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://wayne.bank",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "jackson-township-auglaize": {
    "name": "Jackson Township",
@@ -13116,8 +13209,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.merriam-webster.com/dictionary/saint",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "moulton-township-auglaize": {
    "name": "Moulton Township",
@@ -13184,8 +13278,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.merriam-webster.com/dictionary/defiance",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "delaware-township-defiance": {
    "name": "Delaware Township",
@@ -13211,8 +13306,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.farmers.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "The read operation timed out"
+   "siteErrors": 3,
+   "lastError": "The read operation timed out",
+   "watch": []
   },
   "highland-township-defiance": {
    "name": "Highland Township",
@@ -13240,8 +13336,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.washingtonpost.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "The read operation timed out"
+   "siteErrors": 3,
+   "lastError": "The read operation timed out",
+   "watch": []
   },
   "new-bremen-auglaize": {
    "name": "New Bremen",
@@ -13445,8 +13542,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.britannica.com/science/sugar-chemical-compound",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "buckeye-lake-fairfield": {
    "name": "Buckeye Lake",
@@ -13560,8 +13658,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://amanda-the-adventurer.fandom.com/wiki/Amanda",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "berne-township-fairfield": {
    "name": "Berne Township",
@@ -13737,8 +13836,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.montgomeryal.gov",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "hambden-township-geauga": {
    "name": "Hambden Township",
@@ -13809,8 +13909,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.thompsoncigar.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "montville-township-geauga": {
    "name": "Montville Township",
@@ -13924,8 +14025,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.britannica.com/place/Peru",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "richmond-township-huron": {
    "name": "Richmond Township",
@@ -14006,8 +14108,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://in.pinterest.com/pin/new-intro--954552083496735557",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "blocked by robots.txt"
+   "siteErrors": 3,
+   "lastError": "blocked by robots.txt",
+   "watch": []
   },
   "chardon-geauga": {
    "name": "Chardon",
@@ -14281,8 +14384,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://wayne.bank",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "urbana-township-champaign": {
    "name": "Urbana Township",
@@ -14307,8 +14411,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.merriam-webster.com/dictionary/mad",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "harrison-township-champaign": {
    "name": "Harrison Township",
@@ -14420,8 +14525,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://in.pinterest.com/pin/new-intro--954552083496735557",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "blocked by robots.txt"
+   "siteErrors": 3,
+   "lastError": "blocked by robots.txt",
+   "watch": []
   },
   "bloomfield-township-logan": {
    "name": "Bloomfield Township",
@@ -14457,8 +14563,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.britannica.com/science/lake",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "pleasant-township-logan": {
    "name": "Pleasant Township",
@@ -14470,8 +14577,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.merriam-webster.com/dictionary/pleasant",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "harrison-township-logan": {
    "name": "Harrison Township",
@@ -14616,8 +14724,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.washingtonpost.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "The read operation timed out"
+   "siteErrors": 3,
+   "lastError": "The read operation timed out",
+   "watch": []
   },
   "zane-township-logan": {
    "name": "Zane Township",
@@ -15026,8 +15135,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://wayne.bank",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "washington-township-pickaway": {
    "name": "Washington Township",
@@ -15293,8 +15403,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://in.pinterest.com/pin/new-intro--954552083496735557",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "blocked by robots.txt"
+   "siteErrors": 3,
+   "lastError": "blocked by robots.txt",
+   "watch": []
   },
   "dorset-township-ashtabula": {
    "name": "Dorset Township",
@@ -15305,8 +15416,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.britannica.com/place/Dorset-county-England",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "rome-township-ashtabula": {
    "name": "Rome Township",
@@ -15345,8 +15457,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.britannica.com/place/Denmark",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "geneva-township-ashtabula": {
    "name": "Geneva Township",
@@ -15602,8 +15715,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.mayoclinic.org/diseases-conditions/addisons-disease/symptoms-causes/syc-20350293",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "cheshire-township-gallia": {
    "name": "Cheshire Township",
@@ -15736,8 +15850,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://www.britannica.com/animal/raccoon",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "springfield-township-gallia": {
    "name": "Springfield Township",
@@ -15818,8 +15933,9 @@
    "websiteTried": "2026-11-18",
    "website": "https://thetouristchecklist.com/things-to-do-in-farmington-pa",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "braceville-township-trumbull": {
    "name": "Braceville Township",
@@ -16073,7 +16189,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "cadiz-township-harrison": {
@@ -16100,7 +16216,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.orlandohealth.com/services/jewett-orthopedic-institute",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "roseville-harrison": {
@@ -16214,7 +16330,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "washington-township-harrison": {
@@ -16255,7 +16371,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 1,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "franklin-township-harrison": {
    "name": "Franklin Township",
@@ -16267,7 +16386,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "freeport-township-harrison": {
@@ -16280,7 +16399,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "german-township-harrison": {
@@ -16293,7 +16412,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "green-township-harrison": {
@@ -16320,7 +16439,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "moorefield-township-harrison": {
@@ -16333,7 +16452,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "nottingham-township-harrison": {
@@ -16346,7 +16465,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "short-creek-township-harrison": {
@@ -16359,7 +16478,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "stock-township-harrison": {
@@ -16372,7 +16491,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "creston-village-township-wayne": {
@@ -16398,7 +16517,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "chippewa-township-wayne": {
@@ -16436,7 +16555,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "franklin-township-wayne": {
@@ -16463,7 +16582,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "plain-township-wayne": {
@@ -16476,7 +16595,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "milton-township-wayne": {
@@ -16529,7 +16648,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "new-lyme-town-hall-ashtabula": {
@@ -16585,7 +16704,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "newton-township-muskingum": {
@@ -16598,7 +16717,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "harrison-township-muskingum": {
@@ -16611,7 +16730,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "adams-township-muskingum": {
@@ -16624,7 +16743,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "blue-rock-township-muskingum": {
@@ -16665,7 +16784,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "clay-township-muskingum": {
@@ -16678,7 +16797,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "falls-township-muskingum": {
@@ -16704,7 +16823,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "meigs-township-muskingum": {
@@ -16717,7 +16836,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "jefferson-township-muskingum": {
@@ -16730,7 +16849,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "highland-township-muskingum": {
@@ -16770,7 +16889,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "monroe-township-muskingum": {
@@ -16810,7 +16929,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "salem-township-muskingum": {
@@ -16823,7 +16942,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "salt-creek-township-muskingum": {
@@ -16836,7 +16955,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "springfield-township-muskingum": {
@@ -16849,7 +16968,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "union-township-muskingum": {
@@ -16862,7 +16981,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "washington-township-muskingum": {
@@ -16875,7 +16994,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "madison-township-muskingum": {
@@ -16888,7 +17007,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "muskingum-township-muskingum": {
@@ -17046,7 +17165,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "brady-township-williams": {
@@ -17058,7 +17177,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.bradyid.com",
    "websiteFrom": "search",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "bridgewater-township-williams": {
@@ -17087,7 +17206,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "pulaski-township-williams": {
@@ -17101,7 +17220,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 1,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "florence-township-williams": {
    "name": "Florence Township",
@@ -17113,7 +17235,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "jefferson-township-williams": {
@@ -17126,7 +17248,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "madison-township-williams": {
@@ -17139,7 +17261,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "mill-creek-township-williams": {
@@ -17152,7 +17274,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "northwest-township-williams": {
@@ -17165,7 +17287,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "st-joseph-township-williams": {
@@ -17192,7 +17314,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "pioneer-williams": {
@@ -17677,7 +17799,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "darby-township-madison": {
@@ -17690,7 +17812,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "deer-creek-township-madison": {
@@ -17703,7 +17825,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://agoperations.cfaes.ohio-state.edu/statewide-facilities/molly-caren-ag-center",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "fairfield-township-madison": {
@@ -17716,7 +17838,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "union-township-madison": {
@@ -17729,7 +17851,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "jefferson-township-madison": {
@@ -17755,7 +17877,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "oak-run-township-madison": {
@@ -17768,7 +17890,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "paint-township-madison": {
@@ -17797,7 +17919,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "pleasant-township-madison": {
@@ -17810,7 +17932,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "range-township-madison": {
@@ -17823,7 +17945,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "somerford-township-madison": {
@@ -17851,7 +17973,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "cecil-paulding": {
@@ -18018,7 +18140,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "austintown-township-mahoning": {
@@ -18109,7 +18231,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://cardgames.io/canfieldsolitaire",
    "websiteFrom": "search",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 404: Not Found"
   },
   "green-township-mahoning": {
@@ -18176,7 +18298,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "poland-township-mahoning": {
@@ -18277,7 +18399,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.columbiana.boe.ohio.gov/wp-content/uploads/2023/11/Final-Unofficial-Results.pdf",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "lowellville-mahoning": {
@@ -18359,7 +18481,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "blue-creek-township-paulding": {
@@ -18399,7 +18521,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "emerald-township-paulding": {
@@ -18412,7 +18534,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.emerald.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "paulding-township-paulding": {
@@ -18441,7 +18563,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "harrison-township-paulding": {
@@ -18454,7 +18576,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "jackson-township-paulding": {
@@ -18467,7 +18589,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "latty-township-paulding": {
@@ -18480,7 +18602,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "washington-township-paulding": {
@@ -18493,7 +18615,7 @@
    "websiteTried": "2026-11-19",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "haviland-paulding": {
@@ -18925,7 +19047,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.nba.com/bucks",
    "websiteFrom": "search",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "clay-township-tuscarawas": {
@@ -19011,7 +19133,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.oxfordlearnersdictionaries.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "perry-township-tuscarawas": {
@@ -19054,7 +19176,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.merriam-webster.com/dictionary/stone",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "bolivar-tuscarawas": {
@@ -19082,7 +19204,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.parral.cl",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "<urlopen error timed out>"
   },
   "gnadenhutten-tuscarawas": {
@@ -19358,7 +19480,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.merriam-webster.com/dictionary/west",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "washington-township-columbiana": {
@@ -19371,7 +19493,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.washingtonpost.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "The read operation timed out"
   },
   "knox-township-columbiana": {
@@ -19528,7 +19650,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.washingtonville-ny.gov",
    "websiteFrom": "search",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "new-waterford-columbiana": {
@@ -19869,7 +19991,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.apartments.com/village-on-south-carpenter-brunswick-oh/p1gth3r",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "bainbridge-ross": {
@@ -20020,7 +20142,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.bloomingdales.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "butler-township-richland": {
@@ -20275,7 +20397,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.merriam-webster.com/dictionary/north",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "galion-crawford": {
@@ -20392,7 +20514,10 @@
    "website": "https://holmescc.edu",
    "websiteFrom": "wikipedia",
    "siteErrors": 1,
-   "lastError": "<urlopen error timed out>"
+   "lastError": "<urlopen error timed out>",
+   "watch": [
+    "https://holmescc.edu"
+   ]
   },
   "texas-township-crawford": {
    "name": "Texas Township",
@@ -20404,7 +20529,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.texas.gov",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "liberty-township-crawford": {
@@ -20516,7 +20641,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.amazon.com/whetstone/s",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 503: Service Unavailable"
   },
   "jefferson-township-crawford": {
@@ -20697,7 +20822,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://travel.usnews.com/Paris_France/Things_To_Do",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "The read operation timed out"
   },
   "randolph-township-portage": {
@@ -20842,7 +20967,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.bradyid.com",
    "websiteFrom": "search",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "kent-portage": {
@@ -20962,7 +21087,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.washingtonpost.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "The read operation timed out"
   },
   "canton-township-stark": {
@@ -21109,7 +21234,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.britannica.com/science/sugar-chemical-compound",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "tuscarawas-township-stark": {
@@ -21161,7 +21286,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.britannica.com/place/Bethlehem",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "lexington-township-stark": {
@@ -21229,7 +21354,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.canalplus.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "louisville-stark": {
@@ -21365,7 +21490,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.meyersrvsuperstores.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "east-canton-stark": {
@@ -21591,7 +21716,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.britannica.com/place/Nevada-state",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "harpster-wyandot": {
@@ -21714,7 +21839,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://amanda-the-adventurer.fandom.com/wiki/Amanda",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "biglick-township-hancock": {
@@ -21764,7 +21889,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.britannica.com/animal/eagle-bird",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "union-township-hancock": {
@@ -21838,7 +21963,7 @@
    "websiteTried": "2026-11-19",
    "website": "https://www.merriam-webster.com/dictionary/pleasant",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "portage-township-hancock": {
@@ -21847,7 +21972,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Portage Township, Hancock County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "van-buren-township-hancock": {
    "name": "Van Buren Township",
@@ -21855,7 +21985,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Van Buren Township, Hancock County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "washington-township-hancock": {
    "name": "Washington Township",
@@ -21863,7 +21998,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Washington Township, Hancock County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "findlay-hancock": {
    "name": "Findlay",
@@ -21885,7 +22025,12 @@
    "level": "city",
    "display": "Village of McComb",
    "wiki": "McComb, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://villageofmccomboh.gov/village-of-mccomb/mayor",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "<urlopen error [Errno -5] No address associated with hostname>"
   },
   "benton-ridge-hancock": {
    "name": "Benton Ridge",
@@ -21894,7 +22039,15 @@
    "level": "city",
    "display": "Village of Benton Ridge",
    "wiki": "Benton Ridge, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.blufftonicon.com/news/2024/11/21/fairy-i-parkins-was-postmaster-benton-ridge",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.blufftonicon.com/news-menu",
+    "https://www.blufftonicon.com/news/blanchard-valley-health-system",
+    "https://www.blufftonicon.com/news/bluffton-public-library"
+   ]
   },
   "rawson-hancock": {
    "name": "Rawson",
@@ -21903,7 +22056,14 @@
    "level": "city",
    "display": "Village of Rawson",
    "wiki": "Rawson, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://rawsonvillage.org",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://rawsonvillage.org/recent-news",
+    "https://rawsonvillage.org/news-detail?item_id=36076"
+   ]
   },
   "vanlue-hancock": {
    "name": "Vanlue",
@@ -21941,7 +22101,13 @@
    "level": "city",
    "display": "Village of Van Buren",
    "wiki": "Van Buren, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://worldpopulationreview.com/us-cities/ohio/van-buren",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://worldpopulationreview.com/us-cities/ohio/van-buren"
+   ]
   },
   "jenera-hancock": {
    "name": "Jenera",
@@ -21950,7 +22116,15 @@
    "level": "city",
    "display": "Village of Jenera",
    "wiki": "Jenera, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.ohio.edu/scripps-college/journalism/e-w-scripps-school-journalism-ohio-pronunciation-guide-1",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.ohio.edu/news",
+    "https://www.ohio.edu/accessibility/notice-under-ada",
+    "https://www.ohio.edu/hr/law-notices"
+   ]
   },
   "mount-cory-hancock": {
    "name": "Mount Cory",
@@ -21959,7 +22133,12 @@
    "level": "city",
    "display": "Village of Mount Cory",
    "wiki": "Mount Cory, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.merriam-webster.com/dictionary/mount",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "mount-blanchard-hancock": {
    "name": "Mount Blanchard",
@@ -21968,7 +22147,12 @@
    "level": "city",
    "display": "Village of Mount Blanchard",
    "wiki": "Mount Blanchard, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://mtblanchardoh.com/villagesite",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "fostoria-hancock": {
    "name": "Fostoria",
@@ -21990,7 +22174,13 @@
    "level": "city",
    "display": "Village of South Solon",
    "wiki": "South Solon, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.southwest.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.southwest.com"
+   ]
   },
   "midway-madison": {
    "name": "Midway",
@@ -21999,7 +22189,13 @@
    "level": "city",
    "display": "Village of Midway",
    "wiki": "Midway, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://reference.allrefer.com/gazetteer/M/M07071-midway.html",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "http://reference.allrefer.com/"
+   ]
   },
   "mount-sterling-madison": {
    "name": "Mount Sterling",
@@ -22008,7 +22204,15 @@
    "level": "city",
    "display": "Village of Mount Sterling",
    "wiki": "Mount Sterling, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://web.archive.org/web/20160720185002/http://www.dispatch.com/content/stories/local/2016/07/19/Mount-Sterling-administrator-indicted.html",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://web.archive.org/web/20160720185002/http://www.mypublicnotices.com/dispatch/PublicNotice.asp?cmpid=tplnnvhp",
+    "https://web.archive.org/web/20160720185002/http://www.dispatch.com/content/sections/news/weather/index.html",
+    "https://web.archive.org/web/20160720185002/http://www.dispatch.com/content/sections/news/index.html?cmpid=tplnnv"
+   ]
   },
   "leesville-town-hall-crawford": {
    "name": "Leesville Town Hall",
@@ -22016,7 +22220,13 @@
    "added": "2026-11-17",
    "level": "city",
    "display": "City of Leesville Town Hall",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.leesvillela.gov",
+   "websiteFrom": "search",
+   "watch": [
+    "https://www.leesvillela.gov/CivicAlerts.aspx?CID=5"
+   ]
   },
   "portage-township-summit": {
    "name": "Portage Township",
@@ -22024,7 +22234,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Portage Township, Summit County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://web.archive.org/web/20120619051107/http://www.genealogyinc.com/ohio/maps",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://web.archive.org/web/20120619051107/http://www.genealogyinc.com/ohio/maps"
+   ]
   },
   "st-clairsville-belmont": {
    "name": "St. Clairsville",
@@ -22103,7 +22319,12 @@
    "level": "city",
    "display": "Village of Bridgeport",
    "wiki": "Bridgeport, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://web.archive.org/web/20111209124327/http://theintelligencer.net/page/content.detail/id/559278/Long-Standing-Bridgeport-Bridge-Razed-Today.html",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "belmont-belmont": {
    "name": "Belmont",
@@ -22126,7 +22347,12 @@
    "level": "city",
    "display": "Village of Flushing",
    "wiki": "Flushing, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://ohio.org/travel-inspiration/articles/unique-museum-tourism-the-underground-railroad-museum-flushing-ohio",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "bethesda-belmont": {
    "name": "Bethesda",
@@ -22148,7 +22374,13 @@
    "added": "2026-11-17",
    "level": "city",
    "display": "Village of Fairview",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.fairview.org",
+   "websiteFrom": "search",
+   "watch": [
+    "https://www.fairview.org/blog"
+   ]
   },
   "yorkville-belmont": {
    "name": "Yorkville",
@@ -22156,7 +22388,13 @@
    "added": "2026-11-17",
    "level": "city",
    "display": "Village of Yorkville",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.yorkville.com",
+   "websiteFrom": "search",
+   "watch": [
+    "https://www.yorkville.com"
+   ]
   },
   "holloway-belmont": {
    "name": "Holloway",
@@ -22165,7 +22403,13 @@
    "level": "city",
    "display": "Village of Holloway",
    "wiki": "Holloway, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.momentecbrands.com/holloway",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.momentecbrands.com/holloway"
+   ]
   },
   "brookside-belmont": {
    "name": "Brookside",
@@ -22187,7 +22431,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Pultney Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "wheeling-township-belmont": {
    "name": "Wheeling Township",
@@ -22195,7 +22444,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Wheeling Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "union-township-belmont": {
    "name": "Union Township",
@@ -22203,7 +22458,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Union Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "washington-township-belmont": {
    "name": "Washington Township",
@@ -22211,7 +22471,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Washington Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "kirkwood-township-belmont": {
    "name": "Kirkwood Township",
@@ -22219,7 +22484,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Kirkwood Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "colerain-township-belmont": {
    "name": "Colerain Township",
@@ -22227,7 +22497,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Colerain Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "smith-township-belmont": {
    "name": "Smith Township",
@@ -22235,7 +22510,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Smith Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "goshen-township-belmont": {
    "name": "Goshen Township",
@@ -22243,7 +22523,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Goshen Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "york-township-belmont": {
    "name": "York Township",
@@ -22251,7 +22536,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "York Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.reuters.com/article/us-exxon-xto-natgas-ohio-idUSKCN1GJ355",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "blocked by robots.txt"
   },
   "pease-township-belmont": {
    "name": "Pease Township",
@@ -22259,7 +22549,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Pease Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "warren-township-belmont": {
    "name": "Warren Township",
@@ -22267,7 +22562,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Warren Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "wayne-township-belmont": {
    "name": "Wayne Township",
@@ -22275,7 +22575,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Wayne Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "somerset-township-belmont": {
    "name": "Somerset Township",
@@ -22283,7 +22588,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Somerset Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "flushing-township-belmont": {
    "name": "Flushing Township",
@@ -22291,7 +22601,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Flushing Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "mead-township-belmont": {
    "name": "Mead Township",
@@ -22299,7 +22614,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Mead Township, Belmont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "richland-township-belmont": {
    "name": "Richland Township",
@@ -22319,7 +22639,14 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Northampton Township, Summit County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.northampton.edu",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.northampton.edu/news/index.html",
+    "https://www.northampton.edu/news/"
+   ]
   },
   "northfield-center-township-summit": {
    "name": "Northfield Center Township",
@@ -22327,7 +22654,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Northfield Center Township, Summit County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "richfield-township-summit": {
    "name": "Richfield Township",
@@ -22335,7 +22667,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Richfield Township, Summit County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "sagamore-hills-township-summit": {
    "name": "Sagamore Hills Township",
@@ -22343,7 +22680,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Sagamore Hills Township, Summit County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "springfield-township-summit": {
    "name": "Springfield Township",
@@ -22366,7 +22708,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Twinsburg Township, Summit County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://twinsburg200.com/tag/wilcox-twins",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://twinsburg200.com/tag/wilcox-twins/"
+   ]
   },
   "starrs-corners-mahoning": {
    "name": "Starrs Corners",
@@ -22374,7 +22722,13 @@
    "added": "2026-11-17",
    "level": "city",
    "display": "Village of Starrs Corners",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://starrs.us",
+   "websiteFrom": "search",
+   "watch": [
+    "https://starrs.us/blog/"
+   ]
   },
   "tiffin-seneca": {
    "name": "Tiffin",
@@ -22502,7 +22856,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Oxford Township, Butler County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "reily-township-butler": {
    "name": "Reily Township",
@@ -22564,7 +22923,12 @@
    "level": "city",
    "display": "Village of Seven Mile",
    "wiki": "Seven Mile, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://liveresults.boe.ohio.gov/ENR/butlerohenr/18/en/Index_18.html",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "liberty-township-seneca": {
    "name": "Liberty Township",
@@ -22572,7 +22936,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Liberty Township, Seneca County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "bellevue-seneca": {
    "name": "Bellevue",
@@ -22605,7 +22974,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Reed Township, Seneca County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "adams-township-seneca": {
    "name": "Adams Township",
@@ -22613,7 +22987,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Adams Township, Seneca County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "big-spring-township-seneca": {
    "name": "Big Spring Township",
@@ -22621,7 +23000,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Big Spring Township, Seneca County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.bigtenplus.com/en-int/page/home",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.bigtenplus.com/en-int/page/home"
+   ]
   },
   "bloom-township-seneca": {
    "name": "Bloom Township",
@@ -22629,7 +23014,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Bloom Township, Seneca County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "clinton-township-seneca": {
    "name": "Clinton Township",
@@ -22637,7 +23028,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Clinton Township, Seneca County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "eden-township-seneca": {
    "name": "Eden Township",
@@ -22645,7 +23041,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Eden Township, Seneca County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "hopewell-township-seneca": {
    "name": "Hopewell Township",
@@ -22705,7 +23106,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Scipio Township, Seneca County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "seneca-township-seneca": {
    "name": "Seneca Township",
@@ -22726,7 +23132,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Thompson Township, Seneca County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "venice-township-seneca": {
    "name": "Venice Township",
@@ -22734,7 +23145,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Venice Township, Seneca County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "new-riegel-seneca": {
    "name": "New Riegel",
@@ -22743,7 +23159,15 @@
    "level": "city",
    "display": "Village of New Riegel",
    "wiki": "New Riegel, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.foxnews.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.foxnews.com/",
+    "https://www.foxnews.com",
+    "https://www.foxnews.com/for-you"
+   ]
   },
   "bettsville-seneca": {
    "name": "Bettsville",
@@ -22768,7 +23192,12 @@
    "level": "city",
    "display": "Village of Bloomville",
    "wiki": "Bloomville, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.nytimes.com/1889/11/06/archives/an-ohio-town-burning.html",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "republic-seneca": {
    "name": "Republic",
@@ -22777,7 +23206,13 @@
    "level": "city",
    "display": "Village of Republic",
    "wiki": "Republic, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.republicservices.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.republicservices.com/suppliers"
+   ]
   },
   "dellroy-carroll": {
    "name": "Dellroy",
@@ -22816,7 +23251,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Troy Township, Ashland County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://www.troytwp.org/about.html",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "blocked by robots.txt"
   },
   "mifflin-township-ashland": {
    "name": "Mifflin Township",
@@ -22837,7 +23277,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Milton Township, Ashland County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://www.ashlandohio.pa-roots.com/Hist-CC.html",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "mohican-township-ashland": {
    "name": "Mohican Township",
@@ -22845,7 +23290,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Mohican Township, Ashland County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "vermillion-township-ashland": {
    "name": "Vermillion Township",
@@ -22853,7 +23303,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Vermillion Township, Ashland County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "sullivan-township-ashland": {
    "name": "Sullivan Township",
@@ -22875,7 +23330,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Hanover Township, Ashland County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://dam.assets.ohio.gov/image/upload/development.ohio.gov/research/census/Population-and-Household-Counts-for-Governmental-Units-2010-2000-and-1990.pdf",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://dam.assets.ohio.gov/image/upload/development.ohio.gov/research/census/Population-and-Household-Counts-for-Governmental-Units-2010-2000-and-1990.pdf"
+   ]
   },
   "orange-township-ashland": {
    "name": "Orange Township",
@@ -22896,7 +23357,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Lake Township, Ashland County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://dam.assets.ohio.gov/image/upload/development.ohio.gov/research/census/Population-and-Household-Counts-for-Governmental-Units-2010-2000-and-1990.pdf",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://dam.assets.ohio.gov/image/upload/development.ohio.gov/research/census/Population-and-Household-Counts-for-Governmental-Units-2010-2000-and-1990.pdf"
+   ]
   },
   "clear-creek-township-ashland": {
    "name": "Clear Creek Township",
@@ -22904,7 +23371,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Clear Creek Township, Ashland County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://www.ashlandohio.pa-roots.com/Hist-CC.html",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "montgomery-township-ashland": {
    "name": "Montgomery Township",
@@ -22925,7 +23397,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Ruggles Township, Ashland County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://dam.assets.ohio.gov/image/upload/development.ohio.gov/research/census/Population-and-Household-Counts-for-Governmental-Units-2010-2000-and-1990.pdf",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://dam.assets.ohio.gov/image/upload/development.ohio.gov/research/census/Population-and-Household-Counts-for-Governmental-Units-2010-2000-and-1990.pdf"
+   ]
   },
   "perry-township-ashland": {
    "name": "Perry Township",
@@ -22933,7 +23411,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Perry Township, Ashland County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "jackson-township-ashland": {
    "name": "Jackson Township",
@@ -22969,7 +23452,13 @@
    "level": "city",
    "display": "Village of Polk",
    "wiki": "Polk, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.polkaudio.com/en-us",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.polkaudio.com/en-us/"
+   ]
   },
   "savannah-ashland": {
    "name": "Savannah",
@@ -22978,7 +23467,12 @@
    "level": "city",
    "display": "Village of Savannah",
    "wiki": "Savannah, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://visitsavannah.com",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "mifflin-ashland": {
    "name": "Mifflin",
@@ -22987,7 +23481,13 @@
    "level": "city",
    "display": "Village of Mifflin",
    "wiki": "Mifflin, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.leighpeele.com/mifflin-st-jeor-calculator",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.leighpeele.com/mifflin-st-jeor-calculator"
+   ]
   },
   "jeromesville-ashland": {
    "name": "Jeromesville",
@@ -23023,7 +23523,8 @@
    "level": "city",
    "display": "Village of Hayesville",
    "wiki": "Hayesville, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "ashland-ashland": {
    "name": "Ashland",
@@ -23099,7 +23600,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Madison Township, Sandusky County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "ballville-township-sandusky": {
    "name": "Ballville Township",
@@ -23119,7 +23625,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Green Creek Township, Sandusky County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "woodville-township-sandusky": {
    "name": "Woodville Township",
@@ -23230,7 +23741,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Washington Township, Sandusky County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "wabash-township-darke": {
    "name": "Wabash Township",
@@ -23277,7 +23793,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Allen Township, Darke County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "neave-township-darke": {
    "name": "Neave Township",
@@ -23285,7 +23806,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Neave Township, Darke County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "franklin-township-darke": {
    "name": "Franklin Township",
@@ -23387,7 +23913,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Brown Township, Darke County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "van-buren-township-darke": {
    "name": "Van Buren Township",
@@ -23395,7 +23926,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Van Buren Township, Darke County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://www.co.darke.oh.us",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "http://www.co.darke.oh.us"
+   ]
   },
   "butler-township-darke": {
    "name": "Butler Township",
@@ -23433,7 +23970,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Mississinawa Township, Darke County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "greenville-township-darke": {
    "name": "Greenville Township",
@@ -23441,7 +23983,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Greenville Township, Darke County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "twin-township-darke": {
    "name": "Twin Township",
@@ -23449,7 +23996,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Twin Township, Darke County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "gibsonburg-sandusky": {
    "name": "Gibsonburg",
@@ -23485,7 +24037,15 @@
    "level": "city",
    "display": "Village of Burgoon",
    "wiki": "Burgoon, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://web.archive.org/web/20260730125828/https://www.ohio.edu/scripps-college/journalism/e-w-scripps-school-journalism-ohio-pronunciation-guide-1",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://web.archive.org/web/20260730125828/https://www.ohio.edu/news",
+    "https://web.archive.org/web/20260730125828/https://www.ohio.edu/accessibility/notice-under-ada",
+    "https://web.archive.org/web/20260730125828/https://www.ohio.edu/hr/law-notices"
+   ]
   },
   "lindsey-sandusky": {
    "name": "Lindsey",
@@ -23494,7 +24054,13 @@
    "level": "city",
    "display": "Village of Lindsey",
    "wiki": "Lindsey, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.villageoflindseyohio.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.villageoflindseyohio.com"
+   ]
   },
   "union-city-darke": {
    "name": "Union City",
@@ -23515,7 +24081,14 @@
    "level": "city",
    "display": "Village of Pitsburg",
    "wiki": "Pitsburg, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.franklin-monroe.k12.oh.us",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.franklin-monroe.k12.oh.us/fs/pages/745",
+    "https://www.franklin-monroe.k12.oh.us/view-all-news"
+   ]
   },
   "burkettsville-darke": {
    "name": "Burkettsville",
@@ -23524,7 +24097,15 @@
    "level": "city",
    "display": "Village of Burkettsville",
    "wiki": "Burkettsville, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://web.archive.org/web/20260730125828/https://www.ohio.edu/scripps-college/journalism/e-w-scripps-school-journalism-ohio-pronunciation-guide-1",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://web.archive.org/web/20260730125828/https://www.ohio.edu/news",
+    "https://web.archive.org/web/20260730125828/https://www.ohio.edu/accessibility/notice-under-ada",
+    "https://web.archive.org/web/20260730125828/https://www.ohio.edu/hr/law-notices"
+   ]
   },
   "osgood-darke": {
    "name": "Osgood",
@@ -23547,7 +24128,15 @@
    "level": "city",
    "display": "Village of Castine",
    "wiki": "Castine, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.ohio.edu/scripps-college/journalism/e-w-scripps-school-journalism-ohio-pronunciation-guide-1",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.ohio.edu/news",
+    "https://www.ohio.edu/accessibility/notice-under-ada",
+    "https://www.ohio.edu/hr/law-notices"
+   ]
   },
   "north-star-darke": {
    "name": "North Star",
@@ -23612,7 +24201,12 @@
    "level": "city",
    "display": "Village of Yorkshire",
    "wiki": "Yorkshire, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.yorkshire.com",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "hollansburg-darke": {
    "name": "Hollansburg",
@@ -23621,7 +24215,8 @@
    "level": "city",
    "display": "Village of Hollansburg",
    "wiki": "Hollansburg, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "new-weston-darke": {
    "name": "New Weston",
@@ -23630,7 +24225,15 @@
    "level": "city",
    "display": "Village of New Weston",
    "wiki": "New Weston, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.foxnews.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.foxnews.com/",
+    "https://www.foxnews.com",
+    "https://www.foxnews.com/for-you"
+   ]
   },
   "versailles-darke": {
    "name": "Versailles",
@@ -23654,7 +24257,15 @@
    "level": "city",
    "display": "Village of Ithaca",
    "wiki": "Ithaca, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.whio.com/news/local/ex-mayor-darke-county-village-repays-nearly-39k-after-misused-funds-investigation/EG2BWRYVJBAUTBOBI4VKXPR3SA",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.whio.com/news/",
+    "https://www.whio.com/news/investigations/",
+    "https://www.whio.com/news/elections/"
+   ]
   },
   "gettysburg-darke": {
    "name": "Gettysburg",
@@ -23663,7 +24274,13 @@
    "level": "city",
    "display": "Village of Gettysburg",
    "wiki": "Gettysburg, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://villageofgettysburgohio.org",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://villageofgettysburgohio.org"
+   ]
   },
   "arcanum-darke": {
    "name": "Arcanum",
@@ -23699,7 +24316,14 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Augusta Township, Carroll County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.augustaga.gov",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.augustaga.gov/CivicAlerts.aspx?CID=1",
+    "https://www.augustaga.gov/2567/ADA-Notice"
+   ]
   },
   "center-township-carroll": {
    "name": "Center Township",
@@ -23707,7 +24331,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Center Township, Carroll County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "washington-township-carroll": {
    "name": "Washington Township",
@@ -23715,7 +24344,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Washington Township, Carroll County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "brown-township-carroll": {
    "name": "Brown Township",
@@ -23723,7 +24357,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Brown Township, Carroll County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "monroe-township-carroll": {
    "name": "Monroe Township",
@@ -23731,14 +24370,24 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Monroe Township, Carroll County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "east-township-carroll": {
    "name": "East Township",
    "county": "Carroll",
    "added": "2026-11-17",
    "level": "township",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.merriam-webster.com/dictionary/east",
+   "websiteFrom": "search",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "orange-township-carroll": {
    "name": "Orange Township",
@@ -23746,7 +24395,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Orange Township, Carroll County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "rose-township-carroll": {
    "name": "Rose Township",
@@ -23766,7 +24420,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Fox Township, Carroll County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "harrison-township-carroll": {
    "name": "Harrison Township",
@@ -23774,7 +24433,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Harrison Township, Carroll County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "loudon-township-carroll": {
    "name": "Loudon Township",
@@ -23782,7 +24446,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Loudon Township, Carroll County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "perry-township-carroll": {
    "name": "Perry Township",
@@ -23790,7 +24459,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Perry Township, Carroll County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://devresearch.ohio.gov/files/research/P3008.pdfOhio",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "union-township-carroll": {
    "name": "Union Township",
@@ -23813,7 +24487,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Lee Township, Carroll County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "springfield-clark": {
    "name": "Springfield",
@@ -23859,7 +24538,13 @@
    "level": "city",
    "display": "Village of Leesville",
    "wiki": "Leesville, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.leesvillela.gov",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.leesvillela.gov/CivicAlerts.aspx?CID=5"
+   ]
   },
   "sherrodsville-carroll": {
    "name": "Sherrodsville",
@@ -23868,7 +24553,15 @@
    "level": "city",
    "display": "Village of Sherrodsville",
    "wiki": "Sherrodsville, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.ohio.edu/scripps-college/journalism/e-w-scripps-school-journalism-ohio-pronunciation-guide-1",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.ohio.edu/news",
+    "https://www.ohio.edu/accessibility/notice-under-ada",
+    "https://www.ohio.edu/hr/law-notices"
+   ]
   },
   "new-carlisle-clark": {
    "name": "New Carlisle",
@@ -23904,7 +24597,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Green Township, Clark County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "german-township-clark": {
    "name": "German Township",
@@ -23940,7 +24639,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Madison Township, Clark County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "pike-township-clark": {
    "name": "Pike Township",
@@ -23948,7 +24652,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Pike Township, Clark County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "moorefield-township-clark": {
    "name": "Moorefield Township",
@@ -23969,7 +24678,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Harmony Township, Clark County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "http://codes.ohio.gov/orc/503.24",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 429: Too Many Requests"
   },
   "pleasant-township-clark": {
    "name": "Pleasant Township",
@@ -23977,7 +24691,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Pleasant Township, Clark County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.merriam-webster.com/dictionary/pleasant",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "springfield-township-clark": {
    "name": "Springfield Township",
@@ -23985,7 +24704,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Springfield Township, Clark County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.springfield-armory.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.springfield-armory.com"
+   ]
   },
   "catawba-clark": {
    "name": "Catawba",
@@ -23994,7 +24719,15 @@
    "level": "city",
    "display": "Village of Catawba",
    "wiki": "Catawba, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://catawba.edu",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.catawba.edu:443/news/news-category/academics",
+    "https://www.catawba.edu:443/news/news-category/catawba-impact",
+    "https://www.catawba.edu:443/news/news-category/faculty"
+   ]
   },
   "donnelsville-clark": {
    "name": "Donnelsville",
@@ -24003,7 +24736,8 @@
    "level": "city",
    "display": "Village of Donnelsville",
    "wiki": "Donnelsville, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "south-charleston-clark": {
    "name": "South Charleston",
@@ -24025,7 +24759,12 @@
    "level": "city",
    "display": "Village of North Hampton",
    "wiki": "North Hampton, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.thenorthface.com/en-us",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "enon-clark": {
    "name": "Enon",
@@ -24049,7 +24788,13 @@
    "level": "city",
    "display": "Village of South Vienna",
    "wiki": "South Vienna, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.southwest.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.southwest.com"
+   ]
   },
   "tremont-city-clark": {
    "name": "Tremont City",
@@ -24057,7 +24802,13 @@
    "added": "2026-11-17",
    "level": "city",
    "wiki": "Tremont City, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://tremontsportingco.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://tremontsportingco.com"
+   ]
   },
   "freedom-township-wood": {
    "name": "Freedom Township",
@@ -24080,7 +24831,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Grand Rapids Township, Wood County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.grandhomes.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.grandhomes.com"
+   ]
   },
   "middleton-township-wood": {
    "name": "Middleton Township",
@@ -24144,7 +24901,15 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Montgomery Township, Wood County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.montgomeryohio.gov",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.montgomeryohio.gov/rfq-rfps-bids-and-procurement/",
+    "https://www.montgomeryohio.gov/news/",
+    "https://www.montgomeryohio.gov/news-announcements/"
+   ]
   },
   "perrysburg-township-wood": {
    "name": "Perrysburg Township",
@@ -24179,7 +24944,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Portage Township, Wood County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://portagelearning.edu",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://portagelearning.edu"
+   ]
   },
   "troy-township-wood": {
    "name": "Troy Township",
@@ -24199,7 +24970,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Webster Township, Wood County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.merriam-webster.com",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "weston-township-wood": {
    "name": "Weston Township",
@@ -24219,7 +24995,15 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Liberty Township, Wood County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.liberty.edu",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.liberty.edu/news/2026/11/17/christmas-in-lights-students-gather-for-shining-start-to-the-holiday-season/",
+    "https://www.liberty.edu/news/2026/11/18/gov-sarah-huckabee-sanders-urges-liberty-students-to-embrace-their-identities-in-christ/",
+    "https://www.liberty.edu/news/2026/11/16/military-appreciation-month-meet-our-veterans/"
+   ]
   },
   "proctorville-lawrence": {
    "name": "Proctorville",
@@ -24228,7 +25012,8 @@
    "level": "city",
    "display": "Village of Proctorville",
    "wiki": "Proctorville, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "millersburg-holmes": {
    "name": "Millersburg",
@@ -24262,7 +25047,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Clark Township, Holmes County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.clarks.com/en-us",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.clarks.com/en-us/privacy-policy"
+   ]
   },
   "hardy-township-holmes": {
    "name": "Hardy Township",
@@ -24283,7 +25074,8 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Killbuck Township, Holmes County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "monroe-township-holmes": {
    "name": "Monroe Township",
@@ -24291,7 +25083,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Monroe Township, Holmes County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.monroe.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.monroe.com/cookie-notice.html"
+   ]
   },
   "paint-township-holmes": {
    "name": "Paint Township",
@@ -24299,7 +25097,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Paint Township, Holmes County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://paint.js.org",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://paint.js.org"
+   ]
   },
   "prairie-township-holmes": {
    "name": "Prairie Township",
@@ -24307,7 +25111,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Prairie Township, Holmes County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.britannica.com/science/prairie",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "richland-township-holmes": {
    "name": "Richland Township",
@@ -24315,7 +25124,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Richland Township, Holmes County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.richland.edu",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.richland.edu/about-richland/news/"
+   ]
   },
   "ripley-township-holmes": {
    "name": "Ripley Township",
@@ -24323,7 +25138,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Ripley Township, Holmes County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://ripleyfieldworktracker.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://ripleyfieldworktracker.com"
+   ]
   },
   "walnut-creek-township-holmes": {
    "name": "Walnut Creek Township",
@@ -24331,7 +25152,14 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Walnut Creek Township, Holmes County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.healthline.com/nutrition/benefits-of-walnuts",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.healthline.com/health-news",
+    "https://www.healthline.com/about/privacy-notice"
+   ]
   },
   "mechanic-township-holmes": {
    "name": "Mechanic Township",
@@ -24339,7 +25167,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Mechanic Township, Holmes County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.yourmechanic.com/city/pflugerville-tx",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.yourmechanic.com/news"
+   ]
   },
   "washington-township-holmes": {
    "name": "Washington Township",
@@ -24347,7 +25181,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Washington Township, Holmes County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.washingtonpost.com",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "The read operation timed out"
   },
   "knox-township-holmes": {
    "name": "Knox Township",
@@ -24355,14 +25194,25 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Knox Township, Holmes County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.samsung.com/us/business/solutions/samsung-knox",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.samsung.com/us/business/solutions/samsung-knox/"
+   ]
   },
   "wayne-township-mercer": {
    "name": "Wayne Township",
    "county": "Mercer",
    "added": "2026-11-17",
    "level": "township",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://wayne.edu",
+   "websiteFrom": "search",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "salt-creek-township-holmes": {
    "name": "Salt Creek Township",
@@ -24370,7 +25220,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Salt Creek Township, Holmes County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.britannica.com/science/salt",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "killbuck-holmes": {
    "name": "Killbuck",
@@ -24405,7 +25260,8 @@
    "level": "city",
    "display": "Village of Glenmont",
    "wiki": "Glenmont, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "baltic-holmes": {
    "name": "Baltic",
@@ -24413,7 +25269,13 @@
    "added": "2026-11-17",
    "level": "city",
    "display": "Village of Baltic",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://baltic-watches.com/en",
+   "websiteFrom": "search",
+   "watch": [
+    "https://baltic-watches.com/en"
+   ]
   },
   "nashville-holmes": {
    "name": "Nashville",
@@ -24422,7 +25284,12 @@
    "level": "city",
    "display": "Village of Nashville",
    "wiki": "Nashville, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.travelandleisure.com/best-things-to-do-in-nashville-tennessee-11892014",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "holmesville-holmes": {
    "name": "Holmesville",
@@ -24431,7 +25298,8 @@
    "level": "city",
    "display": "Village of Holmesville",
    "wiki": "Holmesville, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "coshocton-coshocton": {
    "name": "Coshocton",
@@ -24454,7 +25322,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Adams Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.adamsmoulding.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.adamsmoulding.com"
+   ]
   },
   "keene-township-coshocton": {
    "name": "Keene Township",
@@ -24462,7 +25336,15 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Keene Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.keene.edu",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.keene.edu/news/events/categories/academic/",
+    "https://www.keene.edu/news/events/",
+    "https://www.keene.edu/news"
+   ]
   },
   "bedford-township-coshocton": {
    "name": "Bedford Township",
@@ -24470,7 +25352,14 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Bedford Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://bedfordtx.gov",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://bedfordtx.gov/CivicAlerts.aspx?CID=7",
+    "https://bedfordtx.gov/site/copyright"
+   ]
   },
   "bethlehem-township-coshocton": {
    "name": "Bethlehem Township",
@@ -24478,7 +25367,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Bethlehem Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.britannica.com/place/Bethlehem",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "lafayette-township-coshocton": {
    "name": "Lafayette Township",
@@ -24486,7 +25380,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Lafayette Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.lafayette.edu",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.lafayette.edu"
+   ]
   },
   "jefferson-township-coshocton": {
    "name": "Jefferson Township",
@@ -24494,7 +25394,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Jefferson Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://jeffersoncountytx.gov",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://jeffersoncountytx.gov/Purchasing/"
+   ]
   },
   "tiverton-township-coshocton": {
    "name": "Tiverton Township",
@@ -24502,7 +25408,8 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Tiverton Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "tuscarawas-township-coshocton": {
    "name": "Tuscarawas Township",
@@ -24510,7 +25417,15 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Tuscarawas Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.co.tuscarawas.oh.us",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.co.tuscarawas.oh.us/government/engineer/projects_and_bids.php",
+    "https://www.co.tuscarawas.oh.us/business/guide_to_new_business/purchasing_a_business.php",
+    "https://www.co.tuscarawas.oh.us/how_do_i/surplus_auctions.php"
+   ]
   },
   "mill-creek-township-coshocton": {
    "name": "Mill Creek Township",
@@ -24518,7 +25433,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Mill Creek Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.mill.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.mill.com"
+   ]
   },
   "linton-township-coshocton": {
    "name": "Linton Township",
@@ -24526,7 +25447,8 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Linton Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "clark-township-coshocton": {
    "name": "Clark Township",
@@ -24534,7 +25456,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Clark Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.clarks.com/en-us",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.clarks.com/en-us/privacy-policy"
+   ]
   },
   "washington-township-coshocton": {
    "name": "Washington Township",
@@ -24542,7 +25470,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Washington Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.washingtonpost.com",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "The read operation timed out"
   },
   "crawford-township-coshocton": {
    "name": "Crawford Township",
@@ -24550,7 +25483,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Crawford Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.crawfordelectricsupply.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.crawfordelectricsupply.com"
+   ]
   },
   "perry-township-coshocton": {
    "name": "Perry Township",
@@ -24558,7 +25497,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Perry Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://perrytexas.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://perrytexas.com"
+   ]
   },
   "jackson-township-coshocton": {
    "name": "Jackson Township",
@@ -24566,7 +25511,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Jackson Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.jackson.com/login/login.xhtml",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.jackson.com/app/public-forms/claims-initial-notice"
+   ]
   },
   "ironton-lawrence": {
    "name": "Ironton",
@@ -24589,7 +25540,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Oxford Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.oxfordlearnersdictionaries.com",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "pike-township-coshocton": {
    "name": "Pike Township",
@@ -24597,7 +25553,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Pike Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.pike.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.pike.com/news/"
+   ]
   },
   "newcastle-township-coshocton": {
    "name": "Newcastle Township",
@@ -24605,7 +25567,15 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Newcastle Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://newcastleok.gov",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://newcastleok.gov/government/city-clerk/bids-and-proposals",
+    "https://newcastleok.gov/government/city-clerk/public-notices",
+    "https://newcastleok.gov/services/public-works/public-notices"
+   ]
   },
   "monroe-township-coshocton": {
    "name": "Monroe Township",
@@ -24627,7 +25597,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "White Eyes Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.britannica.com/science/white-color",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "virginia-township-coshocton": {
    "name": "Virginia Township",
@@ -24635,7 +25610,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Virginia Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.virginia.gov",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.virginia.gov"
+   ]
   },
   "franklin-township-coshocton": {
    "name": "Franklin Township",
@@ -24643,7 +25624,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Franklin Township, Coshocton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.franklin.edu/myfranklin",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.franklin.edu/about-us/pressroom/news"
+   ]
   },
   "warsaw-coshocton": {
    "name": "Warsaw",
@@ -24668,7 +25655,8 @@
    "level": "city",
    "display": "Village of Conesville",
    "wiki": "Conesville, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "plainfield-coshocton": {
    "name": "Plainfield",
@@ -24677,7 +25665,12 @@
    "level": "city",
    "display": "Village of Plainfield",
    "wiki": "Plainfield, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.plainfieldil.gov",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "baltic-coshocton": {
    "name": "Baltic",
@@ -24685,7 +25678,13 @@
    "added": "2026-11-17",
    "level": "city",
    "display": "Village of Baltic",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://baltic-watches.com/en",
+   "websiteFrom": "search",
+   "watch": [
+    "https://baltic-watches.com/en"
+   ]
   },
   "nellie-coshocton": {
    "name": "Nellie",
@@ -24694,7 +25693,13 @@
    "level": "city",
    "display": "Village of Nellie",
    "wiki": "Nellie, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://nameberry.com/name/nellie",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://nameberry.com/blog"
+   ]
   },
   "west-lafayette-coshocton": {
    "name": "West Lafayette",
@@ -24717,7 +25722,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Aid Township, Lawrence County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://myaccount.aidvantage.studentaid.gov/Route/Inbox",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://authenticate2.aidvantage.studentaid.gov/CALM2ED/login.do?command=showLoginPage"
+   ]
   },
   "decatur-township-lawrence": {
    "name": "Decatur Township",
@@ -24725,7 +25736,14 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Decatur Township, Lawrence County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://decaturil.gov",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://decaturil.gov/CivicAlerts.aspx?CID=9,10,1,8,11",
+    "https://decaturil.gov/copyright"
+   ]
   },
   "elizabeth-township-lawrence": {
    "name": "Elizabeth Township",
@@ -24733,7 +25751,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Elizabeth Township, Lawrence County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.britannica.com/biography/Elizabeth-II",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "fayette-township-lawrence": {
    "name": "Fayette Township",
@@ -24741,7 +25764,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Fayette Township, Lawrence County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.michigan.gov/mhc/museums/fayette",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "symmes-township-lawrence": {
    "name": "Symmes Township",
@@ -24749,7 +25777,8 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Symmes Township, Lawrence County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "lawrence-township-lawrence": {
    "name": "Lawrence Township",
@@ -24772,7 +25801,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Mason Township, Lawrence County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.merriam-webster.com/dictionary/mason",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "perry-township-lawrence": {
    "name": "Perry Township",
@@ -24780,7 +25814,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Perry Township, Lawrence County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://perrytexas.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://perrytexas.com"
+   ]
   },
   "rome-township-lawrence": {
    "name": "Rome Township",
@@ -24788,7 +25828,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Rome Township, Lawrence County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://romesite.com/attractions.html",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://romesite.com/attractions.html"
+   ]
   },
   "upper-township-lawrence": {
    "name": "Upper Township",
@@ -24796,7 +25842,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Upper Township, Lawrence County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.merriam-webster.com/dictionary/upper",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "washington-township-lawrence": {
    "name": "Washington Township",
@@ -24804,7 +25855,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Washington Township, Lawrence County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.washingtonpost.com",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "The read operation timed out"
   },
   "hamilton-township-lawrence": {
    "name": "Hamilton Township",
@@ -24812,7 +25868,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Hamilton Township, Lawrence County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://hamiltonmusical.com/us-tour/tickets",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://hamiltonmusical.com/us-tour/tickets/"
+   ]
   },
   "windsor-township-lawrence": {
    "name": "Windsor Township",
@@ -24820,7 +25882,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Windsor Township, Lawrence County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.windsorstore.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.windsorstore.com"
+   ]
   },
   "union-township-lawrence": {
    "name": "Union Township",
@@ -24828,7 +25896,15 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Union Township, Lawrence County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://beta.dol.gov/policy-regulations/unions-collective-bargaining/what-union",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://beta.dol.gov/news-events",
+    "https://beta.dol.gov/news-events/blog",
+    "https://beta.dol.gov/news-events/events"
+   ]
   },
   "south-point-lawrence": {
    "name": "South Point",
@@ -24850,7 +25926,13 @@
    "level": "city",
    "display": "Village of Chesapeake",
    "wiki": "Chesapeake, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.cityofchesapeake.net",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.cityofchesapeake.net/copyright"
+   ]
   },
   "athalia-lawrence": {
    "name": "Athalia",
@@ -24859,7 +25941,13 @@
    "level": "city",
    "display": "Village of Athalia",
    "wiki": "Athalia, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.athalia.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.athalia.com"
+   ]
   },
   "hanging-rock-lawrence": {
    "name": "Hanging Rock",
@@ -24868,7 +25956,8 @@
    "level": "city",
    "display": "Village of Hanging Rock",
    "wiki": "Hanging Rock, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "coal-grove-lawrence": {
    "name": "Coal Grove",
@@ -24877,7 +25966,12 @@
    "level": "city",
    "display": "Village of Coal Grove",
    "wiki": "Coal Grove, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.britannica.com/science/coal-fossil-fuel",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "celina-mercer": {
    "name": "Celina",
@@ -24898,7 +25992,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Black Creek Township, Mercer County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://bme-o.blackboard.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://bme-o.blackboard.com"
+   ]
   },
   "butler-township-mercer": {
    "name": "Butler Township",
@@ -24906,7 +26006,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Butler Township, Mercer County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.butler.edu",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.butler.edu"
+   ]
   },
   "center-township-mercer": {
    "name": "Center Township",
@@ -24914,7 +26020,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Center Township, Mercer County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.mpreccenter.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.mpreccenter.com"
+   ]
   },
   "dublin-township-mercer": {
    "name": "Dublin Township",
@@ -24922,7 +26034,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Dublin Township, Mercer County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.visitdublin.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.visitdublin.com"
+   ]
   },
   "gibson-township-mercer": {
    "name": "Gibson Township",
@@ -24930,7 +26048,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Gibson Township, Mercer County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.gibson.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.gibson.com"
+   ]
   },
   "granville-township-mercer": {
    "name": "Granville Township",
@@ -24938,7 +26062,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Granville Township, Mercer County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.granville.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.granville.com"
+   ]
   },
   "jefferson-township-mercer": {
    "name": "Jefferson Township",
@@ -24946,7 +26076,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Jefferson Township, Mercer County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://jeffersoncountytx.gov",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://jeffersoncountytx.gov/Purchasing/"
+   ]
   },
   "liberty-township-mercer": {
    "name": "Liberty Township",
@@ -24954,7 +26090,15 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Liberty Township, Mercer County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.liberty.edu",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.liberty.edu/news/2026/11/17/christmas-in-lights-students-gather-for-shining-start-to-the-holiday-season/",
+    "https://www.liberty.edu/news/2026/11/18/gov-sarah-huckabee-sanders-urges-liberty-students-to-embrace-their-identities-in-christ/",
+    "https://www.liberty.edu/news/2026/11/16/military-appreciation-month-meet-our-veterans/"
+   ]
   },
   "marion-township-mercer": {
    "name": "Marion Township",
@@ -24962,7 +26106,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Marion Township, Mercer County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://marionccc.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://marionccc.com"
+   ]
   },
   "recovery-township-mercer": {
    "name": "Recovery Township",
@@ -24970,7 +26120,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Recovery Township, Mercer County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://support.microsoft.com/en-us/windows/experience/backup-recovery/recovery-options-in-windows",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://support.microsoft.com/en-us/windows/experience/backup-recovery/recovery-options-in-windows"
+   ]
   },
   "union-township-mercer": {
    "name": "Union Township",
@@ -24990,7 +26146,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Washington Township, Mercer County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.washingtonpost.com",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "The read operation timed out"
   },
   "hopewell-township-mercer": {
    "name": "Hopewell Township",
@@ -25013,7 +26174,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Franklin Township, Mercer County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.franklin.edu/myfranklin",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.franklin.edu/about-us/pressroom/news"
+   ]
   },
   "burkettsville-mercer": {
    "name": "Burkettsville",
@@ -25021,7 +26188,8 @@
    "added": "2026-11-17",
    "level": "city",
    "display": "Village of Burkettsville",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "coldwater-mercer": {
    "name": "Coldwater",
@@ -25057,7 +26225,12 @@
    "level": "city",
    "display": "Village of Montezuma",
    "wiki": "Montezuma, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.britannica.com/biography/Montezuma-II",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "chickasaw-mercer": {
    "name": "Chickasaw",
@@ -25066,7 +26239,15 @@
    "level": "city",
    "display": "Village of Chickasaw",
    "wiki": "Chickasaw, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://chickasaw.net",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://chickasaw.net/News/Stay-Connected.aspx",
+    "https://chickasaw.net/News.aspx",
+    "https://chickasaw.net/News/Announcements/Toksali-SMART-Summer-Youth-Program-Accepting-Applications-Nov-18"
+   ]
   },
   "st-henry-mercer": {
    "name": "St. Henry",
@@ -25113,7 +26294,13 @@
    "county": "Clermont",
    "added": "2026-11-17",
    "level": "township",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://skiloveland.com",
+   "websiteFrom": "search",
+   "watch": [
+    "https://skiloveland.com/sign-up"
+   ]
   },
   "delphos-allen": {
    "name": "Delphos",
@@ -25134,7 +26321,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Amanda Township, Allen County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://amanda-the-adventurer.fandom.com/wiki/Amanda",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "american-township-allen": {
    "name": "American Township",
@@ -25142,7 +26334,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "American Township, Allen County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.americanexpress.com/account/login",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.americanexpress.com/account/login"
+   ]
   },
   "auglaize-township-allen": {
    "name": "Auglaize Township",
@@ -25217,7 +26415,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Sugar Creek Township, Allen County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.britannica.com/science/sugar-chemical-compound",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "shawnee-township-allen": {
    "name": "Shawnee Township",
@@ -25252,7 +26455,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Spencer Township, Allen County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.spencersonline.com/blog/exclusively-at-spencers-gift-guide",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "The read operation timed out"
   },
   "perry-township-allen": {
    "name": "Perry Township",
@@ -25260,7 +26468,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Perry Township, Allen County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://perrytexas.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://perrytexas.com"
+   ]
   },
   "lima-allen": {
    "name": "Lima",
@@ -25308,7 +26522,8 @@
    "level": "city",
    "display": "Village of Harrod",
    "wiki": "Harrod, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "elida-allen": {
    "name": "Elida",
@@ -25344,7 +26559,12 @@
    "county": "Delaware",
    "added": "2026-11-17",
    "level": "township",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.washingtonpost.com",
+   "websiteFrom": "search",
+   "siteErrors": 1,
+   "lastError": "The read operation timed out"
   },
   "tate-township-clermont": {
    "name": "Tate Township",
@@ -25367,7 +26587,8 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Stonelick Township, Clermont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "wayne-township-clermont": {
    "name": "Wayne Township",
@@ -25401,7 +26622,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Goshen Township, Clermont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.gotquestions.org/land-of-Goshen.html",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.gotquestions.org/land-of-Goshen.html"
+   ]
   },
   "jackson-township-clermont": {
    "name": "Jackson Township",
@@ -25409,7 +26636,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Jackson Township, Clermont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.jackson.com/login/login.xhtml",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.jackson.com/app/public-forms/claims-initial-notice"
+   ]
   },
   "ohio-township-clermont": {
    "name": "Ohio Township",
@@ -25417,7 +26650,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Ohio Township, Clermont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://ohio.gov",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 404: Not Found"
   },
   "miami-township-clermont": {
    "name": "Miami Township",
@@ -25476,7 +26714,15 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Union Township, Clermont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://beta.dol.gov/policy-regulations/unions-collective-bargaining/what-union",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://beta.dol.gov/news-events",
+    "https://beta.dol.gov/news-events/blog",
+    "https://beta.dol.gov/news-events/events"
+   ]
   },
   "washington-township-clermont": {
    "name": "Washington Township",
@@ -25497,7 +26743,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Franklin Township, Clermont County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.franklin.edu/myfranklin",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.franklin.edu/about-us/pressroom/news"
+   ]
   },
   "chilo-clermont": {
    "name": "Chilo",
@@ -25506,7 +26758,8 @@
    "level": "city",
    "display": "Village of Chilo",
    "wiki": "Chilo, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "neville-clermont": {
    "name": "Neville",
@@ -25515,7 +26768,12 @@
    "level": "city",
    "display": "Village of Neville",
    "wiki": "Neville, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://harrypotter.fandom.com/wiki/Neville_Longbottom",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "milford-clermont": {
    "name": "Milford",
@@ -25564,7 +26822,8 @@
    "level": "city",
    "display": "Village of Owensville",
    "wiki": "Owensville, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "wauseon-fulton": {
    "name": "Wauseon",
@@ -25639,14 +26898,27 @@
    "county": "Delaware",
    "added": "2026-11-17",
    "level": "township",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.montgomeryohio.gov",
+   "websiteFrom": "search",
+   "watch": [
+    "https://www.montgomeryohio.gov/rfq-rfps-bids-and-procurement/",
+    "https://www.montgomeryohio.gov/news/",
+    "https://www.montgomeryohio.gov/news-announcements/"
+   ]
   },
   "westerville-city-township-delaware": {
    "name": "Westerville City Township",
    "county": "Delaware",
    "added": "2026-11-17",
    "level": "township",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.westerville.org",
+   "websiteFrom": "search",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "liberty-township-delaware": {
    "name": "Liberty Township",
@@ -25694,7 +26966,15 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Brown Township, Delaware County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.brown.edu",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.brown.edu/news",
+    "https://www.brown.edu/news/featured-events",
+    "https://www.brown.edu/news/for-journalists"
+   ]
   },
   "concord-township-delaware": {
    "name": "Concord Township",
@@ -25741,7 +27021,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Marlboro Township, Delaware County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.marlboro.com",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "harlem-township-delaware": {
    "name": "Harlem Township",
@@ -25749,7 +27034,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Harlem Township, Delaware County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.harlem.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.harlem.com"
+   ]
   },
   "kingston-township-delaware": {
    "name": "Kingston Township",
@@ -25787,7 +27078,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Oxford Township, Delaware County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.oxfordlearnersdictionaries.com",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "radnor-township-delaware": {
    "name": "Radnor Township",
@@ -25795,7 +27091,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Radnor Township, Delaware County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.airgas.com/radnor",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.airgas.com/resources/safety-notices"
+   ]
   },
   "scioto-township-delaware": {
    "name": "Scioto Township",
@@ -25803,7 +27105,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Scioto Township, Delaware County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.sciotoservices.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.sciotoservices.com"
+   ]
   },
   "thompson-township-delaware": {
    "name": "Thompson Township",
@@ -25811,7 +27119,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Thompson Township, Delaware County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.thompsoncigar.com",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "trenton-township-delaware": {
    "name": "Trenton Township",
@@ -25832,7 +27145,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Troy Township, Delaware County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.troy.edu",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.troy.edu"
+   ]
   },
   "ashley-delaware": {
    "name": "Ashley",
@@ -25911,7 +27230,15 @@
    "level": "city",
    "display": "City of Sunbury",
    "wiki": "Sunbury, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://sunburyohio.org",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://sunburyohio.org/CivicAlerts.aspx?CID=1,5",
+    "https://sunburyohio.org/site/copyright",
+    "https://sunburyohio.org/CivicAlerts.aspx?AID=234"
+   ]
   },
   "amboy-township-fulton": {
    "name": "Amboy Township",
@@ -25919,14 +27246,30 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Amboy Township, Fulton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.miamicountyin.gov/591/Amboy",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "http://www.miamicountyin.gov/bids.aspx",
+    "https://www.miamicountyin.gov/876/Legal-Notices",
+    "https://www.miamicountyin.gov/site/copyright"
+   ]
   },
   "chesterfield-township-fulton": {
    "name": "Chesterfield Township",
    "county": "Fulton",
    "added": "2026-11-17",
    "level": "township",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.chesterfieldtwp.org",
+   "websiteFrom": "search",
+   "watch": [
+    "https://www.chesterfieldtwp.org/401/Bid-and-Proposals",
+    "https://www.chesterfieldtwp.org/CivicAlerts.aspx?CID=1,19",
+    "https://www.chesterfieldtwp.org/site/copyright"
+   ]
   },
   "clinton-township-fulton": {
    "name": "Clinton Township",
@@ -25934,7 +27277,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Clinton Township, Fulton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.britannica.com/biography/Bill-Clinton",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "dover-township-fulton": {
    "name": "Dover Township",
@@ -25954,7 +27302,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Franklin Township, Fulton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.franklin.edu/myfranklin",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.franklin.edu/about-us/pressroom/news"
+   ]
   },
   "fulton-township-fulton": {
    "name": "Fulton Township",
@@ -25975,7 +27329,15 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "German Township, Fulton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://germanamerican.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://germanamerican.com/about-us/news-events",
+    "https://germanamerican.com/about-us/news-events/faces_of_community_banking",
+    "https://germanamerican.com/about-us/news-events/local-efforts"
+   ]
   },
   "york-township-fulton": {
    "name": "York Township",
@@ -25983,7 +27345,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "York Township, Fulton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.york.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.york.com"
+   ]
   },
   "gorham-township-fulton": {
    "name": "Gorham Township",
@@ -25991,7 +27359,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Gorham Township, Fulton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://thegorham.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://thegorham.com"
+   ]
   },
   "pike-township-fulton": {
    "name": "Pike Township",
@@ -25999,7 +27373,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Pike Township, Fulton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.pike.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.pike.com/news/"
+   ]
   },
   "royalton-township-fulton": {
    "name": "Royalton Township",
@@ -26007,7 +27387,13 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Royalton Township, Fulton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.royaltonresorts.com/resorts",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://www.royaltonresorts.com/resorts"
+   ]
   },
   "swan-creek-township-fulton": {
    "name": "Swan Creek Township",
@@ -26015,7 +27401,12 @@
    "added": "2026-11-17",
    "level": "township",
    "wiki": "Swan Creek Township, Fulton County, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://swanlibraries.net",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "lyons-fulton": {
    "name": "Lyons",
@@ -26024,7 +27415,13 @@
    "level": "city",
    "display": "Village of Lyons",
    "wiki": "Lyons, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://lyonsreg.com/Home/Login",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://lyonsreg.com/Home/Login"
+   ]
   },
   "swanton-fulton": {
    "name": "Swanton",
@@ -26032,7 +27429,8 @@
    "added": "2026-11-17",
    "level": "city",
    "display": "Village of Swanton",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20"
   },
   "delta-fulton": {
    "name": "Delta",
@@ -26055,7 +27453,13 @@
    "level": "city",
    "display": "Village of Metamora",
    "wiki": "Metamora, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://metamoraindiana.com",
+   "websiteFrom": "wikipedia",
+   "watch": [
+    "https://metamoraindiana.com"
+   ]
   },
   "fayette-fulton": {
    "name": "Fayette",
@@ -26064,7 +27468,12 @@
    "level": "city",
    "display": "Village of Fayette",
    "wiki": "Fayette, Ohio",
-   "guessed": "2026-11-17"
+   "guessed": "2026-11-17",
+   "websiteTried": "2026-11-20",
+   "website": "https://www.michigan.gov/mhc/museums/fayette",
+   "websiteFrom": "wikipedia",
+   "siteErrors": 1,
+   "lastError": "HTTP Error 403: Forbidden"
   },
   "columbus-delaware": {
    "name": "Columbus",

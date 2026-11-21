@@ -1,15 +1,15 @@
 {
- "run_n": 86,
- "sweep_pos": 72,
+ "run_n": 87,
+ "sweep_pos": 80,
  "last_sweep": [
-  "Pickaway",
-  "Pike",
-  "Portage",
-  "Preble",
-  "Putnam",
-  "Richland",
-  "Ross",
-  "Sandusky"
+  "Scioto",
+  "Seneca",
+  "Shelby",
+  "Stark",
+  "Summit",
+  "Trumbull",
+  "Tuscarawas",
+  "Union"
  ],
  "discovered_feeds": {},
  "last_discovery": "2026-11-21",

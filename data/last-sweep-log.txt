@@ -1,8 +1,7 @@
-2026-11-20T04:57+00:00 UTC
-[04:53:28]   websites: looked up 386, found 218
-[04:54:12]   bid pages: scanned 403 sites
-[04:57:26]    follow failed: https://www.yourmechanic.com/book blocked by robots.txt
-[04:57:35]   watched 2467 pages (1063 changed, 82 unreachable) of 2467 pages on 1551 agency sites
-[04:57:35]   statewide sweep finished in 262 s
-[04:57:35]   2 matches  Agency websites (statewide)
-[04:57:35] Done: 0 new, 38 total, 0 source errors
+2026-11-21T04:54+00:00 UTC
+[04:50:22]   websites: looked up 150, found 132
+[04:51:03]   bid pages: scanned 321 sites
+[04:54:32]   watched 2565 pages (1158 changed, 91 unreachable) of 2565 pages on 1629 agency sites
+[04:54:33]   statewide sweep finished in 257 s
+[04:54:33]   1 matches  Agency websites (statewide)
+[04:54:33] Done: 0 new, 40 total, 0 source errors

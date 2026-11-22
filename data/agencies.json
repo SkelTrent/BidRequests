@@ -22091,7 +22091,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "van-buren-township-hancock": {
    "name": "Van Buren Township",
@@ -22104,7 +22107,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "washington-township-hancock": {
    "name": "Washington Township",
@@ -22116,8 +22122,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "findlay-hancock": {
    "name": "Findlay",
@@ -22143,8 +22150,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://villageofmccomboh.gov/village-of-mccomb/mayor",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "<urlopen error [Errno -5] No address associated with hostname>"
+   "siteErrors": 3,
+   "lastError": "<urlopen error [Errno -5] No address associated with hostname>",
+   "watch": []
   },
   "benton-ridge-hancock": {
    "name": "Benton Ridge",
@@ -22251,8 +22259,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.merriam-webster.com/dictionary/mount",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "mount-blanchard-hancock": {
    "name": "Mount Blanchard",
@@ -22265,8 +22274,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://mtblanchardoh.com/villagesite",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "fostoria-hancock": {
    "name": "Fostoria",
@@ -22437,8 +22447,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://web.archive.org/web/20111209124327/http://theintelligencer.net/page/content.detail/id/559278/Long-Standing-Bridgeport-Bridge-Razed-Today.html",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "belmont-belmont": {
    "name": "Belmont",
@@ -22465,8 +22476,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://ohio.org/travel-inspiration/articles/unique-museum-tourism-the-underground-railroad-museum-flushing-ohio",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "bethesda-belmont": {
    "name": "Bethesda",
@@ -22550,7 +22562,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "wheeling-township-belmont": {
    "name": "Wheeling Township",
@@ -22592,8 +22607,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "kirkwood-township-belmont": {
    "name": "Kirkwood Township",
@@ -22605,8 +22621,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "colerain-township-belmont": {
    "name": "Colerain Township",
@@ -22619,7 +22636,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "smith-township-belmont": {
    "name": "Smith Township",
@@ -22632,7 +22652,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "goshen-township-belmont": {
    "name": "Goshen Township",
@@ -22645,7 +22668,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "york-township-belmont": {
    "name": "York Township",
@@ -22657,8 +22683,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.reuters.com/article/us-exxon-xto-natgas-ohio-idUSKCN1GJ355",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "blocked by robots.txt"
+   "siteErrors": 3,
+   "lastError": "blocked by robots.txt",
+   "watch": []
   },
   "pease-township-belmont": {
    "name": "Pease Township",
@@ -22671,7 +22698,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "warren-township-belmont": {
    "name": "Warren Township",
@@ -22683,8 +22713,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "wayne-township-belmont": {
    "name": "Wayne Township",
@@ -22696,8 +22727,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "somerset-township-belmont": {
    "name": "Somerset Township",
@@ -22709,8 +22741,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "flushing-township-belmont": {
    "name": "Flushing Township",
@@ -22722,8 +22755,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "mead-township-belmont": {
    "name": "Mead Township",
@@ -22735,8 +22769,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "richland-township-belmont": {
    "name": "Richland Township",
@@ -22775,8 +22810,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "richfield-township-summit": {
    "name": "Richfield Township",
@@ -22788,8 +22824,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "sagamore-hills-township-summit": {
    "name": "Sagamore Hills Township",
@@ -22802,7 +22839,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "springfield-township-summit": {
    "name": "Springfield Township",
@@ -22977,8 +23017,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "reily-township-butler": {
    "name": "Reily Township",
@@ -23044,8 +23085,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://liveresults.boe.ohio.gov/ENR/butlerohenr/18/en/Index_18.html",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "liberty-township-seneca": {
    "name": "Liberty Township",
@@ -23057,8 +23099,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "bellevue-seneca": {
    "name": "Bellevue",
@@ -23095,8 +23138,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "adams-township-seneca": {
    "name": "Adams Township",
@@ -23109,7 +23153,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "big-spring-township-seneca": {
    "name": "Big Spring Township",
@@ -23150,7 +23197,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "eden-township-seneca": {
    "name": "Eden Township",
@@ -23162,8 +23212,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "hopewell-township-seneca": {
    "name": "Hopewell Township",
@@ -23228,7 +23279,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "seneca-township-seneca": {
    "name": "Seneca Township",
@@ -23253,8 +23307,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "venice-township-seneca": {
    "name": "Venice Township",
@@ -23266,8 +23321,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "new-riegel-seneca": {
    "name": "New Riegel",
@@ -23313,8 +23369,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.nytimes.com/1889/11/06/archives/an-ohio-town-burning.html",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "republic-seneca": {
    "name": "Republic",
@@ -23372,8 +23429,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://www.troytwp.org/about.html",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "blocked by robots.txt"
+   "siteErrors": 3,
+   "lastError": "blocked by robots.txt",
+   "watch": []
   },
   "mifflin-township-ashland": {
    "name": "Mifflin Township",
@@ -23398,8 +23456,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://www.ashlandohio.pa-roots.com/Hist-CC.html",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "mohican-township-ashland": {
    "name": "Mohican Township",
@@ -23411,8 +23470,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "vermillion-township-ashland": {
    "name": "Vermillion Township",
@@ -23424,8 +23484,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "sullivan-township-ashland": {
    "name": "Sullivan Township",
@@ -23492,8 +23553,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://www.ashlandohio.pa-roots.com/Hist-CC.html",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "montgomery-township-ashland": {
    "name": "Montgomery Township",
@@ -23532,8 +23594,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "jackson-township-ashland": {
    "name": "Jackson Township",
@@ -23588,8 +23651,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://visitsavannah.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "mifflin-ashland": {
    "name": "Mifflin",
@@ -23749,8 +23813,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "woodville-township-sandusky": {
    "name": "Woodville Township",
@@ -23865,8 +23930,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "wabash-township-darke": {
    "name": "Wabash Township",
@@ -23917,8 +23983,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "neave-township-darke": {
    "name": "Neave Township",
@@ -23930,8 +23997,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "franklin-township-darke": {
    "name": "Franklin Township",
@@ -24037,8 +24105,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "van-buren-township-darke": {
    "name": "Van Buren Township",
@@ -24094,8 +24163,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "greenville-township-darke": {
    "name": "Greenville Township",
@@ -24107,8 +24177,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "twin-township-darke": {
    "name": "Twin Township",
@@ -24120,8 +24191,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "gibsonburg-sandusky": {
    "name": "Gibsonburg",
@@ -24458,8 +24530,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "washington-township-carroll": {
    "name": "Washington Township",
@@ -24471,8 +24544,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "brown-township-carroll": {
    "name": "Brown Township",
@@ -24484,8 +24558,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "monroe-township-carroll": {
    "name": "Monroe Township",
@@ -24497,8 +24572,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "east-township-carroll": {
    "name": "East Township",
@@ -24509,8 +24585,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.merriam-webster.com/dictionary/east",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "orange-township-carroll": {
    "name": "Orange Township",
@@ -24522,8 +24599,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "rose-township-carroll": {
    "name": "Rose Township",
@@ -24547,8 +24625,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "harrison-township-carroll": {
    "name": "Harrison Township",
@@ -24560,8 +24639,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "loudon-township-carroll": {
    "name": "Loudon Township",
@@ -24573,8 +24653,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "perry-township-carroll": {
    "name": "Perry Township",
@@ -24586,8 +24667,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://devresearch.ohio.gov/files/research/P3008.pdfOhio",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "union-township-carroll": {
    "name": "Union Township",
@@ -24614,8 +24696,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://devresearch.ohio.gov/files/research/P3008.pdf",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "springfield-clark": {
    "name": "Springfield",
@@ -24766,8 +24849,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "pike-township-clark": {
    "name": "Pike Township",
@@ -24779,8 +24863,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "moorefield-township-clark": {
    "name": "Moorefield Township",
@@ -24805,8 +24890,9 @@
    "websiteTried": "2026-11-20",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": []
   },
   "pleasant-township-clark": {
    "name": "Pleasant Township",
@@ -24818,8 +24904,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.merriam-webster.com/dictionary/pleasant",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "springfield-township-clark": {
    "name": "Springfield Township",
@@ -24886,8 +24973,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.thenorthface.com/en-us",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "enon-clark": {
    "name": "Enon",
@@ -25097,8 +25185,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.merriam-webster.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "weston-township-wood": {
    "name": "Weston Township",
@@ -25238,8 +25327,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.britannica.com/science/prairie",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "richland-township-holmes": {
    "name": "Richland Township",
@@ -25308,8 +25398,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.washingtonpost.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "The read operation timed out"
+   "siteErrors": 3,
+   "lastError": "The read operation timed out",
+   "watch": []
   },
   "knox-township-holmes": {
    "name": "Knox Township",
@@ -25350,8 +25441,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.britannica.com/science/salt",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "killbuck-holmes": {
    "name": "Killbuck",
@@ -25414,8 +25506,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.travelandleisure.com/best-things-to-do-in-nashville-tennessee-11892014",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "holmesville-holmes": {
    "name": "Holmesville",
@@ -25497,8 +25590,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.britannica.com/place/Bethlehem",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "lafayette-township-coshocton": {
    "name": "Lafayette Township",
@@ -25600,8 +25694,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.washingtonpost.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "The read operation timed out"
+   "siteErrors": 3,
+   "lastError": "The read operation timed out",
+   "watch": []
   },
   "crawford-township-coshocton": {
    "name": "Crawford Township",
@@ -25670,8 +25765,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.oxfordlearnersdictionaries.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "pike-township-coshocton": {
    "name": "Pike Township",
@@ -25727,8 +25823,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.britannica.com/science/white-color",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "virginia-township-coshocton": {
    "name": "Virginia Township",
@@ -25795,8 +25892,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.plainfieldil.gov",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "baltic-coshocton": {
    "name": "Baltic",
@@ -25881,8 +25979,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.britannica.com/biography/Elizabeth-II",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "fayette-township-lawrence": {
    "name": "Fayette Township",
@@ -25894,8 +25993,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.michigan.gov/mhc/museums/fayette",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "symmes-township-lawrence": {
    "name": "Symmes Township",
@@ -25931,8 +26031,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.merriam-webster.com/dictionary/mason",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "perry-township-lawrence": {
    "name": "Perry Township",
@@ -25972,8 +26073,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.merriam-webster.com/dictionary/upper",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "washington-township-lawrence": {
    "name": "Washington Township",
@@ -25985,8 +26087,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.washingtonpost.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "The read operation timed out"
+   "siteErrors": 3,
+   "lastError": "The read operation timed out",
+   "watch": []
   },
   "hamilton-township-lawrence": {
    "name": "Hamilton Township",
@@ -26096,8 +26199,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.britannica.com/science/coal-fossil-fuel",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "celina-mercer": {
    "name": "Celina",
@@ -26276,8 +26380,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.washingtonpost.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "The read operation timed out"
+   "siteErrors": 3,
+   "lastError": "The read operation timed out",
+   "watch": []
   },
   "hopewell-township-mercer": {
    "name": "Hopewell Township",
@@ -26355,8 +26460,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.britannica.com/biography/Montezuma-II",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "chickasaw-mercer": {
    "name": "Chickasaw",
@@ -26451,8 +26557,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://amanda-the-adventurer.fandom.com/wiki/Amanda",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "american-township-allen": {
    "name": "American Township",
@@ -26545,8 +26652,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.britannica.com/science/sugar-chemical-compound",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "shawnee-township-allen": {
    "name": "Shawnee Township",
@@ -26585,8 +26693,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.spencersonline.com/blog/exclusively-at-spencers-gift-guide",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "The read operation timed out"
+   "siteErrors": 3,
+   "lastError": "The read operation timed out",
+   "watch": []
   },
   "perry-township-allen": {
    "name": "Perry Township",
@@ -26689,8 +26798,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.washingtonpost.com",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "The read operation timed out"
+   "siteErrors": 3,
+   "lastError": "The read operation timed out",
+   "watch": []
   },
   "tate-township-clermont": {
    "name": "Tate Township",
@@ -26780,8 +26890,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://ohio.gov",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 404: Not Found"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 404: Not Found",
+   "watch": []
   },
   "miami-township-clermont": {
    "name": "Miami Township",
@@ -26898,8 +27009,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://harrypotter.fandom.com/wiki/Neville_Longbottom",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "milford-clermont": {
    "name": "Milford",
@@ -27043,8 +27155,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.westerville.org",
    "websiteFrom": "search",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "liberty-township-delaware": {
    "name": "Liberty Township",
@@ -27151,8 +27264,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.marlboro.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "harlem-township-delaware": {
    "name": "Harlem Township",
@@ -27208,8 +27322,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.oxfordlearnersdictionaries.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "radnor-township-delaware": {
    "name": "Radnor Township",
@@ -27249,8 +27364,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.thompsoncigar.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "trenton-township-delaware": {
    "name": "Trenton Township",
@@ -27407,8 +27523,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.britannica.com/biography/Bill-Clinton",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "dover-township-fulton": {
    "name": "Dover Township",
@@ -27531,8 +27648,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://swanlibraries.net",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "lyons-fulton": {
    "name": "Lyons",
@@ -27598,8 +27716,9 @@
    "websiteTried": "2026-11-20",
    "website": "https://www.michigan.gov/mhc/museums/fayette",
    "websiteFrom": "wikipedia",
-   "siteErrors": 2,
-   "lastError": "HTTP Error 403: Forbidden"
+   "siteErrors": 3,
+   "lastError": "HTTP Error 403: Forbidden",
+   "watch": []
   },
   "columbus-delaware": {
    "name": "Columbus",
@@ -27992,7 +28111,7 @@
    "websiteTried": "2026-11-21",
    "website": "https://liveresults.boe.ohio.gov/ENR/butlerohenr/18/en/Index_18.html",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "new-miami-butler": {
@@ -28345,7 +28464,7 @@
    "websiteTried": "2026-11-21",
    "website": "https://ohioauditor.gov/auditsearch/Reports/2022/Clay_Township_City_of_Clayton_JEDD_21_20_Montgomery_Basic_Report_FINAL.pdf",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "<urlopen error [Errno -5] No address associated with hostname>"
   },
   "butler-township-montgomery": {
@@ -28413,7 +28532,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "perry-township-montgomery": {
@@ -28553,7 +28672,7 @@
    "websiteTried": "2026-11-21",
    "website": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/mary-jane-thurston-state-park",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 404: Not Found"
   },
   "athens-athens": {
@@ -28608,7 +28727,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "athens-township-athens": {
@@ -28666,7 +28785,7 @@
    "websiteTried": "2026-11-21",
    "website": "https://www.britannica.com/biography/Alexander-the-Great",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "lodi-township-athens": {
@@ -28679,7 +28798,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://www.loditownship.org",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "<urlopen error [Errno -2] Name or service not known>"
   },
   "trimble-township-athens": {
@@ -28692,7 +28811,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "rome-township-athens": {
@@ -28705,7 +28824,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "troy-township-athens": {
@@ -28718,7 +28837,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "canaan-township-athens": {
@@ -28731,7 +28850,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "carthage-township-athens": {
@@ -28743,7 +28862,7 @@
    "websiteTried": "2026-11-21",
    "website": "https://www.britannica.com/place/Carthage-ancient-city-Tunisia",
    "websiteFrom": "search",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "chauncey-athens": {
@@ -28898,7 +29017,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "put-in-bay-township-ottawa": {
@@ -29056,7 +29175,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "wayne-township-montgomery": {
@@ -29107,7 +29226,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "ridge-township-van-wert": {
@@ -29120,7 +29239,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "harrison-township-van-wert": {
@@ -29133,7 +29252,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "hoaglin-township-van-wert": {
@@ -29160,7 +29279,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "jennings-township-van-wert": {
@@ -29173,7 +29292,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "liberty-township-van-wert": {
@@ -29186,7 +29305,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "pleasant-township-van-wert": {
@@ -29214,7 +29333,10 @@
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
    "siteErrors": 1,
-   "lastError": "HTTP Error 429: Too Many Requests"
+   "lastError": "HTTP Error 429: Too Many Requests",
+   "watch": [
+    "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+   ]
   },
   "union-township-van-wert": {
    "name": "Union Township",
@@ -29226,7 +29348,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "willshire-township-van-wert": {
@@ -29239,7 +29361,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "york-township-van-wert": {
@@ -29252,7 +29374,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "wren-van-wert": {
@@ -29409,7 +29531,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "darby-township-union": {
@@ -29437,7 +29559,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "york-township-union": {
@@ -29450,7 +29572,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "jerome-township-union": {
@@ -29477,7 +29599,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "millcreek-township-union": {
@@ -29503,7 +29625,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "taylor-township-union": {
@@ -29516,7 +29638,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "union-township-union": {
@@ -29555,7 +29677,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "magnetic-springs-union": {
@@ -29626,7 +29748,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "canaan-township-morrow": {
@@ -29666,7 +29788,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "franklin-township-morrow": {
@@ -29718,7 +29840,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "lincoln-township-morrow": {
@@ -29744,7 +29866,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "perry-township-morrow": {
@@ -29757,7 +29879,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "peru-township-morrow": {
@@ -29810,7 +29932,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "sparta-morrow": {
@@ -29935,7 +30057,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "brush-creek-township-scioto": {
@@ -29948,7 +30070,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "clay-township-scioto": {
@@ -29961,7 +30083,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "green-township-scioto": {
@@ -29988,7 +30110,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "valley-township-scioto": {
@@ -30001,7 +30123,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "madison-township-scioto": {
@@ -30014,7 +30136,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "morgan-township-scioto": {
@@ -30027,7 +30149,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "nile-township-scioto": {
@@ -30040,7 +30162,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "porter-township-scioto": {
@@ -30067,7 +30189,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "rush-township-scioto": {
@@ -30080,7 +30202,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "union-township-scioto": {
@@ -30093,7 +30215,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "vernon-township-scioto": {
@@ -30106,7 +30228,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "washington-township-scioto": {
@@ -30119,7 +30241,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "rarden-scioto": {
@@ -30204,7 +30326,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "lee-township-athens": {
@@ -30217,7 +30339,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "albany-athens": {
@@ -30261,7 +30383,7 @@
    "websiteTried": "2026-11-21",
    "website": "https://www.transit.dot.gov/about/news/ohios-rural-communities-connected-gobus",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "glouster-athens": {
@@ -30427,7 +30549,7 @@
    "websiteTried": "2026-11-21",
    "website": "https://www.merriam-webster.com/dictionary/port",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "chester-township-morrow": {
@@ -30440,7 +30562,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "clinton-township-shelby": {
@@ -30475,7 +30597,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "franklin-township-shelby": {
@@ -30488,7 +30610,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "mclean-township-shelby": {
@@ -30501,7 +30623,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "orange-township-shelby": {
@@ -30514,7 +30636,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "perry-township-shelby": {
@@ -30527,7 +30649,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "turtle-creek-township-shelby": {
@@ -30540,7 +30662,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "van-buren-township-shelby": {
@@ -30553,7 +30675,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "washington-township-shelby": {
@@ -30566,7 +30688,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "jackson-township-shelby": {
@@ -30579,7 +30701,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "loramie-township-shelby": {
@@ -30592,7 +30714,7 @@
    "websiteTried": "2026-11-21",
    "website": "http://codes.ohio.gov/orc/503.24",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 429: Too Many Requests"
   },
   "salem-township-shelby": {
@@ -30659,7 +30781,7 @@
    "websiteTried": "2026-11-21",
    "website": "https://www.thefreedictionary.com/bokes",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "deer-creek-township-pickaway": {
@@ -30731,7 +30853,7 @@
    "websiteTried": "2026-11-21",
    "website": "https://www.washingtonpost.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "The read operation timed out"
   },
   "addyston-oh": {
@@ -30815,7 +30937,7 @@
    "websiteTried": "2026-11-21",
    "website": "https://www.britannica.com/animal/beaver",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "bethel-oh": {
@@ -31195,7 +31317,7 @@
    "websiteTried": "2026-11-21",
    "website": "https://muppet.fandom.com/wiki/Grover",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "hamler-oh": {
@@ -31368,7 +31490,7 @@
    "websiteTried": "2026-11-21",
    "website": "https://www.cityoflewisville.com",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "linndale-oh": {
@@ -31590,7 +31712,7 @@
    "websiteTried": "2026-11-21",
    "website": "https://www.merriam-webster.com/dictionary/north",
    "websiteFrom": "wikipedia",
-   "siteErrors": 1,
+   "siteErrors": 2,
    "lastError": "HTTP Error 403: Forbidden"
   },
   "octa-oh": {

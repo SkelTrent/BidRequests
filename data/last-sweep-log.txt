@@ -1,6 +1,5 @@
-2026-11-23T05:14+00:00 UTC
-[05:10:41]   bid pages: scanned 70 sites
-[05:14:11]   watched 2589 pages (1012 changed, 149 unreachable) of 2589 pages on 1653 agency sites
-[05:14:11]   statewide sweep finished in 236 s
-[05:14:11]   1 matches  Agency websites (statewide)
-[05:14:11] Done: 0 new, 43 total, 0 source errors
+2026-11-24T05:00+00:00 UTC
+[05:00:40]   watched 2589 pages (1077 changed, 122 unreachable) of 2589 pages on 1653 agency sites
+[05:00:40]   statewide sweep finished in 157 s
+[05:00:41]   1 matches  Agency websites (statewide)
+[05:00:41] Done: 0 new, 44 total, 0 source errors

@@ -736,6 +736,22 @@
    "auto": true,
    "id": "0c3c03b44b546e",
    "firstSeen": "2026-11-23T07:49+00:00"
+  },
+  {
+   "agency": "City of Defiance",
+   "level": "city",
+   "county": "Defiance",
+   "kind": "purchase",
+   "category": "pickup",
+   "title": "🍂 2026 City of Defiance Leaf Pick-Up 🍂 Read On...",
+   "summary": "Alert Center • 🍂 2026 City of Defiance Leaf Pick-Up 🍂 Skip to Main Content PUBLIC NOTICE: 🍂 2026 City of Defiance Leaf Pick-Up 🍂 Read On... REQUEST FOR PROPOSAL (RFP) Read On... Create a Website Account - Manage notification subscriptions, save form progress and more. Website Sig…",
+   "dueDate": "2026-12-09",
+   "source": "City of Defiance website",
+   "url": "https://cityofdefiance.com/AlertCenter.aspx?AID=2026-City-of-Defiance-Leaf-PickUp-384",
+   "foundDate": "2026-11-25",
+   "auto": true,
+   "id": "8ea43aa3c55c78",
+   "firstSeen": "2026-11-25T05:02+00:00"
   }
  ]
 }

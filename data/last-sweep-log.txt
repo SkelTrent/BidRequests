@@ -1,6 +1,5 @@
-2026-11-25T05:02+00:00 UTC
-[05:02:45]   watched 2589 pages (1097 changed, 115 unreachable) of 2589 pages on 1653 agency sites
-[05:02:45]   statewide sweep finished in 163 s
-[05:02:45]   2 matches  Agency websites (statewide)
-[05:02:45] Done: 1 new, 45 total, 0 source errors
-[05:02:45]   NEW: 🍂 2026 City of Defiance Leaf Pick-Up 🍂 Read On... | City of Defiance | 2026-12-09
+2026-11-26T05:01+00:00 UTC
+[05:01:58]   watched 2589 pages (1002 changed, 131 unreachable) of 2589 pages on 1653 agency sites
+[05:01:58]   statewide sweep finished in 215 s
+[05:01:58]   0 matches  Agency websites (statewide)
+[05:01:58] Done: 0 new, 45 total, 0 source errors

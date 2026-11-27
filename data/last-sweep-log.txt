@@ -1,5 +1,6 @@
-2026-11-26T05:01+00:00 UTC
-[05:01:58]   watched 2589 pages (1002 changed, 131 unreachable) of 2589 pages on 1653 agency sites
-[05:01:58]   statewide sweep finished in 215 s
-[05:01:58]   0 matches  Agency websites (statewide)
-[05:01:58] Done: 0 new, 45 total, 0 source errors
+2026-11-27T05:01+00:00 UTC
+[05:01:19]   watched 2589 pages (914 changed, 121 unreachable) of 2589 pages on 1653 agency sites
+[05:01:20]   statewide sweep finished in 156 s
+[05:01:20]   1 matches  Agency websites (statewide)
+[05:01:20] Done: 1 new, 46 total, 0 source errors
+[05:01:20]   NEW: Final Leaf Pickup | Village of St. Henry | 2026-12-31

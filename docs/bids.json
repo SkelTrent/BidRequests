@@ -1,9 +1,9 @@
 {
  "meta": {
-  "lastChecked": "2026-11-27T04:13+00:00",
-  "sources": 73,
-  "errors": 5,
-  "newThisRun": 0
+  "lastChecked": "2026-11-27T05:01+00:00",
+  "sources": 0,
+  "errors": 0,
+  "newThisRun": 1
  },
  "bids": [
   {
@@ -758,6 +758,22 @@
    "auto": true,
    "id": "8ea43aa3c55c78",
    "firstSeen": "2026-11-25T05:02+00:00"
+  },
+  {
+   "agency": "Village of St. Henry",
+   "level": "city",
+   "county": "Mercer",
+   "kind": "purchase",
+   "category": "pickup",
+   "title": "Final Leaf Pickup",
+   "summary": "y Final branch pickup Dec 14 All day Final Leaf Pickup Dec 14 6:00 pm - 8:00 pm Council Meeting Dec 24 December 24 - December 25 Village Office closed for the Christmas Holiday Dec 31 December 31, 2026 - January 1, 2027 Village Office closed for the New Years Holiday View Calenda…",
+   "dueDate": "2026-12-31",
+   "source": "Village of St. Henry website",
+   "url": "https://sthenryoh.gov/event/final-leaf-pickup-2/",
+   "foundDate": "2026-11-27",
+   "auto": true,
+   "id": "20ffcca1e40143",
+   "firstSeen": "2026-11-27T05:01+00:00"
   }
  ]
 }

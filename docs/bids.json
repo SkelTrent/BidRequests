@@ -1,9 +1,9 @@
 {
  "meta": {
-  "lastChecked": "2026-11-28T06:39+00:00",
+  "lastChecked": "2026-11-28T07:56+00:00",
   "sources": 73,
-  "errors": 5,
-  "newThisRun": 0
+  "errors": 6,
+  "newThisRun": 1
  },
  "bids": [
   {
@@ -774,6 +774,21 @@
    "auto": true,
    "id": "20ffcca1e40143",
    "firstSeen": "2026-11-27T05:01+00:00"
+  },
+  {
+   "level": "township",
+   "kind": "purchase",
+   "category": "utility",
+   "title": "A 2016 Ford Utility Police Interceptor AWD and a 2000 International 4900 dump truck with plow",
+   "summary": "s under Data.Copy URL Showing 1–30 of 32 notices in Ohio Bolivar Village is accepting sealed bids for a 2016 Ford Utility Police Interceptor AWD and a 2000 International 4900 dump truck with plow. Bids are due by 5 p.m. December 2, 2026, and the village plans to award them at its…",
+   "dueDate": "2026-12-02",
+   "dueTime": "5 PM",
+   "source": "NoticeRegistry – Ohio truck notices",
+   "url": "https://www.noticeregistry.com/ohio/notice/bid-notice-bolivar-347133",
+   "foundDate": "2026-11-28",
+   "auto": true,
+   "id": "c300148365c1b2",
+   "firstSeen": "2026-11-28T07:56+00:00"
   }
  ]
 }

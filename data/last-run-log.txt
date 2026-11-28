@@ -1,77 +1,77 @@
-2026-11-28T02:44+00:00 UTC
-[02:43:48]   0 matches  Google News  (0 items read)
-[02:43:49]   0 matches  Google News  (0 items read)
-[02:43:49]   0 matches  Google News  (0 items read)
-[02:43:49]   0 matches  Google News  (0 items read)
-[02:43:49]   0 matches  Google News  (0 items read)
-[02:43:50]   0 matches  Google News  (0 items read)
-[02:43:50]   0 matches  Google News  (0 items read)
-[02:43:50]   0 matches  Google News  (0 items read)
-[02:43:50]   0 matches  Google News  (2 items read)
-[02:43:51]   0 matches  Google News  (1 items read)
-[02:43:51]   0 matches  Google News  (0 items read)
-[02:43:51]   0 matches  Google News  (0 items read)
-[02:43:51]   0 matches  Google News  (0 items read)
-[02:43:52]   0 matches  Google News  (0 items read)
-[02:43:52]   0 matches  Google News  (0 items read)
-[02:43:52]   0 matches  Google News  (0 items read)
-[02:43:52]   0 matches  Google News  (0 items read)
-[02:43:53]   0 matches  Google News  (0 items read)
-[02:43:53]   0 matches  County sweep – Butler  (0 items read)
-[02:43:53]   0 matches  County sweep – Carroll  (1 items read)
-[02:43:53]   0 matches  County sweep – Champaign  (0 items read)
-[02:43:54]   0 matches  County sweep – Clark  (0 items read)
-[02:43:54]   0 matches  County sweep – Clermont  (0 items read)
-[02:43:54]   0 matches  County sweep – Clinton  (0 items read)
-[02:43:54]   0 matches  County sweep – Columbiana  (0 items read)
-[02:43:55]   0 matches  County sweep – Coshocton  (2 items read)
-[02:43:55]   1 matches  City of Dayton – Bid Postings  (50 items read)
-[02:43:56]   0 matches  City of Beavercreek – Bid RSS  (50 items read)
-[02:43:57]   0 matches  Beavercreek Township – Bid RSS  (50 items read)
-[02:43:57]   ERR  Reddit search: HTTP Error 404: Not Found
-[02:43:57]   0 matches  Clark County – Bid RSS  (50 items read)
-[02:43:58]   ERR  Dayton Daily News – Legal Notice to Bid: HTTP Error 503: Service Temporarily Unavailable
-[02:43:58]   ERR  Springfield News-Sun – Legal Notice to Bid: HTTP Error 503: Service Temporarily Unavailable
-[02:43:59]   0 matches  Public Notices Ohio (statewide)
-[02:44:00]  17 matches  BidBanana – Ohio fleet vehicles
-[02:44:01]   0 matches  City of Cleveland – Invitations to Bid
-[02:44:02]   0 matches  City of Dayton – Bids page
-[02:44:02]   0 matches  Milan Township
-[02:44:02]   3 matches  York Township (Fulton Co.)
-[02:44:03]   2 matches  Island Creek Township
-[02:44:03]   ERR  West Chester Township: HTTP Error 403: Forbidden
-[02:44:03]   0 matches  Springfield Township (Lucas Co.)
-[02:44:04]   0 matches  Providence Township
-[02:44:05]   0 matches  Painesville Township
-[02:44:05]   0 matches  Claridon Township
-[02:44:07]   0 matches  Stokes Township
-[02:44:08]   0 matches  Prairie Township
-[02:44:11]   0 matches  Jackson Township (Montgomery Co.)
-[02:44:11]   0 matches  Liberty Township (Licking Co.)
-[02:44:12]   0 matches  Toledo Legal News – Notices to Bid
-[02:44:12]   0 matches  The Daily Standard (Celina) – Bid notices
-[02:44:13]   0 matches  Mount Vernon News – Public notices
-[02:44:13]   0 matches  City of Mentor
-[02:44:14]  24 matches  City of Lima – Purchasing
-[02:44:15]   0 matches  City of Beavercreek – Bids
-[02:44:16]   0 matches  Beavercreek Township – Bids
-[02:44:17]   0 matches  Randolph Township (Portage Co.)
-[02:44:17]   2 matches  Jackson Township (Franklin Co.)
-[02:44:18]   0 matches  Huron County Engineer – Bids
-[02:44:19]   0 matches  Jackson County – Bids
-[02:44:19]   7 matches  Allen County Commissioners – Legal notices
-[02:44:19]   0 matches  Franklin County – Bids
-[02:44:20]  34 matches  NoticeRegistry – Ohio truck notices
-[02:44:20]   0 matches  NoticeRegistry – Ohio bid notices
-[02:44:21]   0 matches  Ohio Township Association – For Sale
-[02:44:22]   0 matches  Clark County – Bids
-[02:44:22]   0 matches  Fairfield County – Bids
-[02:44:24]   0 matches  Harrison County Engineer – Bids
-[02:44:27]   0 matches  City of Troy – Bid Express
-[02:44:28]   7 matches  Ohio Turnpike – Bid invitations
-[02:44:29]   ERR  Montgomery County – Bids: HTTP Error 403: Forbidden
-[02:44:30] 156 matches  Cincinnati – Business opportunities
-[02:44:32]   4 matches  BidBanana – Ohio (all)
-[02:44:32]   portals: read 0 of 1 OpenGov/Bonfire agencies
-[02:44:32]   0 matches  OpenGov / Bonfire portals
-[02:44:32] Done: 0 new, 46 total, 5 source errors
+2026-11-28T03:39+00:00 UTC
+[03:38:50]   0 matches  Google News  (0 items read)
+[03:38:50]   0 matches  Google News  (0 items read)
+[03:38:50]   0 matches  Google News  (0 items read)
+[03:38:50]   0 matches  Google News  (0 items read)
+[03:38:51]   0 matches  Google News  (0 items read)
+[03:38:51]   0 matches  Google News  (0 items read)
+[03:38:51]   0 matches  Google News  (0 items read)
+[03:38:51]   0 matches  Google News  (0 items read)
+[03:38:51]   0 matches  Google News  (2 items read)
+[03:38:52]   0 matches  Google News  (1 items read)
+[03:38:52]   0 matches  Google News  (0 items read)
+[03:38:52]   0 matches  Google News  (0 items read)
+[03:38:52]   0 matches  Google News  (0 items read)
+[03:38:53]   0 matches  Google News  (0 items read)
+[03:38:53]   0 matches  Google News  (0 items read)
+[03:38:53]   0 matches  Google News  (0 items read)
+[03:38:53]   0 matches  Google News  (0 items read)
+[03:38:53]   0 matches  Google News  (0 items read)
+[03:38:54]   0 matches  County sweep – Crawford  (0 items read)
+[03:38:54]   0 matches  County sweep – Cuyahoga  (0 items read)
+[03:38:54]   0 matches  County sweep – Darke  (0 items read)
+[03:38:54]   0 matches  County sweep – Defiance  (0 items read)
+[03:38:54]   0 matches  County sweep – Delaware  (2 items read)
+[03:38:55]   0 matches  County sweep – Erie  (0 items read)
+[03:38:55]   0 matches  County sweep – Fairfield  (0 items read)
+[03:38:55]   0 matches  County sweep – Fayette  (0 items read)
+[03:38:56]   1 matches  City of Dayton – Bid Postings  (50 items read)
+[03:38:56]   0 matches  City of Beavercreek – Bid RSS  (50 items read)
+[03:38:57]   0 matches  Beavercreek Township – Bid RSS  (50 items read)
+[03:38:57]   ERR  Reddit search: HTTP Error 404: Not Found
+[03:38:58]   0 matches  Clark County – Bid RSS  (50 items read)
+[03:38:58]   ERR  Dayton Daily News – Legal Notice to Bid: HTTP Error 503: Service Temporarily Unavailable
+[03:38:58]   ERR  Springfield News-Sun – Legal Notice to Bid: HTTP Error 503: Service Temporarily Unavailable
+[03:38:59]   0 matches  Public Notices Ohio (statewide)
+[03:38:59]  17 matches  BidBanana – Ohio fleet vehicles
+[03:38:59]   0 matches  City of Cleveland – Invitations to Bid
+[03:39:00]   0 matches  City of Dayton – Bids page
+[03:39:01]   0 matches  Milan Township
+[03:39:01]   3 matches  York Township (Fulton Co.)
+[03:39:01]   2 matches  Island Creek Township
+[03:39:02]   ERR  West Chester Township: HTTP Error 403: Forbidden
+[03:39:02]   0 matches  Springfield Township (Lucas Co.)
+[03:39:02]   0 matches  Providence Township
+[03:39:03]   0 matches  Painesville Township
+[03:39:04]   0 matches  Claridon Township
+[03:39:06]   0 matches  Stokes Township
+[03:39:07]   0 matches  Prairie Township
+[03:39:09]   0 matches  Jackson Township (Montgomery Co.)
+[03:39:09]   0 matches  Liberty Township (Licking Co.)
+[03:39:10]   0 matches  Toledo Legal News – Notices to Bid
+[03:39:10]   0 matches  The Daily Standard (Celina) – Bid notices
+[03:39:10]   0 matches  Mount Vernon News – Public notices
+[03:39:10]   0 matches  City of Mentor
+[03:39:11]  24 matches  City of Lima – Purchasing
+[03:39:12]   0 matches  City of Beavercreek – Bids
+[03:39:14]   0 matches  Beavercreek Township – Bids
+[03:39:14]   0 matches  Randolph Township (Portage Co.)
+[03:39:15]   2 matches  Jackson Township (Franklin Co.)
+[03:39:15]   0 matches  Huron County Engineer – Bids
+[03:39:15]   0 matches  Jackson County – Bids
+[03:39:15]   7 matches  Allen County Commissioners – Legal notices
+[03:39:16]   0 matches  Franklin County – Bids
+[03:39:16]  34 matches  NoticeRegistry – Ohio truck notices
+[03:39:17]   0 matches  NoticeRegistry – Ohio bid notices
+[03:39:18]   0 matches  Ohio Township Association – For Sale
+[03:39:19]   0 matches  Clark County – Bids
+[03:39:19]   0 matches  Fairfield County – Bids
+[03:39:22]   0 matches  Harrison County Engineer – Bids
+[03:39:23]   0 matches  City of Troy – Bid Express
+[03:39:35]   7 matches  Ohio Turnpike – Bid invitations
+[03:39:35]   ERR  Montgomery County – Bids: HTTP Error 403: Forbidden
+[03:39:36] 156 matches  Cincinnati – Business opportunities
+[03:39:37]   4 matches  BidBanana – Ohio (all)
+[03:39:37]   portals: read 0 of 1 OpenGov/Bonfire agencies
+[03:39:37]   0 matches  OpenGov / Bonfire portals
+[03:39:37] Done: 0 new, 46 total, 5 source errors
